@@ -1,0 +1,97 @@
+svg{
+
+  border: 1px solid black;
+  margin: -10px;
+  padding: -50px;
+  overflow: hidden;
+}
+
+.subunit.SCT { fill: #ddc; }
+.subunit.WLS { fill: #cdd; }
+.subunit.NIR { fill: #cdc;}
+.subunit.ENG { fill: #dcd; }
+.subunit-boundary {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 2,2;
+  stroke-linejoin: round;
+}
+
+.subunit-boundary.IRL {
+  stroke: #aaa;
+}
+
+.points{
+  stroke: green;
+  color: black;
+}
+
+.feature{
+
+  cursor: pointer;
+}
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    margin-bottom: 0;
+    padding: 20px;
+
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less, depending on screen size */
+}
+
+#content{
+  width: 80%; /* Could be more or less, depending on screen size */
+  margin-left: 10%;
+}
+
+/* The Close Button */
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+.close:hover,
+.close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.tooltext{
+
+fill : black;
+font-size: 150%;
+
+}
+
+.tooltip {
+    background:  rgba(255, 195, 97,0.9);
+    width: auto;
+    border-radius: 2px;
+    height: auto;
+    position: absolute;
+    pointer-events:none; /*let mouse events pass through*/
+    opacity: 1;
+    border: 1px solid black;
+    transition: opacity 0.3s;
+    color: black;
+    padding:8px;
+}

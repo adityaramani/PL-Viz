@@ -1,0 +1,177 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2001/02,Premier League,1,"Sun 19 Aug 2001, 16:00 BST",Manchester United,MUN,12,Fulham,FUL,34,3,2,1,1,H,Old Trafford,Manchester,3,67534,Peter Jones,3974
+2001/02,Premier League,3,"Sat 8 Sep 2001, 15:00 BST",Manchester United,MUN,12,Everton,EVE,7,4,1,2,0,H,Old Trafford,Manchester,3,67534,Dermot Gallagher,3954
+2001/02,Premier League,5,"Sat 22 Sep 2001, 15:00 BST",Manchester United,MUN,12,Ipswich Town,IPS,8,4,0,2,0,H,Old Trafford,Manchester,3,67551,Neale Barry,3992
+2001/02,Premier League,8,"Sat 20 Oct 2001, 15:00 BST",Manchester United,MUN,12,Bolton Wanderers,BOL,27,1,2,1,1,A,Old Trafford,Manchester,3,67559,Graham Barber,3675
+2001/02,Premier League,10,"Sat 27 Oct 2001, 12:00 BST",Manchester United,MUN,12,Leeds United,LEE,9,1,1,0,0,D,Old Trafford,Manchester,3,67555,Dermot Gallagher,4013
+2001/02,Premier League,12,"Sat 17 Nov 2001, 15:00 GMT",Manchester United,MUN,12,Leicester City,LEI,26,2,0,1,0,H,Old Trafford,Manchester,3,67651,Andy D'Urso,3926
+2001/02,Premier League,14,"Sat 1 Dec 2001, 12:00 GMT",Manchester United,MUN,12,Chelsea,CHE,4,0,3,0,1,A,Old Trafford,Manchester,3,67544,Alan Wiley,3725
+2001/02,Premier League,15,"Sat 8 Dec 2001, 15:00 GMT",Manchester United,MUN,12,West Ham United,WHU,25,0,1,0,0,A,Old Trafford,Manchester,3,67582,Paul Durkin,3863
+2001/02,Premier League,15,"Wed 12 Dec 2001, 20:00 GMT",Manchester United,MUN,12,Derby County,DER,28,5,0,2,0,H,Old Trafford,Manchester,3,67577,Mark Halsey,4041
+2001/02,Premier League,17,"Sat 22 Dec 2001, 15:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,6,1,3,0,H,Old Trafford,Manchester,3,67638,Steve Dunn,3861
+2001/02,Premier League,20,"Wed 2 Jan 2002, 20:00 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,3,1,1,0,H,Old Trafford,Manchester,3,67646,Peter Jones,3891
+2001/02,Premier League,22,"Sat 19 Jan 2002, 15:00 GMT",Manchester United,MUN,12,Blackburn Rovers,BLB,3,2,1,1,0,H,Old Trafford,Manchester,3,67552,Uriah Rennie,3765
+2001/02,Premier League,22,"Tue 22 Jan 2002, 20:00 GMT",Manchester United,MUN,12,Liverpool,LIV,10,0,1,0,0,A,Old Trafford,Manchester,3,67599,Graham Barber,3871
+2001/02,Premier League,24,"Sat 2 Feb 2002, 15:00 GMT",Manchester United,MUN,12,Sunderland,SUN,29,4,1,4,1,H,Old Trafford,Manchester,3,67587,Rob Styles,3899
+2001/02,Premier League,26,"Sat 23 Feb 2002, 12:00 GMT",Manchester United,MUN,12,Aston Villa,AVL,2,1,0,0,0,H,Old Trafford,Manchester,3,67592,Graham Poll,3822
+2001/02,Premier League,28,"Wed 6 Mar 2002, 20:00 GMT",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,4,0,2,0,H,Old Trafford,Manchester,3,67059,Mike Riley,3898
+2001/02,Premier League,30,"Sat 23 Mar 2002, 15:00 GMT",Manchester United,MUN,12,Middlesbrough,MID,13,0,1,0,1,A,Old Trafford,Manchester,3,67683,Steve Bennett,3896
+2001/02,Premier League,37,"Wed 8 May 2002, 20:00 BST",Manchester United,MUN,12,Arsenal,ARS,1,0,1,0,0,A,Old Trafford,Manchester,3,67580,Paul Durkin,3797
+2001/02,Premier League,38,"Sat 11 May 2002, 15:00 BST",Manchester United,MUN,12,Charlton Athletic,CHA,31,0,0,0,0,D,Old Trafford,Manchester,3,67571,Graham Poll,3736
+2002/03,Premier League,1,"Sat 17 Aug 2002, 15:00 BST",Manchester United,MUN,12,West Bromwich Albion,WBA,36,1,0,0,0,H,Old Trafford,Manchester,3,67645,Steve Bennett,4176
+2002/03,Premier League,4,"Tue 3 Sep 2002, 20:00 BST",Manchester United,MUN,12,Middlesbrough,MID,13,1,0,1,0,H,Old Trafford,Manchester,3,67464,Mike Riley,4174
+2002/03,Premier League,5,"Wed 11 Sep 2002, 20:00 BST",Manchester United,MUN,12,Bolton Wanderers,BOL,27,0,1,0,0,A,Old Trafford,Manchester,3,67623,Graham Barber,4194
+2002/03,Premier League,7,"Sat 21 Sep 2002, 15:00 BST",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,1,0,0,0,H,Old Trafford,Manchester,3,67611,Rob Styles,4173
+2002/03,Premier League,9,"Mon 7 Oct 2002, 20:00 BST",Manchester United,MUN,12,Everton,EVE,7,3,0,0,0,H,Old Trafford,Manchester,3,67629,Mike Riley,4291
+2002/03,Premier League,11,"Sat 26 Oct 2002, 15:00 BST",Manchester United,MUN,12,Aston Villa,AVL,2,1,1,0,1,D,Old Trafford,Manchester,3,67619,Graham Poll,4318
+2002/03,Premier League,12,"Sat 2 Nov 2002, 15:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,2,1,1,1,H,Old Trafford,Manchester,3,67691,Uriah Rennie,4182
+2002/03,Premier League,15,"Sat 23 Nov 2002, 12:15 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,5,3,3,1,H,Old Trafford,Manchester,3,67619,Steve Dunn,4180
+2002/03,Premier League,17,"Sat 7 Dec 2002, 12:15 GMT",Manchester United,MUN,12,Arsenal,ARS,1,2,0,1,0,H,Old Trafford,Manchester,3,67650,Dermot Gallagher,4400
+2002/03,Premier League,18,"Sat 14 Dec 2002, 12:15 GMT",Manchester United,MUN,12,West Ham United,WHU,25,3,0,2,0,H,Old Trafford,Manchester,3,67555,Rob Styles,4179
+2002/03,Premier League,21,"Sat 28 Dec 2002, 15:00 GMT",Manchester United,MUN,12,Birmingham City,BIR,35,2,0,1,0,H,Old Trafford,Manchester,3,67640,Mike Dean,4356
+2002/03,Premier League,22,"Wed 1 Jan 2003, 14:00 GMT",Manchester United,MUN,12,Sunderland,SUN,29,2,1,0,1,H,Old Trafford,Manchester,3,67609,Phil Dowd,4177
+2002/03,Premier League,24,"Sat 18 Jan 2003, 12:30 GMT",Manchester United,MUN,12,Chelsea,CHE,4,2,1,1,1,H,Old Trafford,Manchester,3,67606,Paul Durkin,4276
+2002/03,Premier League,27,"Sun 9 Feb 2003, 12:30 GMT",Manchester United,MUN,12,Manchester City,MCI,11,1,1,1,0,D,Old Trafford,Manchester,3,67646,Alan Wiley,4161
+2002/03,Premier League,29,"Wed 5 Mar 2003, 20:00 GMT",Manchester United,MUN,12,Leeds United,LEE,9,2,1,1,0,H,Old Trafford,Manchester,3,67135,Graham Poll,4151
+2002/03,Premier League,31,"Sat 22 Mar 2003, 12:30 GMT",Manchester United,MUN,12,Fulham,FUL,34,3,0,1,0,H,Old Trafford,Manchester,3,67706,Steve Bennett,4130
+2002/03,Premier League,32,"Sat 5 Apr 2003, 12:30 BST",Manchester United,MUN,12,Liverpool,LIV,10,4,0,1,0,H,Old Trafford,Manchester,3,67639,Mike Riley,4163
+2002/03,Premier League,34,"Sat 19 Apr 2003, 15:00 BST",Manchester United,MUN,12,Blackburn Rovers,BLB,3,3,1,2,1,H,Old Trafford,Manchester,3,67626,Andy D'Urso,4201
+2002/03,Premier League,37,"Sat 3 May 2003, 12:30 BST",Manchester United,MUN,12,Charlton Athletic,CHA,31,4,1,3,1,H,Old Trafford,Manchester,3,67721,Mark Halsey,4252
+2003/04,Premier League,20,"Sun 11 Jan 2004, 00:00 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,0,0,0,0,D,Old Trafford,Manchester,3,67622,Paul Durkin,4611
+2003/04,Premier League,22,"Sat 31 Jan 2004, 15:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,3,2,2,1,H,Old Trafford,Manchester,3,67758,Graham Barber,4483
+2003/04,Premier League,31,"Tue 13 Apr 2004, 00:00 BST",Manchester United,MUN,12,Leicester City,LEI,26,1,0,0,0,H,Old Trafford,Manchester,3,67749,Mark Halsey,4802
+2003/04,Premier League,7,"Sat 4 Oct 2003, 00:00 BST",Manchester United,MUN,12,Birmingham City,BIR,35,3,0,1,0,H,Old Trafford,Manchester,3,67633,Mike Dean,4492
+2003/04,Premier League,9,"Sat 25 Oct 2003, 00:00 BST",Manchester United,MUN,12,Fulham,FUL,34,1,3,1,1,A,Old Trafford,Manchester,3,67727,Mike Riley,4485
+2003/04,Premier League,15,"Sat 13 Dec 2003, 12:30 GMT",Manchester United,MUN,12,Manchester City,MCI,11,3,1,2,0,H,Old Trafford,Manchester,3,67643,Mark Halsey,4695
+2003/04,Premier League,32,"Tue 20 Apr 2004, 00:00 BST",Manchester United,MUN,12,Charlton Athletic,CHA,31,2,0,1,0,H,Old Trafford,Manchester,3,67477,Steve Dunn,4782
+2003/04,Premier League,14,"Sat 6 Dec 2003, 00:00 GMT",Manchester United,MUN,12,Aston Villa,AVL,2,4,0,2,0,H,Old Trafford,Manchester,3,67621,Steve Dunn,4703
+2003/04,Premier League,10,"Sat 1 Nov 2003, 00:00 GMT",Manchester United,MUN,12,Portsmouth,POR,37,3,0,1,0,H,Old Trafford,Manchester,3,67639,Neale Barry,4486
+2003/04,Premier League,28,"Sat 20 Mar 2004, 00:00 GMT",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,3,0,1,0,H,Old Trafford,Manchester,3,67644,Dermot Gallagher,4484
+2003/04,Premier League,25,"Sat 21 Feb 2004, 15:00 GMT",Manchester United,MUN,12,Leeds United,LEE,9,1,1,0,0,D,Old Trafford,Manchester,3,67744,Mark Halsey,4562
+2003/04,Premier League,1,"Sat 16 Aug 2003, 15:00 BST",Manchester United,MUN,12,Bolton Wanderers,BOL,27,4,0,1,0,H,Old Trafford,Manchester,3,67647,Paul Durkin,4758
+2003/04,Premier League,35,"Sat 8 May 2004, 00:00 BST",Manchester United,MUN,12,Chelsea,CHE,4,1,1,0,1,D,Old Trafford,Manchester,3,67609,Steve Bennett,4491
+2003/04,Premier League,17,"Fri 26 Dec 2003, 00:00 GMT",Manchester United,MUN,12,Everton,EVE,7,3,2,2,1,H,Old Trafford,Manchester,3,67642,Mike Dean,4715
+2003/04,Premier League,12,"Sat 22 Nov 2003, 00:00 GMT",Manchester United,MUN,12,Blackburn Rovers,BLB,3,2,1,2,0,H,Old Trafford,Manchester,3,67748,Mark Halsey,4488
+2003/04,Premier League,2,"Wed 27 Aug 2003, 20:00 BST",Manchester United,MUN,12,Wolverhampton Wanderers,WOL,38,1,0,1,0,H,Old Trafford,Manchester,3,67648,Graham Poll,4679
+2003/04,Premier League,33,"Sat 24 Apr 2004, 00:00 BST",Manchester United,MUN,12,Liverpool,LIV,10,0,1,0,0,A,Old Trafford,Manchester,3,67647,Mike Riley,4671
+2003/04,Premier League,24,"Wed 11 Feb 2004, 00:00 GMT",Manchester United,MUN,12,Middlesbrough,MID,13,2,3,1,2,A,Old Trafford,Manchester,3,67346,Paul Durkin,4566
+2004/05,Premier League,2,"Sat 21 Aug 2004, 17:15 BST",Manchester United,MUN,12,Norwich City,NOR,14,2,1,1,0,H,Old Trafford,Manchester,3,67812,Neale Barry,5121
+2004/05,Premier League,4,"Mon 30 Aug 2004, 12:00 BST",Manchester United,MUN,12,Everton,EVE,7,0,0,0,0,D,Old Trafford,Manchester,3,67803,Dermot Gallagher,5109
+2004/05,Premier League,6,"Mon 20 Sep 2004, 20:00 BST",Manchester United,MUN,12,Liverpool,LIV,10,2,1,1,0,H,Old Trafford,Manchester,3,67857,Graham Poll,5162
+2004/05,Premier League,8,"Sun 3 Oct 2004, 15:00 BST",Manchester United,MUN,12,Middlesbrough,MID,13,1,1,0,1,D,Old Trafford,Manchester,3,67988,Rob Styles,5063
+2004/05,Premier League,10,"Sun 24 Oct 2004, 16:05 BST",Manchester United,MUN,12,Arsenal,ARS,1,2,0,0,0,H,Old Trafford,Manchester,3,67862,Mike Riley,5078
+2004/05,Premier League,12,"Sun 7 Nov 2004, 16:05 GMT",Manchester United,MUN,12,Manchester City,MCI,11,0,0,0,0,D,Old Trafford,Manchester,3,67863,Graham Poll,5105
+2004/05,Premier League,14,"Sat 20 Nov 2004, 12:45 GMT",Manchester United,MUN,12,Charlton Athletic,CHA,31,2,0,1,0,H,Old Trafford,Manchester,3,67704,Rob Styles,5021
+2004/05,Premier League,16,"Sat 4 Dec 2004, 15:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,3,0,0,0,H,Old Trafford,Manchester,3,67921,Barry Knight,5043
+2004/05,Premier League,18,"Sat 18 Dec 2004, 17:15 GMT",Manchester United,MUN,12,Crystal Palace,CRY,6,5,2,2,1,H,Old Trafford,Manchester,3,67814,Steve Dunn,4946
+2004/05,Premier League,19,"Sun 26 Dec 2004, 15:00 GMT",Manchester United,MUN,12,Bolton Wanderers,BOL,27,2,0,1,0,H,Old Trafford,Manchester,3,67867,Dermot Gallagher,4933
+2004/05,Premier League,22,"Tue 4 Jan 2005, 20:00 GMT",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,0,0,0,0,D,Old Trafford,Manchester,3,67962,Mark Clattenburg,4977
+2004/05,Premier League,24,"Sat 22 Jan 2005, 15:00 GMT",Manchester United,MUN,12,Aston Villa,AVL,2,3,1,1,0,H,Old Trafford,Manchester,3,67859,Mark Halsey,5001
+2004/05,Premier League,26,"Sat 5 Feb 2005, 15:00 GMT",Manchester United,MUN,12,Birmingham City,BIR,35,2,0,0,0,H,Old Trafford,Manchester,3,67838,Dermot Gallagher,4994
+2004/05,Premier League,28,"Sat 26 Feb 2005, 17:15 GMT",Manchester United,MUN,12,Portsmouth,POR,37,2,1,1,0,H,Old Trafford,Manchester,3,67989,Mark Halsey,4910
+2004/05,Premier League,31,"Sat 19 Mar 2005, 15:00 GMT",Manchester United,MUN,12,Fulham,FUL,34,1,0,1,0,H,Old Trafford,Manchester,3,67959,Andy D'Urso,4809
+2004/05,Premier League,32,"Sat 2 Apr 2005, 15:00 BST",Manchester United,MUN,12,Blackburn Rovers,BLB,3,0,0,0,0,D,Old Trafford,Manchester,3,67939,Mike Riley,4827
+2004/05,Premier League,36,"Sun 24 Apr 2005, 16:05 BST",Manchester United,MUN,12,Newcastle United,NEW,23,2,1,0,1,H,Old Trafford,Manchester,3,67845,Neale Barry,4881
+2004/05,Premier League,38,"Sat 7 May 2005, 17:15 BST",Manchester United,MUN,12,West Bromwich Albion,WBA,36,1,1,1,0,D,Old Trafford,Manchester,3,67827,Mark Halsey,4903
+2004/05,Premier League,38,"Tue 10 May 2005, 20:00 BST",Manchester United,MUN,12,Chelsea,CHE,4,1,3,1,1,A,Old Trafford,Manchester,3,67832,Graham Poll,4890
+2005/06,Premier League,2,"Sat 20 Aug 2005, 12:45 BST",Manchester United,MUN,12,Aston Villa,AVL,2,1,0,0,0,H,Old Trafford,Manchester,3,67934,Phil Dowd,5506
+2005/06,Premier League,5,"Sat 10 Sep 2005, 15:00 BST",Manchester United,MUN,12,Manchester City,MCI,11,1,1,1,0,D,Old Trafford,Manchester,3,67839,Steve Bennett,5518
+2005/06,Premier League,7,"Sat 24 Sep 2005, 15:00 BST",Manchester United,MUN,12,Blackburn Rovers,BLB,3,1,2,0,1,A,Old Trafford,Manchester,3,67765,Phil Dowd,5543
+2005/06,Premier League,10,"Sat 22 Oct 2005, 15:00 BST",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,1,1,1,0,D,Old Trafford,Manchester,3,67856,Uriah Rennie,5548
+2005/06,Premier League,12,"Sun 6 Nov 2005, 16:00 GMT",Manchester United,MUN,12,Chelsea,CHE,4,1,0,1,0,H,Old Trafford,Manchester,3,67864,Graham Poll,5411
+2005/06,Premier League,15,"Sat 3 Dec 2005, 17:15 GMT",Manchester United,MUN,12,Portsmouth,POR,37,3,0,1,0,H,Old Trafford,Manchester,3,67684,Chris Foy,5423
+2005/06,Premier League,16,"Sun 11 Dec 2005, 16:00 GMT",Manchester United,MUN,12,Everton,EVE,7,1,1,1,1,D,Old Trafford,Manchester,3,67831,Rob Styles,5443
+2005/06,Premier League,16,"Wed 14 Dec 2005, 20:00 GMT",Manchester United,MUN,12,Wigan Athletic,WIG,39,4,0,2,0,H,Old Trafford,Manchester,3,67793,Alan Wiley,5452
+2005/06,Premier League,18,"Mon 26 Dec 2005, 15:00 GMT",Manchester United,MUN,12,West Bromwich Albion,WBA,36,3,0,2,0,H,Old Trafford,Manchester,3,67972,Mark Clattenburg,5440
+2005/06,Premier League,20,"Sat 31 Dec 2005, 15:00 GMT",Manchester United,MUN,12,Bolton Wanderers,BOL,27,4,1,2,1,H,Old Trafford,Manchester,3,67861,Steve Bennett,5461
+2005/06,Premier League,23,"Sun 22 Jan 2006, 16:00 GMT",Manchester United,MUN,12,Liverpool,LIV,10,1,0,0,0,H,Old Trafford,Manchester,3,67874,Mike Riley,5301
+2005/06,Premier League,25,"Sat 4 Feb 2006, 17:15 GMT",Manchester United,MUN,12,Fulham,FUL,34,4,2,3,2,H,Old Trafford,Manchester,3,67841,Martin Atkinson,5316
+2005/06,Premier League,29,"Sun 12 Mar 2006, 13:30 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,2,0,2,0,H,Old Trafford,Manchester,3,67858,Rob Styles,5281
+2005/06,Premier League,31,"Sun 26 Mar 2006, 16:00 BST",Manchester United,MUN,12,Birmingham City,BIR,35,3,0,2,0,H,Old Trafford,Manchester,3,69070,Mike Dean,5211
+2005/06,Premier League,31,"Wed 29 Mar 2006, 20:00 BST",Manchester United,MUN,12,West Ham United,WHU,25,1,0,1,0,H,Old Trafford,Manchester,3,69522,Graham Poll,5210
+2005/06,Premier League,33,"Sun 9 Apr 2006, 16:00 BST",Manchester United,MUN,12,Arsenal,ARS,1,2,0,0,0,H,Old Trafford,Manchester,3,70908,Graham Poll,5231
+2005/06,Premier League,34,"Fri 14 Apr 2006, 19:45 BST",Manchester United,MUN,12,Sunderland,SUN,29,0,0,0,0,D,Old Trafford,Manchester,3,72519,Rob Styles,5230
+2005/06,Premier League,37,"Mon 1 May 2006, 20:00 BST",Manchester United,MUN,12,Middlesbrough,MID,13,0,0,0,0,D,Old Trafford,Manchester,3,69531,Chris Foy,5272
+2006/07,Premier League,1,"Sun 20 Aug 2006, 13:30 BST",Manchester United,MUN,12,Fulham,FUL,34,5,1,4,1,H,Old Trafford,Manchester,3,75115,Andre Marriner,5767
+2006/07,Premier League,4,"Sat 9 Sep 2006, 17:15 BST",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,1,0,1,0,H,Old Trafford,Manchester,3,75453,Mike Riley,5777
+2006/07,Premier League,5,"Sun 17 Sep 2006, 16:00 BST",Manchester United,MUN,12,Arsenal,ARS,1,0,1,0,0,A,Old Trafford,Manchester,3,75595,Graham Poll,5758
+2006/07,Premier League,7,"Sun 1 Oct 2006, 15:00 BST",Manchester United,MUN,12,Newcastle United,NEW,23,2,0,1,0,H,Old Trafford,Manchester,3,75664,Mike Dean,5724
+2006/07,Premier League,9,"Sun 22 Oct 2006, 13:00 BST",Manchester United,MUN,12,Liverpool,LIV,10,2,0,1,0,H,Old Trafford,Manchester,3,75828,Graham Poll,5707
+2006/07,Premier League,11,"Sat 4 Nov 2006, 15:00 GMT",Manchester United,MUN,12,Portsmouth,POR,37,3,0,2,0,H,Old Trafford,Manchester,3,76004,Mike Dean,5714
+2006/07,Premier League,14,"Sun 26 Nov 2006, 16:00 GMT",Manchester United,MUN,12,Chelsea,CHE,4,1,1,1,0,D,Old Trafford,Manchester,3,75948,Howard Webb,5620
+2006/07,Premier League,15,"Wed 29 Nov 2006, 20:00 GMT",Manchester United,MUN,12,Everton,EVE,7,3,0,1,0,H,Old Trafford,Manchester,3,75723,Mark Halsey,5611
+2006/07,Premier League,17,"Sat 9 Dec 2006, 12:45 GMT",Manchester United,MUN,12,Manchester City,MCI,11,3,1,2,0,H,Old Trafford,Manchester,3,75858,Graham Poll,5650
+2006/07,Premier League,20,"Tue 26 Dec 2006, 15:00 GMT",Manchester United,MUN,12,Wigan Athletic,WIG,39,3,1,0,0,H,Old Trafford,Manchester,3,76018,Mike Riley,5817
+2006/07,Premier League,21,"Sat 30 Dec 2006, 15:00 GMT",Manchester United,MUN,12,Reading,RDG,40,3,2,1,1,H,Old Trafford,Manchester,3,75910,Mike Dean,5916
+2006/07,Premier League,23,"Sat 13 Jan 2007, 15:00 GMT",Manchester United,MUN,12,Aston Villa,AVL,2,3,1,3,0,H,Old Trafford,Manchester,3,76073,Howard Webb,5840
+2006/07,Premier League,25,"Wed 31 Jan 2007, 20:00 GMT",Manchester United,MUN,12,Watford,WAT,33,4,0,1,0,H,Old Trafford,Manchester,3,76032,Mike Dean,5911
+2006/07,Premier League,27,"Sat 10 Feb 2007, 15:00 GMT",Manchester United,MUN,12,Charlton Athletic,CHA,31,2,0,1,0,H,Old Trafford,Manchester,3,75883,Mike Riley,5887
+2006/07,Premier League,30,"Sat 17 Mar 2007, 12:45 GMT",Manchester United,MUN,12,Bolton Wanderers,BOL,27,4,1,3,0,H,Old Trafford,Manchester,3,76058,Alan Wiley,5859
+2006/07,Premier League,31,"Sat 31 Mar 2007, 15:00 BST",Manchester United,MUN,12,Blackburn Rovers,BLB,3,4,1,0,1,H,Old Trafford,Manchester,3,76004,Chris Foy,5854
+2006/07,Premier League,35,"Tue 17 Apr 2007, 20:00 BST",Manchester United,MUN,12,Sheffield United,SHU,18,2,0,1,0,H,Old Trafford,Manchester,3,75540,Rob Styles,5936
+2006/07,Premier League,36,"Sat 21 Apr 2007, 17:15 BST",Manchester United,MUN,12,Middlesbrough,MID,13,1,1,1,1,D,Old Trafford,Manchester,3,75967,Peter Walton,5578
+2006/07,Premier League,39,"Sun 13 May 2007, 15:00 BST",Manchester United,MUN,12,West Ham United,WHU,25,0,1,0,1,A,Old Trafford,Manchester,3,75927,Martin Atkinson,5594
+2007/08,Premier League,9,"Sat 6 Oct 2007, 12:45 BST",Manchester United,MUN,12,Wigan Athletic,WIG,39,4,0,0,0,H,Old Trafford,Manchester,3,75300,Mike Riley,6018
+2013/14,Premier League,2,"Mon 26 Aug 2013, 20:00 BST",Manchester United,MUN,12,Chelsea,CHE,4,0,0,0,0,D,Old Trafford,Manchester,3,75032,Martin Atkinson,8643
+2013/14,Premier League,4,"Sat 14 Sep 2013, 12:45 BST",Manchester United,MUN,12,Crystal Palace,CRY,6,2,0,1,0,H,Old Trafford,Manchester,3,75170,Jonathan Moss,8951
+2013/14,Premier League,6,"Sat 28 Sep 2013, 15:00 BST",Manchester United,MUN,12,West Bromwich Albion,WBA,36,1,2,0,0,A,Old Trafford,Manchester,3,75042,Michael Oliver,8871
+2013/14,Premier League,8,"Sat 19 Oct 2013, 15:00 BST",Manchester United,MUN,12,Southampton,SOU,20,1,1,1,0,D,Old Trafford,Manchester,3,75220,Mike Jones,8791
+2013/14,Premier League,9,"Sat 26 Oct 2013, 15:00 BST",Manchester United,MUN,12,Stoke City,STK,42,3,2,1,2,H,Old Trafford,Manchester,3,75274,Lee Mason,8831
+2013/14,Premier League,11,"Sun 10 Nov 2013, 16:10 GMT",Manchester United,MUN,12,Arsenal,ARS,1,1,0,1,0,H,Old Trafford,Manchester,3,75138,Michael Oliver,8399
+2013/14,Premier League,14,"Wed 4 Dec 2013, 19:45 GMT",Manchester United,MUN,12,Everton,EVE,7,0,1,0,0,A,Old Trafford,Manchester,3,75210,Martin Atkinson,8383
+2013/14,Premier League,15,"Sat 7 Dec 2013, 12:45 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,0,1,0,0,A,Old Trafford,Manchester,3,75233,Andre Marriner,8263
+2013/14,Premier League,17,"Sat 21 Dec 2013, 15:00 GMT",Manchester United,MUN,12,West Ham United,WHU,25,3,1,2,0,H,Old Trafford,Manchester,3,75350,Mike Jones,8575
+2013/14,Premier League,20,"Wed 1 Jan 2014, 17:30 GMT",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,1,2,0,1,A,Old Trafford,Manchester,3,75265,Howard Webb,8523
+2013/14,Premier League,21,"Sat 11 Jan 2014, 17:30 GMT",Manchester United,MUN,12,Swansea City,SWA,45,2,0,0,0,H,Old Trafford,Manchester,3,75035,Chris Foy,9284
+2013/14,Premier League,23,"Tue 28 Jan 2014, 19:45 GMT",Manchester United,MUN,12,Cardiff City,CAR,46,2,0,1,0,H,Old Trafford,Manchester,3,75301,Craig Pawson,9192
+2013/14,Premier League,25,"Sun 9 Feb 2014, 16:00 GMT",Manchester United,MUN,12,Fulham,FUL,34,2,2,0,1,D,Old Trafford,Manchester,3,74966,Kevin Friend,9108
+2013/14,Premier League,32,"Tue 25 Mar 2014, 19:45 GMT",Manchester United,MUN,12,Manchester City,MCI,11,0,3,0,1,A,Old Trafford,Manchester,3,75203,Michael Oliver,9096
+2013/14,Premier League,33,"Sat 29 Mar 2014, 12:45 GMT",Manchester United,MUN,12,Aston Villa,AVL,2,4,1,2,1,H,Old Trafford,Manchester,3,75368,Martin Atkinson,9480
+2013/14,Premier League,38,"Sat 26 Apr 2014, 17:30 BST",Manchester United,MUN,12,Norwich City,NOR,14,4,0,1,0,H,Old Trafford,Manchester,3,75208,Lee Probert,9568
+2013/14,Premier League,39,"Sat 3 May 2014, 15:00 BST",Manchester United,MUN,12,Sunderland,SUN,29,0,1,0,1,A,Old Trafford,Manchester,3,75347,Howard Webb,9508
+2013/14,Premier League,39,"Tue 6 May 2014, 19:45 BST",Manchester United,MUN,12,Hull City,HUL,41,3,1,1,0,H,Old Trafford,Manchester,3,75341,Craig Pawson,9652
+2014/15,Premier League,1,"Sat 16 Aug 2014, 12:45 BST",Manchester United,MUN,12,Swansea City,SWA,45,1,2,0,1,A,Old Trafford,Manchester,3,75339,Mike Dean,11240
+2014/15,Premier League,4,"Sun 14 Sep 2014, 16:00 BST",Manchester United,MUN,12,Queens Park Rangers,QPR,17,4,0,3,0,H,Old Trafford,Manchester,3,75355,Phil Dowd,10244
+2014/15,Premier League,6,"Sat 27 Sep 2014, 15:00 BST",Manchester United,MUN,12,West Ham United,WHU,25,2,1,2,1,H,Old Trafford,Manchester,3,75317,Lee Mason,10452
+2014/15,Premier League,7,"Sun 5 Oct 2014, 12:00 BST",Manchester United,MUN,12,Everton,EVE,7,2,1,1,0,H,Old Trafford,Manchester,3,75294,Kevin Friend,10416
+2014/15,Premier League,9,"Sun 26 Oct 2014, 16:00 GMT",Manchester United,MUN,12,Chelsea,CHE,4,1,1,0,0,D,Old Trafford,Manchester,3,75327,Phil Dowd,10476
+2014/15,Premier League,11,"Sat 8 Nov 2014, 15:00 GMT",Manchester United,MUN,12,Crystal Palace,CRY,6,1,0,0,0,H,Old Trafford,Manchester,3,75325,Chris Foy,10284
+2014/15,Premier League,13,"Sat 29 Nov 2014, 15:00 GMT",Manchester United,MUN,12,Hull City,HUL,41,3,0,2,0,H,Old Trafford,Manchester,3,75345,Anthony Taylor,9936
+2014/15,Premier League,14,"Tue 2 Dec 2014, 19:45 GMT",Manchester United,MUN,12,Stoke City,STK,42,2,1,1,1,H,Old Trafford,Manchester,3,75388,Jonathan Moss,9808
+2014/15,Premier League,16,"Sun 14 Dec 2014, 13:30 GMT",Manchester United,MUN,12,Liverpool,LIV,10,3,0,2,0,H,Old Trafford,Manchester,3,75331,Martin Atkinson,9884
+2014/15,Premier League,18,"Fri 26 Dec 2014, 15:00 GMT",Manchester United,MUN,12,Newcastle United,NEW,23,3,1,2,0,H,Old Trafford,Manchester,3,75318,Mike Jones,10052
+2014/15,Premier League,21,"Sun 11 Jan 2015, 16:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,0,1,0,0,A,Old Trafford,Manchester,3,75395,Phil Dowd,10104
+2014/15,Premier League,23,"Sat 31 Jan 2015, 15:00 GMT",Manchester United,MUN,12,Leicester City,LEI,26,3,1,3,0,H,Old Trafford,Manchester,3,75329,Martin Atkinson,11000
+2014/15,Premier League,25,"Wed 11 Feb 2015, 19:45 GMT",Manchester United,MUN,12,Burnley,BUR,43,3,1,2,1,H,Old Trafford,Manchester,3,75356,Kevin Friend,11044
+2014/15,Premier League,27,"Sat 28 Feb 2015, 15:00 GMT",Manchester United,MUN,12,Sunderland,SUN,29,2,0,0,0,H,Old Trafford,Manchester,3,75344,Roger East,10848
+2014/15,Premier League,29,"Sun 15 Mar 2015, 16:00 GMT",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,3,0,3,0,H,Old Trafford,Manchester,3,75112,Mark Clattenburg,10928
+2014/15,Premier League,31,"Sat 4 Apr 2015, 15:00 BST",Manchester United,MUN,12,Aston Villa,AVL,2,3,1,1,0,H,Old Trafford,Manchester,3,75397,Roger East,11136
+2014/15,Premier League,32,"Sun 12 Apr 2015, 16:00 BST",Manchester United,MUN,12,Manchester City,MCI,11,4,2,2,1,H,Old Trafford,Manchester,3,75313,Mark Clattenburg,11196
+2014/15,Premier League,35,"Sat 2 May 2015, 17:30 BST",Manchester United,MUN,12,West Bromwich Albion,WBA,36,0,1,0,0,A,Old Trafford,Manchester,3,75454,Anthony Taylor,10640
+2014/15,Premier League,37,"Sun 17 May 2015, 16:00 BST",Manchester United,MUN,12,Arsenal,ARS,1,1,1,1,0,D,Old Trafford,Manchester,3,75323,Mike Dean,10732
+2015/16,Premier League,1,"Sat 8 Aug 2015, 12:45 BST",Manchester United,MUN,12,Tottenham Hotspur,TOT,21,1,0,1,0,H,Old Trafford,Manchester,3,75261,Jonathan Moss,14179
+2015/16,Premier League,3,"Sat 22 Aug 2015, 12:45 BST",Manchester United,MUN,12,Newcastle United,NEW,23,0,0,0,0,D,Old Trafford,Manchester,3,75354,Craig Pawson,14151
+2015/16,Premier League,5,"Sat 12 Sep 2015, 17:30 BST",Manchester United,MUN,12,Liverpool,LIV,10,3,1,0,0,H,Old Trafford,Manchester,3,75347,Michael Oliver,14047
+2015/16,Premier League,7,"Sat 26 Sep 2015, 15:00 BST",Manchester United,MUN,12,Sunderland,SUN,29,3,0,1,0,H,Old Trafford,Manchester,3,75328,Mike Jones,13927
+2015/16,Premier League,10,"Sun 25 Oct 2015, 14:05 GMT",Manchester United,MUN,12,Manchester City,MCI,11,0,0,0,0,D,Old Trafford,Manchester,3,75329,Mark Clattenburg,13875
+2015/16,Premier League,12,"Sat 7 Nov 2015, 15:00 GMT",Manchester United,MUN,12,West Bromwich Albion,WBA,36,2,0,0,0,H,Old Trafford,Manchester,3,75410,Mike Dean,14751
+2015/16,Premier League,15,"Sat 5 Dec 2015, 15:00 GMT",Manchester United,MUN,12,West Ham United,WHU,25,0,0,0,0,D,Old Trafford,Manchester,3,75350,Mark Clattenburg,14523
+2015/16,Premier League,17,"Sat 19 Dec 2015, 15:00 GMT",Manchester United,MUN,12,Norwich City,NOR,14,1,2,0,1,A,Old Trafford,Manchester,3,75320,Michael Oliver,14471
+2015/16,Premier League,19,"Mon 28 Dec 2015, 17:30 GMT",Manchester United,MUN,12,Chelsea,CHE,4,0,0,0,0,D,Old Trafford,Manchester,3,75275,Martin Atkinson,14331
+2015/16,Premier League,20,"Sat 2 Jan 2016, 15:00 GMT",Manchester United,MUN,12,Swansea City,SWA,45,2,1,0,0,H,Old Trafford,Manchester,3,75415,Jonathan Moss,14235
+2015/16,Premier League,23,"Sat 23 Jan 2016, 15:00 GMT",Manchester United,MUN,12,Southampton,SOU,20,0,1,0,0,A,Old Trafford,Manchester,3,75408,Mike Jones,11712
+2015/16,Premier League,24,"Tue 2 Feb 2016, 20:00 GMT",Manchester United,MUN,12,Stoke City,STK,42,3,0,2,0,H,Old Trafford,Manchester,3,75234,Roger East,11676
+2015/16,Premier League,27,"Sun 28 Feb 2016, 14:05 GMT",Manchester United,MUN,12,Arsenal,ARS,1,3,2,2,1,H,Old Trafford,Manchester,3,75329,Craig Pawson,11552
+2015/16,Premier League,28,"Wed 2 Mar 2016, 20:00 GMT",Manchester United,MUN,12,Watford,WAT,33,1,0,0,0,H,Old Trafford,Manchester,3,75272,Mike Jones,11388
+2015/16,Premier League,32,"Sun 3 Apr 2016, 16:00 BST",Manchester United,MUN,12,Everton,EVE,7,1,0,0,0,H,Old Trafford,Manchester,3,75341,Andre Marriner,11836
+2015/16,Premier League,34,"Sat 16 Apr 2016, 15:00 BST",Manchester United,MUN,12,Aston Villa,AVL,2,1,0,1,0,H,Old Trafford,Manchester,3,75411,Kevin Friend,11776
+2015/16,Premier League,34,"Wed 20 Apr 2016, 20:00 BST",Manchester United,MUN,12,Crystal Palace,CRY,6,2,0,1,0,H,Old Trafford,Manchester,3,75277,Lee Mason,11364
+2015/16,Premier League,36,"Sun 1 May 2016, 14:05 BST",Manchester United,MUN,12,Leicester City,LEI,26,1,1,1,1,D,Old Trafford,Manchester,3,75275,Michael Oliver,12380
+2015/16,Premier League,38,"Tue 17 May 2016, 20:00 BST",Manchester United,MUN,12,AFC Bournemouth,BOU,127,3,1,1,0,H,Old Trafford,Manchester,3,74363,Jonathan Moss,12188
+2016/17,Premier League,2,"Fri 19 Aug 2016, 20:00 BST",Manchester United,MUN,12,Southampton,SOU,20,2,0,1,0,H,Old Trafford,Manchester,3,75326,Anthony Taylor,17732
+2016/17,Premier League,4,"Sat 10 Sep 2016, 12:30 BST",Manchester United,MUN,12,Manchester City,MCI,11,1,2,1,2,A,Old Trafford,Manchester,3,75272,Mark Clattenburg,17912
+2016/17,Premier League,6,"Sat 24 Sep 2016, 12:30 BST",Manchester United,MUN,12,Leicester City,LEI,26,4,1,4,0,H,Old Trafford,Manchester,3,75256,Mike Dean,18216
+2016/17,Premier League,7,"Sun 2 Oct 2016, 12:00 BST",Manchester United,MUN,12,Stoke City,STK,42,1,1,0,0,D,Old Trafford,Manchester,3,75251,Robert Madley,18440
+2016/17,Premier League,10,"Sat 29 Oct 2016, 15:00 BST",Manchester United,MUN,12,Burnley,BUR,43,0,0,0,0,D,Old Trafford,Manchester,3,75325,Mark Clattenburg,18742
+2016/17,Premier League,12,"Sat 19 Nov 2016, 12:30 GMT",Manchester United,MUN,12,Arsenal,ARS,1,1,1,0,0,D,Old Trafford,Manchester,3,75264,Andre Marriner,19199
+2016/17,Premier League,13,"Sun 27 Nov 2016, 16:30 GMT",Manchester United,MUN,12,West Ham United,WHU,25,1,1,1,1,D,Old Trafford,Manchester,3,75313,Jonathan Moss,19432

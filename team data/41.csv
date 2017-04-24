@@ -1,0 +1,46 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2013/14,Premier League,2,"Sat 24 Aug 2013, 15:00 BST",Hull City,HUL,41,Norwich City,NOR,14,1,0,1,0,H,KCOM Stadium,Hull,37,23682,Mike Jones,8639
+2013/14,Premier League,4,"Sat 14 Sep 2013, 15:00 BST",Hull City,HUL,41,Cardiff,CAR,46,1,1,1,0,D,KCOM Stadium,Hull,37,21949,Robert Madley,8947
+2013/14,Premier League,6,"Sat 28 Sep 2013, 15:00 BST",Hull City,HUL,41,West Ham United,WHU,25,1,0,1,0,H,KCOM Stadium,Hull,37,24291,Kevin Friend,8867
+2013/14,Premier League,7,"Sat 5 Oct 2013, 15:00 BST",Hull City,HUL,41,Aston Villa,AVL,2,0,0,0,0,D,KCOM Stadium,Hull,37,24396,Mark Clattenburg,8903
+2013/14,Premier League,10,"Sat 2 Nov 2013, 15:00 GMT",Hull City,HUL,41,Sunderland,SUN,29,1,0,1,0,H,KCOM Stadium,Hull,37,24677,Andre Marriner,8747
+2013/14,Premier League,12,"Sat 23 Nov 2013, 15:00 GMT",Hull City,HUL,41,Crystal Palace,CRY,6,0,1,0,0,A,KCOM Stadium,Hull,37,23043,Anthony Taylor,8431
+2013/14,Premier League,13,"Sun 1 Dec 2013, 14:05 GMT",Hull City,HUL,41,Liverpool,LIV,10,3,1,1,1,H,KCOM Stadium,Hull,37,24940,Howard Webb,8311
+2013/14,Premier League,16,"Sat 14 Dec 2013, 17:30 GMT",Hull City,HUL,41,Stoke City,STK,42,0,0,0,0,D,KCOM Stadium,Hull,37,23324,Mike Dean,8299
+2013/14,Premier League,18,"Thu 26 Dec 2013, 12:45 GMT",Hull City,HUL,41,Manchester United,MUN,12,2,3,2,2,A,KCOM Stadium,Hull,37,24826,Michael Oliver,8611
+2013/14,Premier League,19,"Sat 28 Dec 2013, 15:00 GMT",Hull City,HUL,41,Fulham,FUL,34,6,0,0,0,H,KCOM Stadium,Hull,37,23925,Robert Madley,8487
+2013/14,Premier League,21,"Sat 11 Jan 2014, 12:45 GMT",Hull City,HUL,41,Chelsea,CHE,4,0,2,0,0,A,KCOM Stadium,Hull,37,24924,Mark Clattenburg,9280
+2013/14,Premier League,24,"Sat 1 Feb 2014, 15:00 GMT",Hull City,HUL,41,Tottenham Hotspur,TOT,21,1,1,1,0,D,KCOM Stadium,Hull,37,24932,Anthony Taylor,9232
+2013/14,Premier League,26,"Tue 11 Feb 2014, 19:45 GMT",Hull City,HUL,41,Southampton,SOU,20,0,1,0,0,A,KCOM Stadium,Hull,37,23670,Martin Atkinson,9176
+2013/14,Premier League,28,"Sat 1 Mar 2014, 15:00 GMT",Hull City,HUL,41,Newcastle United,NEW,23,1,4,0,2,A,KCOM Stadium,Hull,37,24903,Kevin Friend,9092
+2013/14,Premier League,30,"Sat 15 Mar 2014, 12:45 GMT",Hull City,HUL,41,Manchester City,MCI,11,0,2,0,1,A,KCOM Stadium,Hull,37,24895,Lee Mason,9404
+2013/14,Premier League,31,"Sat 22 Mar 2014, 15:00 GMT",Hull City,HUL,41,West Bromwich Albion,WBA,36,2,0,2,0,H,KCOM Stadium,Hull,37,23486,Chris Foy,9440
+2013/14,Premier League,34,"Sat 5 Apr 2014, 15:00 BST",Hull City,HUL,41,Swansea City,SWA,45,1,0,1,0,H,KCOM Stadium,Hull,37,22744,Howard Webb,9620
+2013/14,Premier League,37,"Sun 20 Apr 2014, 14:05 BST",Hull City,HUL,41,Arsenal,ARS,1,0,3,0,2,A,KCOM Stadium,Hull,37,24762,Jonathan Moss,9532
+2013/14,Premier League,40,"Sun 11 May 2014, 15:00 BST",Hull City,HUL,41,Everton,EVE,7,0,2,0,1,A,KCOM Stadium,Hull,37,24848,Howard Webb,9728
+2014/15,Premier League,2,"Sun 24 Aug 2014, 13:30 BST",Hull City,HUL,41,Stoke City,STK,42,1,1,1,0,D,KCOM Stadium,Hull,37,24348,Jonathan Moss,10564
+2014/15,Premier League,4,"Mon 15 Sep 2014, 20:00 BST",Hull City,HUL,41,West Ham United,WHU,25,2,2,1,0,D,KCOM Stadium,Hull,37,21275,Martin Atkinson,10252
+2014/15,Premier League,6,"Sat 27 Sep 2014, 15:00 BST",Hull City,HUL,41,Manchester City,MCI,11,2,4,2,2,A,KCOM Stadium,Hull,37,22859,Anthony Taylor,10460
+2014/15,Premier League,7,"Sat 4 Oct 2014, 15:00 BST",Hull City,HUL,41,Crystal Palace,CRY,6,2,0,0,0,H,KCOM Stadium,Hull,37,24281,Mike Dean,10388
+2014/15,Premier League,10,"Sat 1 Nov 2014, 15:00 GMT",Hull City,HUL,41,Southampton,SOU,20,0,1,0,1,A,KCOM Stadium,Hull,37,22828,Martin Atkinson,10308
+2014/15,Premier League,12,"Sun 23 Nov 2014, 16:00 GMT",Hull City,HUL,41,Tottenham Hotspur,TOT,21,1,2,1,0,A,KCOM Stadium,Hull,37,23561,Craig Pawson,10356
+2014/15,Premier League,15,"Sat 6 Dec 2014, 15:00 GMT",Hull City,HUL,41,West Bromwich Albion,WBA,36,0,0,0,0,D,KCOM Stadium,Hull,37,23279,Michael Oliver,9780
+2014/15,Premier League,17,"Sat 20 Dec 2014, 15:00 GMT",Hull City,HUL,41,Swansea City,SWA,45,0,1,0,1,A,KCOM Stadium,Hull,37,21913,Mark Clattenburg,9828
+2014/15,Premier League,19,"Sun 28 Dec 2014, 15:00 GMT",Hull City,HUL,41,Leicester City,LEI,26,0,1,0,1,A,KCOM Stadium,Hull,37,23809,Phil Dowd,9996
+2014/15,Premier League,20,"Thu 1 Jan 2015, 15:00 GMT",Hull City,HUL,41,Everton,EVE,7,2,0,2,0,H,KCOM Stadium,Hull,37,23865,Kevin Friend,10120
+2014/15,Premier League,23,"Sat 31 Jan 2015, 12:45 GMT",Hull City,HUL,41,Newcastle United,NEW,23,0,3,0,1,A,KCOM Stadium,Hull,37,23925,Phil Dowd,11008
+2014/15,Premier League,25,"Tue 10 Feb 2015, 19:45 GMT",Hull City,HUL,41,Aston Villa,AVL,2,2,0,1,0,H,KCOM Stadium,Hull,37,21467,Michael Oliver,11052
+2014/15,Premier League,26,"Sat 21 Feb 2015, 15:00 GMT",Hull City,HUL,41,Queens Park Rangers,QPR,17,2,1,1,1,H,KCOM Stadium,Hull,37,24466,Anthony Taylor,10884
+2014/15,Premier League,28,"Tue 3 Mar 2015, 19:45 GMT",Hull City,HUL,41,Sunderland,SUN,29,1,1,1,0,D,KCOM Stadium,Hull,37,23017,Mike Dean,10944
+2014/15,Premier League,30,"Sun 22 Mar 2015, 16:00 GMT",Hull City,HUL,41,Chelsea,CHE,4,2,3,2,2,A,KCOM Stadium,Hull,37,24598,Michael Oliver,11152
+2014/15,Premier League,34,"Tue 28 Apr 2015, 19:45 BST",Hull City,HUL,41,Liverpool,LIV,10,1,0,1,0,H,KCOM Stadium,Hull,37,24843,Lee Probert,10800
+2014/15,Premier League,35,"Mon 4 May 2015, 20:00 BST",Hull City,HUL,41,Arsenal,ARS,1,1,3,0,3,A,KCOM Stadium,Hull,37,23628,Lee Mason,10652
+2014/15,Premier League,36,"Sat 9 May 2015, 15:00 BST",Hull City,HUL,41,Burnley,BUR,43,0,1,0,0,A,KCOM Stadium,Hull,37,24877,Martin Atkinson,10760
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Hull City,HUL,41,Manchester United,MUN,12,0,0,0,0,D,KCOM Stadium,Hull,37,24745,Lee Probert,10604
+2016/17,Premier League,1,"Sat 13 Aug 2016, 12:30 BST",Hull City,HUL,41,Leicester City,LEI,26,2,1,1,0,H,KCOM Stadium,Hull,37,21037,Mike Dean,17692
+2016/17,Premier League,3,"Sat 27 Aug 2016, 17:30 BST",Hull City,HUL,41,Manchester United,MUN,12,0,1,0,0,A,KCOM Stadium,Hull,37,24560,Jonathan Moss,17900
+2016/17,Premier League,5,"Sat 17 Sep 2016, 15:00 BST",Hull City,HUL,41,Arsenal,ARS,1,1,4,0,1,A,KCOM Stadium,Hull,37,22536,Roger East,18120
+2016/17,Premier League,7,"Sat 1 Oct 2016, 15:00 BST",Hull City,HUL,41,Chelsea,CHE,4,0,2,0,0,A,KCOM Stadium,Hull,37,21257,Anthony Taylor,18436
+2016/17,Premier League,9,"Sat 22 Oct 2016, 15:00 BST",Hull City,HUL,41,Stoke City,STK,42,0,2,0,1,A,KCOM Stadium,Hull,37,18522,Kevin Friend,18660
+2016/17,Premier League,11,"Sun 6 Nov 2016, 14:15 GMT",Hull City,HUL,41,Southampton,SOU,20,2,1,0,1,H,KCOM Stadium,Hull,37,17768,Graham Scott,19079
+2016/17,Premier League,13,"Sat 26 Nov 2016, 15:00 GMT",Hull City,HUL,41,West Bromwich Albion,WBA,36,1,1,0,1,D,KCOM Stadium,Hull,37,18086,Paul Tierney,19412

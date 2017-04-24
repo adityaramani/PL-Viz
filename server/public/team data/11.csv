@@ -1,0 +1,159 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2002/03,Premier League,2,"Sat 24 Aug 2002, 12:15 BST",Manchester City,MCI,11,Newcastle United,NEW,23,1,0,1,0,H,Maine Road,Manchester,305,34776,Uriah Rennie,4170
+2002/03,Premier League,4,"Sat 31 Aug 2002, 15:00 BST",Manchester City,MCI,11,Everton,EVE,7,3,1,2,1,H,Maine Road,Manchester,305,34835,Barry Knight,4285
+2002/03,Premier League,6,"Sun 15 Sep 2002, 14:00 BST",Manchester City,MCI,11,Blackburn Rovers,BLB,3,2,2,0,1,D,Maine Road,Manchester,305,34130,Mike Dean,4378
+2002/03,Premier League,8,"Sat 28 Sep 2002, 15:00 BST",Manchester City,MCI,11,Liverpool,LIV,10,0,3,0,1,A,Maine Road,Manchester,305,35131,Paul Durkin,4143
+2002/03,Premier League,10,"Sat 19 Oct 2002, 15:00 BST",Manchester City,MCI,11,Chelsea,CHE,4,0,3,0,0,A,Maine Road,Manchester,305,34953,Dermot Gallagher,4275
+2002/03,Premier League,13,"Sat 9 Nov 2002, 12:15 GMT",Manchester City,MCI,11,Manchester United,MUN,12,3,1,2,1,H,Maine Road,Manchester,305,34649,Paul Durkin,4166
+2002/03,Premier League,14,"Sat 16 Nov 2002, 15:00 GMT",Manchester City,MCI,11,Charlton Athletic,CHA,31,0,1,0,0,A,Maine Road,Manchester,305,33455,Graham Barber,4226
+2002/03,Premier League,16,"Sat 30 Nov 2002, 15:00 GMT",Manchester City,MCI,11,Bolton Wanderers,BOL,27,2,0,1,0,H,Maine Road,Manchester,305,34860,Jeff Winter,4215
+2002/03,Premier League,19,"Mon 23 Dec 2002, 20:00 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,2,3,1,1,A,Maine Road,Manchester,305,34563,Jeff Winter,4154
+2002/03,Premier League,20,"Thu 26 Dec 2002, 15:00 GMT",Manchester City,MCI,11,Aston Villa,AVL,2,3,1,1,1,H,Maine Road,Manchester,305,33991,Mark Halsey,4310
+2002/03,Premier League,23,"Sat 11 Jan 2003, 15:00 GMT",Manchester City,MCI,11,Leeds United,LEE,9,2,1,1,0,H,Maine Road,Manchester,305,34884,Rob Styles,4115
+2002/03,Premier League,25,"Wed 29 Jan 2003, 19:45 GMT",Manchester City,MCI,11,Fulham,FUL,34,4,1,1,1,H,Maine Road,Manchester,305,33260,Steve Bennett,4095
+2002/03,Premier League,26,"Sat 1 Feb 2003, 15:00 GMT",Manchester City,MCI,11,West Bromwich Albion,WBA,36,1,2,1,1,A,Maine Road,Manchester,305,34765,Neale Barry,4162
+2002/03,Premier League,28,"Sat 22 Feb 2003, 15:00 GMT",Manchester City,MCI,11,Arsenal,ARS,1,1,5,0,4,A,Maine Road,Manchester,305,34960,Paul Durkin,4420
+2002/03,Premier League,30,"Sun 16 Mar 2003, 14:00 GMT",Manchester City,MCI,11,Birmingham City,BIR,35,1,0,0,0,H,Maine Road,Manchester,305,34596,Matt Messias,4350
+2002/03,Premier League,33,"Sat 12 Apr 2003, 15:00 BST",Manchester City,MCI,11,Middlesbrough,MID,13,0,0,0,0,D,Maine Road,Manchester,305,34793,Andy D'Urso,4160
+2002/03,Premier League,35,"Mon 21 Apr 2003, 15:00 BST",Manchester City,MCI,11,Sunderland,SUN,29,3,0,2,0,H,Maine Road,Manchester,305,34357,Graham Barber,4158
+2002/03,Premier League,36,"Sun 27 Apr 2003, 14:00 BST",Manchester City,MCI,11,West Ham United,WHU,25,0,1,0,0,A,Maine Road,Manchester,305,34815,Rob Styles,4157
+2002/03,Premier League,38,"Sun 11 May 2003, 15:00 BST",Manchester City,MCI,11,Southampton,SOU,20,0,1,0,1,A,Maine Road,Manchester,305,34957,Mike Dean,4156
+2003/04,Premier League,8,"Sat 18 Oct 2003, 15:00 BST",Manchester City,MCI,11,Bolton Wanderers,BOL,27,6,2,1,1,H,Etihad Stadium,Manchester,305,47101,Steve Bennett,4595
+2003/04,Premier League,32,"Sat 17 Apr 2004, 15:00 BST",Manchester City,MCI,11,Southampton,SOU,20,1,3,0,1,A,Maine Road,Manchester,305,47152,Graham Barber,4789
+2003/04,Premier League,23,"Sun 8 Feb 2004, 15:00 GMT",Manchester City,MCI,11,Birmingham City,BIR,35,0,0,0,0,D,Etihad Stadium,Manchester,305,46967,Paul Durkin,4739
+2003/04,Premier League,21,"Sat 17 Jan 2004, 15:00 GMT",Manchester City,MCI,11,Blackburn Rovers,BLB,3,1,1,0,0,D,Etihad Stadium,Manchester,305,47090,Mike Dean,4637
+2003/04,Premier League,3,"Sun 31 Aug 2003, 16:05 BST",Manchester City,MCI,11,Arsenal,ARS,1,1,2,1,0,A,Etihad Stadium,Manchester,305,46436,Graham Poll,4676
+2003/04,Premier League,26,"Sat 28 Feb 2004, 15:00 GMT",Manchester City,MCI,11,Chelsea,CHE,4,0,1,0,0,A,Etihad Stadium,Manchester,305,47304,Rob Styles,4592
+2003/04,Premier League,19,"Wed 7 Jan 2004, 19:45 GMT",Manchester City,MCI,11,Charlton Athletic,CHA,31,1,1,1,0,D,Etihad Stadium,Manchester,305,44307,Peter Walton,4576
+2003/04,Premier League,11,"Sun 9 Nov 2003, 15:00 GMT",Manchester City,MCI,11,Leicester City,LEI,26,0,3,0,1,A,Etihad Stadium,Manchester,305,46966,Mike Riley,4649
+2003/04,Premier League,34,"Sat 1 May 2004, 15:00 BST",Manchester City,MCI,11,Newcastle United,NEW,23,1,0,0,0,H,Etihad Stadium,Manchester,305,47266,Mark Halsey,4527
+2003/04,Premier League,36,"Sat 15 May 2004, 15:00 BST",Manchester City,MCI,11,Everton,EVE,7,5,1,3,0,H,Etihad Stadium,Manchester,305,47152,Steve Dunn,4437
+2003/04,Premier League,2,"Sat 23 Aug 2003, 15:00 BST",Manchester City,MCI,11,Portsmouth,POR,37,1,1,0,1,D,Etihad Stadium,Manchester,305,46287,Matt Messias,4654
+2003/04,Premier League,6,"Sun 28 Sep 2003, 16:05 BST",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,0,0,0,0,D,Etihad Stadium,Manchester,305,46842,Neale Barry,4630
+2003/04,Premier League,16,"Mon 22 Dec 2003, 15:00 GMT",Manchester City,MCI,11,Leeds United,LEE,9,1,1,0,1,D,Etihad Stadium,Manchester,305,47126,Graham Barber,4728
+2003/04,Premier League,4,"Sun 14 Sep 2003, 15:00 BST",Manchester City,MCI,11,Aston Villa,AVL,2,4,1,0,1,H,Etihad Stadium,Manchester,305,46687,Mark Halsey,4448
+2003/04,Premier League,31,"Sat 10 Apr 2004, 15:00 BST",Manchester City,MCI,11,Wolverhampton Wanderers,WOL,38,3,3,2,2,D,Etihad Stadium,Manchester,305,47248,Jeff Winter,4770
+2003/04,Premier League,13,"Sun 30 Nov 2003, 15:00 GMT",Manchester City,MCI,11,Middlesbrough,MID,13,0,1,0,1,A,Etihad Stadium,Manchester,305,46824,Mike Riley,4504
+2003/04,Premier League,27,"Sun 14 Mar 2004, 15:00 GMT",Manchester City,MCI,11,Manchester United,MUN,12,4,1,2,1,H,Etihad Stadium,Manchester,305,47284,Steve Bennett,4476
+2003/04,Premier League,18,"Sun 28 Dec 2003, 15:00 GMT",Manchester City,MCI,11,Liverpool,LIV,10,2,2,1,0,D,Etihad Stadium,Manchester,305,47201,Mike Riley,4747
+2003/04,Premier League,29,"Sat 27 Mar 2004, 15:00 GMT",Manchester City,MCI,11,Fulham,FUL,34,0,0,0,0,D,Etihad Stadium,Manchester,305,46522,Jeff Winter,4642
+2004/05,Premier League,1,"Sat 14 Aug 2004, 15:00 BST",Manchester City,MCI,11,Fulham,FUL,34,1,1,1,0,D,Etihad Stadium,Manchester,305,44026,Matt Messias,5167
+2004/05,Premier League,4,"Sat 28 Aug 2004, 15:00 BST",Manchester City,MCI,11,Charlton Athletic,CHA,31,4,0,2,0,H,Etihad Stadium,Manchester,305,43593,Mark Halsey,5113
+2004/05,Premier League,5,"Sat 11 Sep 2004, 15:00 BST",Manchester City,MCI,11,Everton,EVE,7,0,1,0,0,A,Etihad Stadium,Manchester,305,47006,Steve Bennett,5131
+2004/05,Premier League,7,"Sat 25 Sep 2004, 15:00 BST",Manchester City,MCI,11,Arsenal,ARS,1,0,1,0,1,A,Etihad Stadium,Manchester,305,47015,Neale Barry,5166
+2004/05,Premier League,9,"Sat 16 Oct 2004, 17:15 BST",Manchester City,MCI,11,Chelsea,CHE,4,1,0,1,0,H,Etihad Stadium,Manchester,305,45047,Howard Webb,5055
+2004/05,Premier League,11,"Mon 1 Nov 2004, 20:00 GMT",Manchester City,MCI,11,Norwich City,NOR,14,1,1,1,0,D,Etihad Stadium,Manchester,305,42803,Steve Bennett,5076
+2004/05,Premier League,13,"Sat 13 Nov 2004, 15:00 GMT",Manchester City,MCI,11,Blackburn Rovers,BLB,3,1,1,1,0,D,Etihad Stadium,Manchester,305,45504,Mark Clattenburg,5090
+2004/05,Premier League,15,"Sat 27 Nov 2004, 17:15 GMT",Manchester City,MCI,11,Aston Villa,AVL,2,2,0,2,0,H,Etihad Stadium,Manchester,305,45805,Mike Riley,5024
+2004/05,Premier League,17,"Sat 11 Dec 2004, 15:00 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,0,1,0,0,A,Etihad Stadium,Manchester,305,45805,Dermot Gallagher,5045
+2004/05,Premier League,20,"Tue 28 Dec 2004, 15:00 GMT",Manchester City,MCI,11,West Bromwich Albion,WBA,36,1,1,1,0,D,Etihad Stadium,Manchester,305,47177,Andy D'Urso,4965
+2004/05,Premier League,21,"Sat 1 Jan 2005, 15:00 GMT",Manchester City,MCI,11,Southampton,SOU,20,2,1,2,0,H,Etihad Stadium,Manchester,305,42895,Chris Foy,4958
+2004/05,Premier League,23,"Sat 15 Jan 2005, 15:00 GMT",Manchester City,MCI,11,Crystal Palace,CRY,6,3,1,2,1,H,Etihad Stadium,Manchester,305,44010,Andre Marriner,4970
+2004/05,Premier League,25,"Wed 2 Feb 2005, 19:45 GMT",Manchester City,MCI,11,Newcastle United,NEW,23,1,1,0,1,D,Etihad Stadium,Manchester,305,45752,Andy D'Urso,4990
+2004/05,Premier League,27,"Sun 13 Feb 2005, 13:00 GMT",Manchester City,MCI,11,Manchester United,MUN,12,0,2,0,0,A,Etihad Stadium,Manchester,305,47111,Steve Bennett,4914
+2004/05,Premier League,29,"Mon 7 Mar 2005, 20:00 GMT",Manchester City,MCI,11,Bolton Wanderers,BOL,27,0,1,0,1,A,Etihad Stadium,Manchester,305,43050,Alan Wiley,4814
+2004/05,Premier League,33,"Sat 9 Apr 2005, 15:00 BST",Manchester City,MCI,11,Liverpool,LIV,10,1,0,0,0,H,Etihad Stadium,Manchester,305,47203,Mike Riley,4830
+2004/05,Premier League,35,"Wed 20 Apr 2005, 19:45 BST",Manchester City,MCI,11,Birmingham City,BIR,35,3,0,0,0,H,Etihad Stadium,Manchester,305,42453,Martin Atkinson,4854
+2004/05,Premier League,37,"Sat 30 Apr 2005, 15:00 BST",Manchester City,MCI,11,Portsmouth,POR,37,2,0,2,0,H,Etihad Stadium,Manchester,305,46454,Andre Marriner,4876
+2004/05,Premier League,39,"Sun 15 May 2005, 15:00 BST",Manchester City,MCI,11,Middlesbrough,MID,13,1,1,0,1,D,Etihad Stadium,Manchester,305,47221,Rob Styles,4896
+2005/06,Premier League,1,"Sat 13 Aug 2005, 15:00 BST",Manchester City,MCI,11,West Bromwich Albion,WBA,36,0,0,0,0,D,Etihad Stadium,Manchester,305,42983,Chris Foy,5480
+2005/06,Premier League,4,"Sat 27 Aug 2005, 15:00 BST",Manchester City,MCI,11,Portsmouth,POR,37,2,1,0,0,H,Etihad Stadium,Manchester,305,41022,Alan Wiley,5488
+2005/06,Premier League,6,"Sun 18 Sep 2005, 16:00 BST",Manchester City,MCI,11,Bolton Wanderers,BOL,27,0,1,0,0,A,Etihad Stadium,Manchester,305,43137,Mike Dean,5539
+2005/06,Premier League,8,"Sun 2 Oct 2005, 11:15 BST",Manchester City,MCI,11,Everton,EVE,7,2,0,0,0,H,Etihad Stadium,Manchester,305,42681,Mark Halsey,5561
+2005/06,Premier League,9,"Sun 16 Oct 2005, 16:00 BST",Manchester City,MCI,11,West Ham United,WHU,25,2,1,1,0,H,Etihad Stadium,Manchester,305,43647,Mark Clattenburg,5562
+2005/06,Premier League,11,"Mon 31 Oct 2005, 20:00 GMT",Manchester City,MCI,11,Aston Villa,AVL,2,3,1,2,0,H,Etihad Stadium,Manchester,305,42069,Dermot Gallagher,5380
+2005/06,Premier League,13,"Sat 19 Nov 2005, 15:00 GMT",Manchester City,MCI,11,Blackburn Rovers,BLB,3,0,0,0,0,D,Etihad Stadium,Manchester,305,44032,Martin Atkinson,5407
+2005/06,Premier League,14,"Sat 26 Nov 2005, 15:00 GMT",Manchester City,MCI,11,Liverpool,LIV,10,0,1,0,0,A,Etihad Stadium,Manchester,305,47105,Alan Wiley,5399
+2005/06,Premier League,17,"Sat 17 Dec 2005, 17:15 GMT",Manchester City,MCI,11,Birmingham City,BIR,35,4,1,3,0,H,Etihad Stadium,Manchester,305,41343,Steve Bennett,5446
+2005/06,Premier League,19,"Wed 28 Dec 2005, 19:45 GMT",Manchester City,MCI,11,Chelsea,CHE,4,0,1,0,0,A,Etihad Stadium,Manchester,305,46587,Uriah Rennie,5471
+2005/06,Premier League,21,"Wed 4 Jan 2006, 20:00 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,0,2,0,1,A,Etihad Stadium,Manchester,305,40808,Alan Wiley,5290
+2005/06,Premier League,22,"Sat 14 Jan 2006, 12:45 GMT",Manchester City,MCI,11,Manchester United,MUN,12,3,1,2,0,H,Etihad Stadium,Manchester,305,47192,Steve Bennett,5304
+2005/06,Premier League,24,"Wed 1 Feb 2006, 19:45 GMT",Manchester City,MCI,11,Newcastle United,NEW,23,3,0,2,0,H,Etihad Stadium,Manchester,305,42413,Chris Foy,5332
+2005/06,Premier League,26,"Sun 12 Feb 2006, 16:00 GMT",Manchester City,MCI,11,Charlton Athletic,CHA,31,3,2,1,0,H,Etihad Stadium,Manchester,305,41347,Mike Dean,5345
+2005/06,Premier League,28,"Sun 5 Mar 2006, 13:30 GMT",Manchester City,MCI,11,Sunderland,SUN,29,2,1,2,1,H,Etihad Stadium,Manchester,305,42200,Chris Foy,5361
+2005/06,Premier League,30,"Sat 18 Mar 2006, 15:00 GMT",Manchester City,MCI,11,Wigan Athletic,WIG,39,0,1,0,0,A,Etihad Stadium,Manchester,305,42444,Martin Atkinson,5277
+2005/06,Premier League,32,"Sun 2 Apr 2006, 15:00 BST",Manchester City,MCI,11,Middlesbrough,MID,13,0,1,0,1,A,Etihad Stadium,Manchester,305,40256,Mike Riley,5201
+2005/06,Premier League,37,"Sat 29 Apr 2006, 15:00 BST",Manchester City,MCI,11,Fulham,FUL,34,1,2,0,0,A,Etihad Stadium,Manchester,305,41128,Peter Walton,5241
+2005/06,Premier League,37,"Thu 4 May 2006, 19:45 BST",Manchester City,MCI,11,Arsenal,ARS,1,1,3,1,1,A,Etihad Stadium,Manchester,305,41875,Graham Poll,5267
+2006/07,Premier League,2,"Wed 23 Aug 2006, 19:45 BST",Manchester City,MCI,11,Portsmouth,POR,37,0,0,0,0,D,Etihad Stadium,Manchester,305,37214,Dermot Gallagher,5771
+2006/07,Premier League,3,"Sat 26 Aug 2006, 17:15 BST",Manchester City,MCI,11,Arsenal,ARS,1,1,0,1,0,H,Etihad Stadium,Manchester,305,40699,Uriah Rennie,5791
+2006/07,Premier League,6,"Sat 23 Sep 2006, 15:00 BST",Manchester City,MCI,11,West Ham United,WHU,25,2,0,0,0,H,Etihad Stadium,Manchester,305,41073,Chris Foy,5741
+2006/07,Premier League,8,"Sat 14 Oct 2006, 15:00 BST",Manchester City,MCI,11,Sheff Utd,SHU,18,0,0,0,0,D,Etihad Stadium,Manchester,305,42192,Mike Dean,5730
+2006/07,Premier League,10,"Mon 30 Oct 2006, 20:00 GMT",Manchester City,MCI,11,Middlesbrough,MID,13,1,0,1,0,H,Etihad Stadium,Manchester,305,36720,Howard Webb,5693
+2006/07,Premier League,12,"Sat 11 Nov 2006, 12:45 GMT",Manchester City,MCI,11,Newcastle United,NEW,23,0,0,0,0,D,Etihad Stadium,Manchester,305,40571,Graham Poll,5673
+2006/07,Premier League,13,"Sat 18 Nov 2006, 12:45 GMT",Manchester City,MCI,11,Fulham,FUL,34,3,1,3,0,H,Etihad Stadium,Manchester,305,35776,Alan Wiley,5686
+2006/07,Premier League,16,"Mon 4 Dec 2006, 20:00 GMT",Manchester City,MCI,11,Watford,WAT,33,0,0,0,0,D,Etihad Stadium,Manchester,305,35915,Mark Clattenburg,5677
+2006/07,Premier League,18,"Sun 17 Dec 2006, 15:00 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,1,2,0,2,A,Etihad Stadium,Manchester,305,39285,Rob Styles,5643
+2006/07,Premier League,19,"Sat 23 Dec 2006, 15:00 GMT",Manchester City,MCI,11,Bolton Wanderers,BOL,27,0,2,0,2,A,Etihad Stadium,Manchester,305,40157,Mike Riley,5833
+2006/07,Premier League,22,"Mon 1 Jan 2007, 15:00 GMT",Manchester City,MCI,11,Everton,EVE,7,2,1,0,0,H,Etihad Stadium,Manchester,305,39836,Uriah Rennie,5637
+2006/07,Premier League,24,"Sat 20 Jan 2007, 17:15 GMT",Manchester City,MCI,11,Blackburn Rovers,BLB,3,0,3,0,1,A,Etihad Stadium,Manchester,305,36950,Phil Dowd,5829
+2006/07,Premier League,26,"Sat 3 Feb 2007, 15:00 GMT",Manchester City,MCI,11,Reading,RDG,40,0,2,0,0,A,Etihad Stadium,Manchester,305,38676,Howard Webb,5904
+2006/07,Premier League,29,"Sat 3 Mar 2007, 15:00 GMT",Manchester City,MCI,11,Wigan Athletic,WIG,39,0,1,0,1,A,Etihad Stadium,Manchester,305,39923,Howard Webb,5869
+2006/07,Premier League,29,"Wed 14 Mar 2007, 20:00 GMT",Manchester City,MCI,11,Chelsea,CHE,4,0,1,0,1,A,Etihad Stadium,Manchester,305,39429,Alan Wiley,5877
+2006/07,Premier League,32,"Fri 6 Apr 2007, 17:15 BST",Manchester City,MCI,11,Charlton Athletic,CHA,31,0,0,0,0,D,Etihad Stadium,Manchester,305,41424,Alan Wiley,5946
+2006/07,Premier League,34,"Sat 14 Apr 2007, 15:00 BST",Manchester City,MCI,11,Liverpool,LIV,10,0,0,0,0,D,Etihad Stadium,Manchester,305,45883,Uriah Rennie,5919
+2006/07,Premier League,37,"Sat 28 Apr 2007, 15:00 BST",Manchester City,MCI,11,Aston Villa,AVL,2,0,2,0,1,A,Etihad Stadium,Manchester,305,40799,Mark Halsey,5570
+2006/07,Premier League,38,"Sat 5 May 2007, 12:45 BST",Manchester City,MCI,11,Manchester United,MUN,12,0,1,0,1,A,Etihad Stadium,Manchester,305,47244,Rob Styles,5600
+2013/14,Premier League,1,"Mon 19 Aug 2013, 20:00 BST",Manchester City,MCI,11,Newcastle United,NEW,23,4,0,2,0,H,Etihad Stadium,Manchester,305,46842,Andre Marriner,8727
+2013/14,Premier League,3,"Sat 31 Aug 2013, 12:45 BST",Manchester City,MCI,11,Hull City,HUL,41,2,0,0,0,H,Etihad Stadium,Manchester,305,46903,Phil Dowd,8683
+2013/14,Premier League,5,"Sun 22 Sep 2013, 16:00 BST",Manchester City,MCI,11,Manchester United,MUN,12,4,1,2,0,H,Etihad Stadium,Manchester,305,47156,Howard Webb,8996
+2013/14,Premier League,7,"Sat 5 Oct 2013, 12:45 BST",Manchester City,MCI,11,Everton,EVE,7,3,1,2,1,H,Etihad Stadium,Manchester,305,47267,Jonathan Moss,8911
+2013/14,Premier League,10,"Sat 2 Nov 2013, 15:00 GMT",Manchester City,MCI,11,Norwich City,NOR,14,7,0,4,0,H,Etihad Stadium,Manchester,305,47066,Phil Dowd,8751
+2013/14,Premier League,12,"Sun 24 Nov 2013, 13:30 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,6,0,3,0,H,Etihad Stadium,Manchester,305,47228,Howard Webb,8435
+2013/14,Premier League,13,"Sun 1 Dec 2013, 16:10 GMT",Manchester City,MCI,11,Swansea City,SWA,45,3,0,1,0,H,Etihad Stadium,Manchester,305,46559,Mark Clattenburg,8315
+2013/14,Premier League,16,"Sat 14 Dec 2013, 12:45 GMT",Manchester City,MCI,11,Arsenal,ARS,1,6,3,2,1,H,Etihad Stadium,Manchester,305,47229,Martin Atkinson,8303
+2013/14,Premier League,18,"Thu 26 Dec 2013, 17:30 GMT",Manchester City,MCI,11,Liverpool,LIV,10,2,1,2,1,H,Etihad Stadium,Manchester,305,47351,Lee Mason,8615
+2013/14,Premier League,19,"Sat 28 Dec 2013, 15:00 GMT",Manchester City,MCI,11,Crystal Palace,CRY,6,1,0,0,0,H,Etihad Stadium,Manchester,305,47107,Andre Marriner,8491
+2013/14,Premier League,22,"Sat 18 Jan 2014, 15:00 GMT",Manchester City,MCI,11,Cardiff,CAR,46,4,2,2,1,H,Etihad Stadium,Manchester,305,47213,Neil Swarbrick,9320
+2013/14,Premier League,24,"Mon 3 Feb 2014, 20:00 GMT",Manchester City,MCI,11,Chelsea,CHE,4,0,1,0,1,A,Etihad Stadium,Manchester,305,47364,Mike Dean,9236
+2013/14,Premier League,27,"Sat 22 Feb 2014, 15:00 GMT",Manchester City,MCI,11,Stoke City,STK,42,1,0,0,0,H,Etihad Stadium,Manchester,305,47038,Chris Foy,9060
+2013/14,Premier League,31,"Sat 22 Mar 2014, 15:00 GMT",Manchester City,MCI,11,Fulham,FUL,34,5,0,1,0,H,Etihad Stadium,Manchester,305,47262,Jonathan Moss,9444
+2013/14,Premier League,34,"Sat 5 Apr 2014, 12:45 BST",Manchester City,MCI,11,Southampton,SOU,20,4,1,3,1,H,Etihad Stadium,Manchester,305,47009,Chris Foy,9624
+2013/14,Premier League,36,"Wed 16 Apr 2014, 19:45 BST",Manchester City,MCI,11,Sunderland,SUN,29,2,2,1,0,D,Etihad Stadium,Manchester,305,47046,Martin Atkinson,9160
+2013/14,Premier League,37,"Mon 21 Apr 2014, 20:00 BST",Manchester City,MCI,11,West Bromwich Albion,WBA,36,3,1,3,1,H,Etihad Stadium,Manchester,305,46564,Phil Dowd,9536
+2013/14,Premier League,39,"Wed 7 May 2014, 19:45 BST",Manchester City,MCI,11,Aston Villa,AVL,2,4,0,0,0,H,Etihad Stadium,Manchester,305,47023,Michael Oliver,9372
+2013/14,Premier League,40,"Sun 11 May 2014, 15:00 BST",Manchester City,MCI,11,West Ham United,WHU,25,2,0,1,0,H,Etihad Stadium,Manchester,305,47300,Martin Atkinson,9720
+2014/15,Premier League,2,"Mon 25 Aug 2014, 20:00 BST",Manchester City,MCI,11,Liverpool,LIV,10,3,1,1,0,H,Etihad Stadium,Manchester,305,45471,Michael Oliver,10560
+2014/15,Premier League,3,"Sat 30 Aug 2014, 15:00 BST",Manchester City,MCI,11,Stoke City,STK,42,0,1,0,0,A,Etihad Stadium,Manchester,305,45622,Lee Mason,10168
+2014/15,Premier League,5,"Sun 21 Sep 2014, 16:00 BST",Manchester City,MCI,11,Chelsea,CHE,4,1,1,0,0,D,Etihad Stadium,Manchester,305,45602,Mike Dean,10212
+2014/15,Premier League,8,"Sat 18 Oct 2014, 12:45 BST",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,4,1,2,1,H,Etihad Stadium,Manchester,305,45549,Jonathan Moss,10544
+2014/15,Premier League,10,"Sun 2 Nov 2014, 13:30 GMT",Manchester City,MCI,11,Manchester United,MUN,12,1,0,0,0,H,Etihad Stadium,Manchester,305,45358,Michael Oliver,10340
+2014/15,Premier League,12,"Sat 22 Nov 2014, 15:00 GMT",Manchester City,MCI,11,Swansea City,SWA,45,2,1,1,1,H,Etihad Stadium,Manchester,305,45448,Neil Swarbrick,10348
+2014/15,Premier League,15,"Sat 6 Dec 2014, 17:30 GMT",Manchester City,MCI,11,Everton,EVE,7,1,0,1,0,H,Etihad Stadium,Manchester,305,45603,Andre Marriner,9772
+2014/15,Premier League,17,"Sat 20 Dec 2014, 12:45 GMT",Manchester City,MCI,11,Crystal Palace,CRY,6,3,0,0,0,H,Etihad Stadium,Manchester,305,45302,Phil Dowd,9860
+2014/15,Premier League,19,"Sun 28 Dec 2014, 15:00 GMT",Manchester City,MCI,11,Burnley,BUR,43,2,2,2,0,D,Etihad Stadium,Manchester,305,45608,Kevin Friend,9988
+2014/15,Premier League,20,"Thu 1 Jan 2015, 15:00 GMT",Manchester City,MCI,11,Sunderland,SUN,29,3,2,0,0,H,Etihad Stadium,Manchester,305,45367,Roger East,10112
+2014/15,Premier League,22,"Sun 18 Jan 2015, 16:00 GMT",Manchester City,MCI,11,Arsenal,ARS,1,0,2,0,1,A,Etihad Stadium,Manchester,305,45596,Mike Dean,9956
+2014/15,Premier League,24,"Sat 7 Feb 2015, 15:00 GMT",Manchester City,MCI,11,Hull City,HUL,41,1,1,0,1,D,Etihad Stadium,Manchester,305,45233,Jonathan Moss,11084
+2014/15,Premier League,26,"Sat 21 Feb 2015, 17:30 GMT",Manchester City,MCI,11,Newcastle United,NEW,23,5,0,3,0,H,Etihad Stadium,Manchester,305,45602,Chris Foy,10880
+2014/15,Premier League,28,"Wed 4 Mar 2015, 19:45 GMT",Manchester City,MCI,11,Leicester City,LEI,26,2,0,1,0,H,Etihad Stadium,Manchester,305,45000,Robert Madley,10964
+2014/15,Premier League,30,"Sat 21 Mar 2015, 12:45 GMT",Manchester City,MCI,11,West Bromwich Albion,WBA,36,3,0,2,0,H,Etihad Stadium,Manchester,305,45018,Neil Swarbrick,11144
+2014/15,Premier League,33,"Sun 19 Apr 2015, 13:30 BST",Manchester City,MCI,11,West Ham United,WHU,25,2,0,2,0,H,Etihad Stadium,Manchester,305,45041,Anthony Taylor,10792
+2014/15,Premier League,34,"Sat 25 Apr 2015, 17:30 BST",Manchester City,MCI,11,Aston Villa,AVL,2,3,2,1,0,H,Etihad Stadium,Manchester,305,45036,Mike Dean,10684
+2014/15,Premier League,36,"Sun 10 May 2015, 13:30 BST",Manchester City,MCI,11,Queens Park Rangers,QPR,17,6,0,2,0,H,Etihad Stadium,Manchester,305,44564,Mike Dean,10752
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Manchester City,MCI,11,Southampton,SOU,20,2,0,1,0,H,Etihad Stadium,Manchester,305,45919,Chris Foy,10596
+2015/16,Premier League,2,"Sun 16 Aug 2015, 16:00 BST",Manchester City,MCI,11,Chelsea,CHE,4,3,0,1,0,H,Etihad Stadium,Manchester,305,54331,Martin Atkinson,14199
+2015/16,Premier League,4,"Sat 29 Aug 2015, 15:00 BST",Manchester City,MCI,11,Watford,WAT,33,2,0,0,0,H,Etihad Stadium,Manchester,305,53218,Mark Clattenburg,14071
+2015/16,Premier League,6,"Sat 19 Sep 2015, 17:30 BST",Manchester City,MCI,11,West Ham United,WHU,25,1,2,1,2,A,Etihad Stadium,Manchester,305,53545,Robert Madley,13995
+2015/16,Premier League,8,"Sat 3 Oct 2015, 15:00 BST",Manchester City,MCI,11,Newcastle United,NEW,23,6,1,1,1,H,Etihad Stadium,Manchester,305,53850,Kevin Friend,13947
+2015/16,Premier League,9,"Sat 17 Oct 2015, 15:00 BST",Manchester City,MCI,11,Bournemouth,BOU,127,5,1,4,1,H,Etihad Stadium,Manchester,305,54502,Mike Dean,13915
+2015/16,Premier League,11,"Sat 31 Oct 2015, 15:00 GMT",Manchester City,MCI,11,Norwich City,NOR,14,2,1,0,0,H,Etihad Stadium,Manchester,305,53418,Robert Madley,13827
+2015/16,Premier League,13,"Sat 21 Nov 2015, 17:30 GMT",Manchester City,MCI,11,Liverpool,LIV,10,1,4,1,3,A,Etihad Stadium,Manchester,305,54444,Jonathan Moss,14791
+2015/16,Premier League,14,"Sat 28 Nov 2015, 15:00 GMT",Manchester City,MCI,11,Southampton,SOU,20,3,1,2,0,H,Etihad Stadium,Manchester,305,54102,Roger East,14707
+2015/16,Premier League,16,"Sat 12 Dec 2015, 15:00 GMT",Manchester City,MCI,11,Swansea City,SWA,45,2,1,1,0,H,Etihad Stadium,Manchester,305,53052,Robert Madley,14455
+2015/16,Premier League,18,"Sat 26 Dec 2015, 15:00 GMT",Manchester City,MCI,11,Sunderland,SUN,29,4,1,3,0,H,Etihad Stadium,Manchester,305,54523,Anthony Taylor,14395
+2015/16,Premier League,21,"Wed 13 Jan 2016, 19:45 GMT",Manchester City,MCI,11,Everton,EVE,7,0,0,0,0,D,Etihad Stadium,Manchester,305,53796,Roger East,14251
+2015/16,Premier League,22,"Sat 16 Jan 2016, 15:00 GMT",Manchester City,MCI,11,Crystal Palace,CRY,6,4,0,2,0,H,Etihad Stadium,Manchester,305,53983,Jonathan Moss,14935
+2015/16,Premier League,25,"Sat 6 Feb 2016, 12:45 GMT",Manchester City,MCI,11,Leicester City,LEI,26,1,3,0,1,A,Etihad Stadium,Manchester,305,54693,Anthony Taylor,11652
+2015/16,Premier League,26,"Sun 14 Feb 2016, 16:15 GMT",Manchester City,MCI,11,Tottenham Hotspur,TOT,21,1,2,0,0,A,Etihad Stadium,Manchester,305,54551,Mark Clattenburg,11604
+2015/16,Premier League,31,"Sun 20 Mar 2016, 16:00 GMT",Manchester City,MCI,11,Manchester United,MUN,12,0,1,0,1,A,Etihad Stadium,Manchester,305,54557,Michael Oliver,11284
+2015/16,Premier League,33,"Sat 9 Apr 2016, 17:30 BST",Manchester City,MCI,11,West Bromwich Albion,WBA,36,2,1,1,1,H,Etihad Stadium,Manchester,305,53920,Mike Jones,11740
+2015/16,Premier League,35,"Sat 23 Apr 2016, 12:45 BST",Manchester City,MCI,11,Stoke City,STK,42,4,0,2,0,H,Etihad Stadium,Manchester,305,53974,Robert Madley,12444
+2015/16,Premier League,37,"Sun 8 May 2016, 16:00 BST",Manchester City,MCI,11,Arsenal,ARS,1,2,2,1,1,D,Etihad Stadium,Manchester,305,54425,Anthony Taylor,12268
+2016/17,Premier League,1,"Sat 13 Aug 2016, 17:30 BST",Manchester City,MCI,11,Sunderland,SUN,29,2,1,1,0,H,Etihad Stadium,Manchester,305,54362,Robert Madley,17716
+2016/17,Premier League,3,"Sun 28 Aug 2016, 16:00 BST",Manchester City,MCI,11,West Ham United,WHU,25,3,1,2,0,H,Etihad Stadium,Manchester,305,54008,Andre Marriner,17908
+2016/17,Premier League,5,"Sat 17 Sep 2016, 15:00 BST",Manchester City,MCI,11,AFC Bournemouth,BOU,127,4,0,2,0,H,Etihad Stadium,Manchester,305,54335,Jonathan Moss,18124
+2016/17,Premier League,8,"Sat 15 Oct 2016, 15:00 BST",Manchester City,MCI,11,Everton,EVE,7,1,1,0,0,D,Etihad Stadium,Manchester,305,54512,Michael Oliver,18460
+2016/17,Premier League,9,"Sun 23 Oct 2016, 13:30 BST",Manchester City,MCI,11,Southampton,SOU,20,1,1,0,1,D,Etihad Stadium,Manchester,305,53731,Mark Clattenburg,18690
+2016/17,Premier League,11,"Sat 5 Nov 2016, 15:00 GMT",Manchester City,MCI,11,Middlesbrough,MID,13,1,1,1,0,D,Etihad Stadium,Manchester,305,54294,Kevin Friend,18946
+2016/17,Premier League,14,"Sat 3 Dec 2016, 12:30 GMT",Manchester City,MCI,11,Chelsea,CHE,4,1,3,1,0,A,Etihad Stadium,Manchester,305,54457,Anthony Taylor,19460

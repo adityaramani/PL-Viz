@@ -1,0 +1,58 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2004/05,Premier League,1,"Sat 14 Aug 2004, 15:00 BST",Norwich City,NOR,14,Crystal Palace,CRY,6,1,1,1,0,D,Carrow Road,Norwich,14,23717,Peter Walton,5175
+2004/05,Premier League,4,"Sat 28 Aug 2004, 17:15 BST",Norwich City,NOR,14,Arsenal,ARS,1,1,4,0,3,A,Carrow Road,Norwich,14,23944,Graham Poll,5115
+2004/05,Premier League,6,"Sat 18 Sep 2004, 15:00 BST",Norwich City,NOR,14,Aston Villa,AVL,2,0,0,0,0,D,Carrow Road,Norwich,14,23805,Barry Knight,5135
+2004/05,Premier League,8,"Sat 2 Oct 2004, 15:00 BST",Norwich City,NOR,14,Portsmouth,POR,37,2,2,0,1,D,Carrow Road,Norwich,14,23853,Matt Messias,5148
+2004/05,Premier League,10,"Sat 23 Oct 2004, 12:45 BST",Norwich City,NOR,14,Everton,EVE,7,2,3,0,2,A,Carrow Road,Norwich,14,23871,Mark Clattenburg,5051
+2004/05,Premier League,12,"Sat 6 Nov 2004, 15:00 GMT",Norwich City,NOR,14,Blackburn Rovers,BLB,3,1,1,0,0,D,Carrow Road,Norwich,14,23834,Steve Dunn,5071
+2004/05,Premier League,14,"Sat 20 Nov 2004, 15:00 GMT",Norwich City,NOR,14,Southampton,SOU,20,2,1,1,1,H,Carrow Road,Norwich,14,23706,Mike Riley,5019
+2004/05,Premier League,16,"Sat 4 Dec 2004, 15:00 GMT",Norwich City,NOR,14,Fulham,FUL,34,0,1,0,1,A,Carrow Road,Norwich,14,23755,Alan Wiley,5044
+2004/05,Premier League,17,"Sat 11 Dec 2004, 15:00 GMT",Norwich City,NOR,14,Bolton Wanderers,BOL,27,3,2,1,2,H,Carrow Road,Norwich,14,23549,Barry Knight,5035
+2004/05,Premier League,19,"Sun 26 Dec 2004, 15:00 GMT",Norwich City,NOR,14,Tottenham Hotspur,TOT,21,0,2,0,0,A,Carrow Road,Norwich,14,24508,Mike Riley,4934
+2004/05,Premier League,22,"Mon 3 Jan 2005, 12:45 GMT",Norwich City,NOR,14,Liverpool,LIV,10,1,2,0,0,A,Carrow Road,Norwich,14,24503,Howard Webb,4949
+2004/05,Premier League,24,"Sat 22 Jan 2005, 15:00 GMT",Norwich City,NOR,14,Middlesbrough,MID,13,4,4,1,1,D,Carrow Road,Norwich,14,24547,Matt Messias,4999
+2004/05,Premier League,26,"Sat 5 Feb 2005, 15:00 GMT",Norwich City,NOR,14,West Bromwich Albion,WBA,36,3,2,1,1,H,Carrow Road,Norwich,14,24292,Chris Foy,4922
+2004/05,Premier League,28,"Mon 28 Feb 2005, 20:00 GMT",Norwich City,NOR,14,Manchester City,MCI,11,2,3,2,2,A,Carrow Road,Norwich,14,24302,Rob Styles,4826
+2004/05,Premier League,29,"Sat 5 Mar 2005, 17:15 GMT",Norwich City,NOR,14,Chelsea,CHE,4,1,3,0,1,A,Carrow Road,Norwich,14,24506,Mark Halsey,4824
+2004/05,Premier League,33,"Sat 9 Apr 2005, 17:15 BST",Norwich City,NOR,14,Manchester United,MUN,12,2,0,0,0,H,Carrow Road,Norwich,14,25522,Howard Webb,4857
+2004/05,Premier League,35,"Wed 20 Apr 2005, 19:45 BST",Norwich City,NOR,14,Newcastle United,NEW,23,2,1,0,0,H,Carrow Road,Norwich,14,25503,Andre Marriner,4851
+2004/05,Premier League,36,"Sat 23 Apr 2005, 15:00 BST",Norwich City,NOR,14,Charlton Athletic,CHA,31,1,0,0,0,H,Carrow Road,Norwich,14,25459,Martin Atkinson,4880
+2004/05,Premier League,38,"Sat 7 May 2005, 15:00 BST",Norwich City,NOR,14,Birmingham City,BIR,35,1,0,1,0,H,Carrow Road,Norwich,14,25477,Steve Bennett,4905
+2013/14,Premier League,1,"Sat 17 Aug 2013, 15:00 BST",Norwich City,NOR,14,Everton,EVE,7,2,2,0,0,D,Carrow Road,Norwich,14,26824,Michael Oliver,8731
+2013/14,Premier League,3,"Sat 31 Aug 2013, 15:00 BST",Norwich City,NOR,14,Southampton,SOU,20,1,0,0,0,H,Carrow Road,Norwich,14,26819,Howard Webb,8691
+2013/14,Premier League,5,"Sat 21 Sep 2013, 12:45 BST",Norwich City,NOR,14,Aston Villa,AVL,2,0,1,0,1,A,Carrow Road,Norwich,14,26813,Chris Foy,9004
+2013/14,Premier League,7,"Sun 6 Oct 2013, 13:30 BST",Norwich City,NOR,14,Chelsea,CHE,4,1,3,0,1,A,Carrow Road,Norwich,14,26840,Neil Swarbrick,8915
+2013/14,Premier League,9,"Sat 26 Oct 2013, 15:00 BST",Norwich City,NOR,14,Cardiff,CAR,46,0,0,0,0,D,Carrow Road,Norwich,14,26846,Mike Jones,8835
+2013/14,Premier League,11,"Sat 9 Nov 2013, 17:30 GMT",Norwich City,NOR,14,West Ham United,WHU,25,3,1,0,1,H,Carrow Road,Norwich,14,26824,Jonathan Moss,8403
+2013/14,Premier League,13,"Sat 30 Nov 2013, 15:00 GMT",Norwich City,NOR,14,Crystal Palace,CRY,6,1,0,1,0,H,Carrow Road,Norwich,14,26851,Chris Foy,8323
+2013/14,Premier League,16,"Sun 15 Dec 2013, 13:30 GMT",Norwich City,NOR,14,Swansea City,SWA,45,1,1,1,1,D,Carrow Road,Norwich,14,26876,Michael Oliver,8271
+2013/14,Premier League,18,"Thu 26 Dec 2013, 15:00 GMT",Norwich City,NOR,14,Fulham,FUL,34,1,2,1,1,A,Carrow Road,Norwich,14,26811,Jonathan Moss,8623
+2013/14,Premier League,19,"Sat 28 Dec 2013, 15:00 GMT",Norwich City,NOR,14,Manchester United,MUN,12,0,1,0,0,A,Carrow Road,Norwich,14,26851,Phil Dowd,8499
+2013/14,Premier League,22,"Sat 18 Jan 2014, 15:00 GMT",Norwich City,NOR,14,Hull City,HUL,41,1,0,0,0,H,Carrow Road,Norwich,14,26655,Howard Webb,9324
+2013/14,Premier League,23,"Tue 28 Jan 2014, 19:45 GMT",Norwich City,NOR,14,Newcastle United,NEW,23,0,0,0,0,D,Carrow Road,Norwich,14,26762,Chris Foy,9196
+2013/14,Premier League,25,"Sat 8 Feb 2014, 15:00 GMT",Norwich City,NOR,14,Manchester City,MCI,11,0,0,0,0,D,Carrow Road,Norwich,14,26832,Jonathan Moss,9112
+2013/14,Premier League,27,"Sun 23 Feb 2014, 16:00 GMT",Norwich City,NOR,14,Tottenham Hotspur,TOT,21,1,0,0,0,H,Carrow Road,Norwich,14,26834,Craig Pawson,9028
+2013/14,Premier League,29,"Sat 8 Mar 2014, 15:00 GMT",Norwich City,NOR,14,Stoke City,STK,42,1,1,0,0,D,Carrow Road,Norwich,14,26646,Andre Marriner,9380
+2013/14,Premier League,31,"Sat 22 Mar 2014, 15:00 GMT",Norwich City,NOR,14,Sunderland,SUN,29,2,0,2,0,H,Carrow Road,Norwich,14,26654,Phil Dowd,9452
+2013/14,Premier League,34,"Sat 5 Apr 2014, 15:00 BST",Norwich City,NOR,14,West Bromwich Albion,WBA,36,0,1,0,1,A,Carrow Road,Norwich,14,26859,Mark Clattenburg,9632
+2013/14,Premier League,37,"Sun 20 Apr 2014, 12:00 BST",Norwich City,NOR,14,Liverpool,LIV,10,2,3,0,2,A,Carrow Road,Norwich,14,26857,Andre Marriner,9544
+2013/14,Premier League,40,"Sun 11 May 2014, 15:00 BST",Norwich City,NOR,14,Arsenal,ARS,1,0,2,0,0,A,Carrow Road,Norwich,14,26848,Lee Mason,9716
+2015/16,Premier League,1,"Sat 8 Aug 2015, 15:00 BST",Norwich City,NOR,14,Crystal Palace,CRY,6,1,3,0,1,A,Carrow Road,Norwich,14,27036,Simon Hooper,13152
+2015/16,Premier League,3,"Sat 22 Aug 2015, 15:00 BST",Norwich City,NOR,14,Stoke City,STK,42,1,1,1,1,D,Carrow Road,Norwich,14,26771,Mike Dean,14107
+2015/16,Premier League,5,"Sat 12 Sep 2015, 15:00 BST",Norwich City,NOR,14,Bournemouth,BOU,127,3,1,1,0,H,Carrow Road,Norwich,14,27018,Martin Atkinson,14055
+2015/16,Premier League,8,"Sat 3 Oct 2015, 15:00 BST",Norwich City,NOR,14,Leicester City,LEI,26,1,2,0,1,A,Carrow Road,Norwich,14,27067,Mark Clattenburg,13959
+2015/16,Premier League,10,"Sat 24 Oct 2015, 15:00 BST",Norwich City,NOR,14,West Bromwich Albion,WBA,36,0,1,0,0,A,Carrow Road,Norwich,14,26983,Kevin Friend,13815
+2015/16,Premier League,12,"Sat 7 Nov 2015, 15:00 GMT",Norwich City,NOR,14,Swansea City,SWA,45,1,0,0,0,H,Carrow Road,Norwich,14,27029,Mark Clattenburg,14851
+2015/16,Premier League,14,"Sun 29 Nov 2015, 16:15 GMT",Norwich City,NOR,14,Arsenal,ARS,1,1,1,1,1,D,Carrow Road,Norwich,14,27091,Jonathan Moss,14671
+2015/16,Premier League,16,"Sat 12 Dec 2015, 12:45 GMT",Norwich City,NOR,14,Everton,EVE,7,1,1,0,1,D,Carrow Road,Norwich,14,27027,Martin Atkinson,14511
+2015/16,Premier League,19,"Mon 28 Dec 2015, 15:00 GMT",Norwich City,NOR,14,Aston Villa,AVL,2,2,0,1,0,H,Carrow Road,Norwich,14,27071,Graham Scott,14339
+2015/16,Premier League,20,"Sat 2 Jan 2016, 15:00 GMT",Norwich City,NOR,14,Southampton,SOU,20,1,0,0,0,H,Carrow Road,Norwich,14,27022,Mark Clattenburg,14279
+2015/16,Premier League,23,"Sat 23 Jan 2016, 12:45 GMT",Norwich City,NOR,14,Liverpool,LIV,10,4,5,2,1,A,Carrow Road,Norwich,14,27108,Lee Mason,11724
+2015/16,Premier League,24,"Tue 2 Feb 2016, 19:45 GMT",Norwich City,NOR,14,Tottenham Hotspur,TOT,21,0,3,0,2,A,Carrow Road,Norwich,14,27067,Kevin Friend,11632
+2015/16,Premier League,26,"Sat 13 Feb 2016, 15:00 GMT",Norwich City,NOR,14,West Ham United,WHU,25,2,2,0,0,D,Carrow Road,Norwich,14,27101,Mike Jones,11556
+2015/16,Premier League,28,"Tue 1 Mar 2016, 19:45 GMT",Norwich City,NOR,14,Chelsea,CHE,4,1,2,0,2,A,Carrow Road,Norwich,14,27091,Lee Mason,11484
+2015/16,Premier League,30,"Sat 12 Mar 2016, 12:45 GMT",Norwich City,NOR,14,Manchester City,MCI,11,0,0,0,0,D,Carrow Road,Norwich,14,26323,Jonathan Moss,11356
+2015/16,Premier League,32,"Sat 2 Apr 2016, 15:00 BST",Norwich City,NOR,14,Newcastle United,NEW,23,3,2,1,0,H,Carrow Road,Norwich,14,27137,Mike Dean,11828
+2015/16,Premier League,34,"Sat 16 Apr 2016, 12:45 BST",Norwich City,NOR,14,Sunderland,SUN,29,0,3,0,1,A,Carrow Road,Norwich,14,27117,Andre Marriner,11756
+2015/16,Premier League,37,"Sat 7 May 2016, 12:45 BST",Norwich City,NOR,14,Manchester United,MUN,12,0,1,0,0,A,Carrow Road,Norwich,14,27132,Craig Pawson,12300
+2015/16,Premier League,37,"Wed 11 May 2016, 19:45 BST",Norwich City,NOR,14,Watford,WAT,33,4,2,3,1,H,Carrow Road,Norwich,14,26279,Roger East,12344

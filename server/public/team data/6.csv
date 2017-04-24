@@ -1,0 +1,84 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2004/05,Premier League,2,"Sat 21 Aug 2004, 15:00 BST",Crystal Palace,CRY,6,Everton,EVE,7,1,3,1,1,A,Selhurst Park,London,32,25708,Mark Clattenburg,5174
+2004/05,Premier League,3,"Tue 24 Aug 2004, 19:45 BST",Crystal Palace,CRY,6,Chelsea,CHE,4,0,2,0,1,A,Selhurst Park,London,32,24493,Chris Foy,5123
+2004/05,Premier League,6,"Sat 18 Sep 2004, 15:00 BST",Crystal Palace,CRY,6,Manchester City,MCI,11,1,2,0,0,A,Selhurst Park,London,32,25052,Martin Atkinson,5165
+2004/05,Premier League,8,"Mon 4 Oct 2004, 20:00 BST",Crystal Palace,CRY,6,Fulham,FUL,34,2,0,0,0,H,Selhurst Park,London,32,21825,Mike Riley,5061
+2004/05,Premier League,10,"Sat 23 Oct 2004, 15:00 BST",Crystal Palace,CRY,6,West Bromwich Albion,WBA,36,3,0,2,0,H,Selhurst Park,London,32,22922,Matt Messias,5077
+2004/05,Premier League,12,"Sat 6 Nov 2004, 17:15 GMT",Crystal Palace,CRY,6,Arsenal,ARS,1,1,1,0,0,D,Selhurst Park,London,32,26193,Mike Dean,5074
+2004/05,Premier League,14,"Sat 20 Nov 2004, 15:00 GMT",Crystal Palace,CRY,6,Newcastle United,NEW,23,0,2,0,0,A,Selhurst Park,London,32,22937,Mark Halsey,5094
+2004/05,Premier League,16,"Sun 5 Dec 2004, 16:05 GMT",Crystal Palace,CRY,6,Charlton Athletic,CHA,31,0,1,0,0,A,Selhurst Park,London,32,20705,Matt Messias,5042
+2004/05,Premier League,17,"Sat 11 Dec 2004, 15:00 GMT",Crystal Palace,CRY,6,Blackburn Rovers,BLB,3,0,0,0,0,D,Selhurst Park,London,32,22010,Alan Wiley,5037
+2004/05,Premier League,19,"Sun 26 Dec 2004, 13:00 GMT",Crystal Palace,CRY,6,Portsmouth,POR,37,0,1,0,0,A,Selhurst Park,London,32,25238,Neale Barry,4935
+2004/05,Premier League,22,"Mon 3 Jan 2005, 15:00 GMT",Crystal Palace,CRY,6,Aston Villa,AVL,2,2,0,1,0,H,Selhurst Park,London,32,24140,Andy D'Urso,4952
+2004/05,Premier League,24,"Sat 22 Jan 2005, 15:00 GMT",Crystal Palace,CRY,6,Tottenham Hotspur,TOT,21,3,0,0,0,H,Selhurst Park,London,32,23723,Chris Foy,4971
+2004/05,Premier League,26,"Sat 5 Feb 2005, 12:45 GMT",Crystal Palace,CRY,6,Bolton Wanderers,BOL,27,0,1,0,1,A,Selhurst Park,London,32,23163,Graham Poll,4995
+2004/05,Premier League,28,"Sat 26 Feb 2005, 15:00 GMT",Crystal Palace,CRY,6,Birmingham City,BIR,35,2,0,1,0,H,Selhurst Park,London,32,23376,Phil Dowd,4907
+2004/05,Premier League,29,"Sat 5 Mar 2005, 15:00 GMT",Crystal Palace,CRY,6,Manchester United,MUN,12,0,0,0,0,D,Selhurst Park,London,32,26021,Mark Clattenburg,4820
+2004/05,Premier League,32,"Sat 2 Apr 2005, 15:00 BST",Crystal Palace,CRY,6,Middlesbrough,MID,13,0,1,0,1,A,Selhurst Park,London,32,24274,Steve Dunn,4837
+2004/05,Premier League,34,"Sat 16 Apr 2005, 15:00 BST",Crystal Palace,CRY,6,Norwich City,NOR,14,3,3,1,1,D,Selhurst Park,London,32,25754,Rob Styles,4860
+2004/05,Premier League,36,"Sat 23 Apr 2005, 15:00 BST",Crystal Palace,CRY,6,Liverpool,LIV,10,1,0,1,0,H,Selhurst Park,London,32,26043,Dermot Gallagher,4886
+2004/05,Premier League,38,"Sat 7 May 2005, 15:00 BST",Crystal Palace,CRY,6,Southampton,SOU,20,2,2,1,1,D,Selhurst Park,London,32,26066,Howard Webb,4893
+2013/14,Premier League,1,"Sun 18 Aug 2013, 13:30 BST",Crystal Palace,CRY,6,Tottenham Hotspur,TOT,21,0,1,0,0,A,Selhurst Park,London,32,23285,Mark Clattenburg,8719
+2013/14,Premier League,3,"Sat 31 Aug 2013, 17:30 BST",Crystal Palace,CRY,6,Sunderland,SUN,29,3,1,1,0,H,Selhurst Park,London,32,22671,Lee Probert,8675
+2013/14,Premier League,5,"Sun 22 Sep 2013, 13:30 BST",Crystal Palace,CRY,6,Swansea City,SWA,45,0,2,0,1,A,Selhurst Park,London,32,22466,Kevin Friend,8987
+2013/14,Premier League,8,"Mon 21 Oct 2013, 20:00 BST",Crystal Palace,CRY,6,Fulham,FUL,34,1,4,1,2,A,Selhurst Park,London,32,24881,Lee Mason,8783
+2013/14,Premier League,9,"Sat 26 Oct 2013, 12:45 BST",Crystal Palace,CRY,6,Arsenal,ARS,1,0,2,0,0,A,Selhurst Park,London,32,20050,Chris Foy,8823
+2013/14,Premier League,11,"Sat 9 Nov 2013, 15:00 GMT",Crystal Palace,CRY,6,Everton,EVE,7,0,0,0,0,D,Selhurst Park,London,32,25231,Craig Pawson,8391
+2013/14,Premier League,14,"Tue 3 Dec 2013, 20:00 GMT",Crystal Palace,CRY,6,West Ham United,WHU,25,1,0,1,0,H,Selhurst Park,London,32,23891,Lee Mason,8375
+2013/14,Premier League,15,"Sat 7 Dec 2013, 15:00 GMT",Crystal Palace,CRY,6,Cardiff,CAR,46,2,0,1,0,H,Selhurst Park,London,32,23705,Mike Jones,8251
+2013/14,Premier League,17,"Sat 21 Dec 2013, 15:00 GMT",Crystal Palace,CRY,6,Newcastle United,NEW,23,0,3,0,2,A,Selhurst Park,London,32,24936,Neil Swarbrick,8563
+2013/14,Premier League,20,"Wed 1 Jan 2014, 15:00 GMT",Crystal Palace,CRY,6,Norwich City,NOR,14,1,1,1,1,D,Selhurst Park,London,32,25189,Mike Dean,8511
+2013/14,Premier League,22,"Sat 18 Jan 2014, 15:00 GMT",Crystal Palace,CRY,6,Stoke City,STK,42,1,0,0,0,H,Selhurst Park,London,32,24440,Lee Mason,9312
+2013/14,Premier League,23,"Tue 28 Jan 2014, 20:00 GMT",Crystal Palace,CRY,6,Hull City,HUL,41,1,0,1,0,H,Selhurst Park,London,32,22519,Roger East,9224
+2013/14,Premier League,25,"Sat 8 Feb 2014, 15:00 GMT",Crystal Palace,CRY,6,West Bromwich Albion,WBA,36,3,1,2,0,H,Selhurst Park,London,32,24501,Chris Foy,9140
+2013/14,Premier League,27,"Sat 22 Feb 2014, 17:30 GMT",Crystal Palace,CRY,6,Manchester United,MUN,12,0,2,0,0,A,Selhurst Park,London,32,24571,Michael Oliver,9052
+2013/14,Premier League,29,"Sat 8 Mar 2014, 15:00 GMT",Crystal Palace,CRY,6,Southampton,SOU,20,0,1,0,1,A,Selhurst Park,London,32,25073,Howard Webb,9364
+2013/14,Premier League,33,"Sat 29 Mar 2014, 15:00 GMT",Crystal Palace,CRY,6,Chelsea,CHE,4,1,0,0,0,H,Selhurst Park,London,32,25166,Lee Mason,9468
+2013/14,Premier League,35,"Sat 12 Apr 2014, 15:07 BST",Crystal Palace,CRY,6,Aston Villa,AVL,2,1,0,0,0,H,Selhurst Park,London,32,25564,Howard Webb,9644
+2013/14,Premier League,38,"Sun 27 Apr 2014, 16:10 BST",Crystal Palace,CRY,6,Manchester City,MCI,11,0,2,0,2,A,Selhurst Park,London,32,24769,Howard Webb,9596
+2013/14,Premier League,39,"Mon 5 May 2014, 20:00 BST",Crystal Palace,CRY,6,Liverpool,LIV,10,3,3,0,1,D,Selhurst Park,London,32,25261,Mark Clattenburg,9520
+2014/15,Premier League,2,"Sat 23 Aug 2014, 15:00 BST",Crystal Palace,CRY,6,West Ham United,WHU,25,1,3,0,2,A,Selhurst Park,London,32,24242,Mark Clattenburg,10572
+2014/15,Premier League,4,"Sat 13 Sep 2014, 15:00 BST",Crystal Palace,CRY,6,Burnley,BUR,43,0,0,0,0,D,Selhurst Park,London,32,23829,Mike Dean,10256
+2014/15,Premier League,6,"Sat 27 Sep 2014, 15:00 BST",Crystal Palace,CRY,6,Leicester City,LEI,26,2,0,0,0,H,Selhurst Park,London,32,24311,Keith Stroud,10464
+2014/15,Premier League,8,"Sat 18 Oct 2014, 15:00 BST",Crystal Palace,CRY,6,Chelsea,CHE,4,1,2,0,1,A,Selhurst Park,London,32,24451,Craig Pawson,10512
+2014/15,Premier League,10,"Mon 3 Nov 2014, 20:00 GMT",Crystal Palace,CRY,6,Sunderland,SUN,29,1,3,0,1,A,Selhurst Park,London,32,23212,Phil Dowd,10316
+2014/15,Premier League,12,"Sun 23 Nov 2014, 13:30 GMT",Crystal Palace,CRY,6,Liverpool,LIV,10,3,1,1,1,H,Selhurst Park,London,32,24862,Jonathan Moss,10364
+2014/15,Premier League,14,"Tue 2 Dec 2014, 20:00 GMT",Crystal Palace,CRY,6,Aston Villa,AVL,2,0,1,0,1,A,Selhurst Park,London,32,23935,Michael Oliver,9816
+2014/15,Premier League,16,"Sat 13 Dec 2014, 15:00 GMT",Crystal Palace,CRY,6,Stoke City,STK,42,1,1,1,1,D,Selhurst Park,London,32,23038,Kevin Friend,9896
+2014/15,Premier League,18,"Fri 26 Dec 2014, 15:00 GMT",Crystal Palace,CRY,6,Southampton,SOU,20,1,3,0,1,A,Selhurst Park,London,32,24565,Mike Dean,10064
+2014/15,Premier League,21,"Sat 10 Jan 2015, 17:30 GMT",Crystal Palace,CRY,6,Tottenham Hotspur,TOT,21,2,1,0,0,H,Selhurst Park,London,32,24193,Anthony Taylor,10076
+2014/15,Premier League,23,"Sat 31 Jan 2015, 15:00 GMT",Crystal Palace,CRY,6,Everton,EVE,7,0,1,0,1,A,Selhurst Park,London,32,25197,Roger East,11012
+2014/15,Premier League,25,"Wed 11 Feb 2015, 20:00 GMT",Crystal Palace,CRY,6,Newcastle United,NEW,23,1,1,0,1,D,Selhurst Park,London,32,25118,Andre Marriner,11056
+2014/15,Premier League,26,"Sat 21 Feb 2015, 15:00 GMT",Crystal Palace,CRY,6,Arsenal,ARS,1,1,2,0,2,A,Selhurst Park,London,32,24721,Mark Clattenburg,10892
+2014/15,Premier League,29,"Sat 14 Mar 2015, 12:45 GMT",Crystal Palace,CRY,6,Queens Park Rangers,QPR,17,3,1,3,0,H,Selhurst Park,London,32,24886,Lee Mason,10940
+2014/15,Premier League,31,"Mon 6 Apr 2015, 20:00 BST",Crystal Palace,CRY,6,Manchester City,MCI,11,2,1,1,0,H,Selhurst Park,London,32,24718,Michael Oliver,11108
+2014/15,Premier League,33,"Sat 18 Apr 2015, 15:00 BST",Crystal Palace,CRY,6,West Bromwich Albion,WBA,36,0,2,0,1,A,Selhurst Park,London,32,24765,Jonathan Moss,10808
+2014/15,Premier League,34,"Sat 25 Apr 2015, 15:00 BST",Crystal Palace,CRY,6,Hull City,HUL,41,0,2,0,0,A,Selhurst Park,London,32,23876,Mark Clattenburg,10692
+2014/15,Premier League,36,"Sat 9 May 2015, 17:30 BST",Crystal Palace,CRY,6,Manchester United,MUN,12,1,2,0,1,A,Selhurst Park,London,32,25009,Michael Oliver,10768
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Crystal Palace,CRY,6,Swansea City,SWA,45,1,0,0,0,H,Selhurst Park,London,32,25076,Craig Pawson,10612
+2015/16,Premier League,2,"Sun 16 Aug 2015, 13:30 BST",Crystal Palace,CRY,6,Arsenal,ARS,1,1,2,1,1,A,Selhurst Park,London,32,24732,Lee Mason,14167
+2015/16,Premier League,3,"Sat 22 Aug 2015, 15:00 BST",Crystal Palace,CRY,6,Aston Villa,AVL,2,2,1,0,0,H,Selhurst Park,London,32,25295,Keith Stroud,14131
+2015/16,Premier League,5,"Sat 12 Sep 2015, 15:00 BST",Crystal Palace,CRY,6,Manchester City,MCI,11,0,1,0,0,A,Selhurst Park,London,32,25167,Mike Jones,14083
+2015/16,Premier League,8,"Sat 3 Oct 2015, 12:45 BST",Crystal Palace,CRY,6,West Bromwich Albion,WBA,36,2,0,0,0,H,Selhurst Park,London,32,24033,Jonathan Moss,13891
+2015/16,Premier League,9,"Sat 17 Oct 2015, 15:00 BST",Crystal Palace,CRY,6,West Ham United,WHU,25,1,3,1,1,A,Selhurst Park,London,32,24812,Mark Clattenburg,13851
+2015/16,Premier League,11,"Sat 31 Oct 2015, 15:00 GMT",Crystal Palace,CRY,6,Manchester United,MUN,12,0,0,0,0,D,Selhurst Park,London,32,24854,Mike Jones,13831
+2015/16,Premier League,13,"Mon 23 Nov 2015, 20:00 GMT",Crystal Palace,CRY,6,Sunderland,SUN,29,0,1,0,0,A,Selhurst Park,London,32,24361,Martin Atkinson,14679
+2015/16,Premier League,14,"Sat 28 Nov 2015, 15:00 GMT",Crystal Palace,CRY,6,Newcastle United,NEW,23,5,1,3,1,H,Selhurst Park,London,32,24833,Stuart Attwell,14715
+2015/16,Premier League,16,"Sat 12 Dec 2015, 15:00 GMT",Crystal Palace,CRY,6,Southampton,SOU,20,1,0,1,0,H,Selhurst Park,London,32,24914,Mike Dean,14555
+2015/16,Premier League,19,"Mon 28 Dec 2015, 15:00 GMT",Crystal Palace,CRY,6,Swansea City,SWA,45,0,0,0,0,D,Selhurst Park,London,32,23714,Neil Swarbrick,14271
+2015/16,Premier League,20,"Sun 3 Jan 2016, 13:30 GMT",Crystal Palace,CRY,6,Chelsea,CHE,4,0,3,0,1,A,Selhurst Park,London,32,24854,Kevin Friend,14295
+2015/16,Premier League,23,"Sat 23 Jan 2016, 15:00 GMT",Crystal Palace,CRY,6,Tottenham Hotspur,TOT,21,1,3,1,0,A,Selhurst Park,London,32,24867,Martin Atkinson,11664
+2015/16,Premier League,24,"Tue 2 Feb 2016, 20:00 GMT",Crystal Palace,CRY,6,AFC Bournemouth,BOU,127,1,2,1,1,A,Selhurst Park,London,32,24855,Mike Jones,11696
+2015/16,Premier League,26,"Sat 13 Feb 2016, 15:00 GMT",Crystal Palace,CRY,6,Watford,WAT,33,1,2,1,1,A,Selhurst Park,London,32,24564,Robert Madley,11564
+2015/16,Premier League,29,"Sun 6 Mar 2016, 13:30 GMT",Crystal Palace,CRY,6,Liverpool,LIV,10,1,2,0,0,A,Selhurst Park,London,32,24709,Andre Marriner,11420
+2015/16,Premier League,31,"Sat 19 Mar 2016, 15:00 GMT",Crystal Palace,CRY,6,Leicester City,LEI,26,0,1,0,1,A,Selhurst Park,London,32,25041,Mike Jones,11292
+2015/16,Premier League,33,"Sat 9 Apr 2016, 15:00 BST",Crystal Palace,CRY,6,Norwich City,NOR,14,1,0,0,0,H,Selhurst Park,London,32,24960,Michael Oliver,11748
+2015/16,Premier League,33,"Wed 13 Apr 2016, 20:00 BST",Crystal Palace,CRY,6,Everton,EVE,7,0,0,0,0,D,Selhurst Park,London,32,23528,Mike Jones,12460
+2015/16,Premier League,37,"Sat 7 May 2016, 15:00 BST",Crystal Palace,CRY,6,Stoke City,STK,42,2,1,0,1,H,Selhurst Park,London,32,23990,Kevin Friend,12288
+2016/17,Premier League,1,"Sat 13 Aug 2016, 15:00 BST",Crystal Palace,CRY,6,West Bromwich Albion,WBA,36,0,1,0,0,A,Selhurst Park,London,32,24490,Craig Pawson,17700
+2016/17,Premier League,3,"Sat 27 Aug 2016, 15:00 BST",Crystal Palace,CRY,6,Bournemouth,BOU,127,1,1,0,1,D,Selhurst Park,London,32,23503,Mike Dean,17884
+2016/17,Premier League,5,"Sun 18 Sep 2016, 14:15 BST",Crystal Palace,CRY,6,Stoke City,STK,42,4,1,2,0,H,Selhurst Park,London,32,23781,Craig Pawson,18144
+2016/17,Premier League,8,"Sat 15 Oct 2016, 17:30 BST",Crystal Palace,CRY,6,West Ham United,WHU,25,0,1,0,1,A,Selhurst Park,London,32,25643,Martin Atkinson,18480
+2016/17,Premier League,10,"Sat 29 Oct 2016, 17:30 BST",Crystal Palace,CRY,6,Liverpool,LIV,10,2,4,2,3,A,Selhurst Park,London,32,25628,Andre Marriner,18754
+2016/17,Premier League,12,"Sat 19 Nov 2016, 15:00 GMT",Crystal Palace,CRY,6,Manchester City,MCI,11,1,2,0,1,A,Selhurst Park,London,32,25529,Robert Madley,19206
+2016/17,Premier League,14,"Sat 3 Dec 2016, 15:00 GMT",Crystal Palace,CRY,6,Southampton,SOU,20,3,0,2,0,H,Selhurst Park,London,32,25393,Neil Swarbrick,19480

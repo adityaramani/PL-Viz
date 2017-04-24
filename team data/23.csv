@@ -1,0 +1,172 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2001/02,Premier League,2,"Sun 26 Aug 2001, 16:00 BST",Newcastle United,NEW,23,Sunderland,SUN,29,1,1,1,1,D,St. James' Park,Newcastle,21,52021,Mike Riley,3886
+2001/02,Premier League,4,"Sat 15 Sep 2001, 15:00 BST",Newcastle United,NEW,23,Manchester United,MUN,12,4,3,2,1,H,St. James' Park,Newcastle,21,52056,Steve Bennett,3866
+2001/02,Premier League,5,"Wed 26 Sep 2001, 19:45 BST",Newcastle United,NEW,23,Leicester City,LEI,26,1,0,1,0,H,St. James' Park,Newcastle,21,49185,David Pugh,3919
+2001/02,Premier League,6,"Sun 30 Sep 2001, 14:00 BST",Newcastle United,NEW,23,Liverpool,LIV,10,0,2,0,1,A,St. James' Park,Newcastle,21,52095,Graham Barber,3878
+2001/02,Premier League,8,"Sun 21 Oct 2001, 14:00 BST",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,0,2,0,2,A,St. James' Park,Newcastle,21,50593,Alan Wiley,3884
+2001/02,Premier League,11,"Sat 3 Nov 2001, 15:00 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,3,0,1,0,H,St. James' Park,Newcastle,21,51057,Barry Knight,3836
+2001/02,Premier League,13,"Sat 24 Nov 2001, 15:00 GMT",Newcastle United,NEW,23,Derby County,DER,28,1,0,1,0,H,St. James' Park,Newcastle,21,50070,Rob Styles,4043
+2001/02,Premier League,16,"Sat 15 Dec 2001, 15:00 GMT",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,2,1,0,1,H,St. James' Park,Newcastle,21,50064,Steve Dunn,3770
+2001/02,Premier League,18,"Wed 26 Dec 2001, 15:00 GMT",Newcastle United,NEW,23,Middlesbrough,MID,13,3,0,1,0,H,St. James' Park,Newcastle,21,52127,Mark Halsey,3881
+2001/02,Premier League,19,"Sat 29 Dec 2001, 15:00 GMT",Newcastle United,NEW,23,Chelsea,CHE,4,1,2,1,2,A,St. James' Park,Newcastle,21,52123,Steve Bennett,4033
+2001/02,Premier League,21,"Sat 12 Jan 2002, 15:00 GMT",Newcastle United,NEW,23,Leeds United,LEE,9,3,1,1,1,H,St. James' Park,Newcastle,21,52130,Graham Barber,3997
+2001/02,Premier League,24,"Sat 2 Feb 2002, 15:00 GMT",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,3,2,2,2,H,St. James' Park,Newcastle,21,52094,David Elleray,3692
+2001/02,Premier League,25,"Sat 9 Feb 2002, 15:00 GMT",Newcastle United,NEW,23,Southampton,SOU,20,3,1,3,1,H,St. James' Park,Newcastle,21,51857,Barry Knight,3909
+2001/02,Premier League,27,"Sat 2 Mar 2002, 17:30 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,0,2,0,2,A,St. James' Park,Newcastle,21,52067,Alan Wiley,3815
+2001/02,Premier League,29,"Sat 16 Mar 2002, 15:00 GMT",Newcastle United,NEW,23,Ipswich Town,IPS,8,2,2,0,0,D,St. James' Park,Newcastle,21,51115,Mike Riley,4011
+2001/02,Premier League,31,"Fri 29 Mar 2002, 14:00 GMT",Newcastle United,NEW,23,Everton,EVE,7,6,2,2,2,H,St. James' Park,Newcastle,21,51921,Graham Poll,3967
+2001/02,Premier League,33,"Mon 8 Apr 2002, 20:00 BST",Newcastle United,NEW,23,Fulham,FUL,34,1,1,1,0,D,St. James' Park,Newcastle,21,50017,Alan Wiley,3987
+2001/02,Premier League,35,"Sat 20 Apr 2002, 15:00 BST",Newcastle United,NEW,23,Charlton Athletic,CHA,31,3,0,1,0,H,St. James' Park,Newcastle,21,51360,Mike Dean,3728
+2001/02,Premier League,37,"Sat 27 Apr 2002, 15:00 BST",Newcastle United,NEW,23,West Ham United,WHU,25,3,1,1,1,H,St. James' Park,Newcastle,21,52127,Paul Durkin,3907
+2002/03,Premier League,1,"Mon 19 Aug 2002, 20:00 BST",Newcastle United,NEW,23,West Ham United,WHU,25,4,0,0,0,H,St. James' Park,Newcastle,21,51072,Paul Durkin,4055
+2002/03,Premier League,5,"Wed 11 Sep 2002, 20:00 BST",Newcastle United,NEW,23,Leeds United,LEE,9,0,2,0,1,A,St. James' Park,Newcastle,21,51730,Dermot Gallagher,4123
+2002/03,Premier League,7,"Sat 21 Sep 2002, 12:15 BST",Newcastle United,NEW,23,Sunderland,SUN,29,2,0,2,0,H,St. James' Park,Newcastle,21,52181,Mike Riley,4056
+2002/03,Premier League,9,"Sat 5 Oct 2002, 15:00 BST",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,2,1,1,1,H,St. James' Park,Newcastle,21,52142,Chris Foy,4053
+2002/03,Premier League,11,"Sat 26 Oct 2002, 15:00 BST",Newcastle United,NEW,23,Charlton Athletic,CHA,31,2,1,1,1,H,St. James' Park,Newcastle,21,51670,Andy D'Urso,4229
+2002/03,Premier League,12,"Mon 4 Nov 2002, 20:00 GMT",Newcastle United,NEW,23,Middlesbrough,MID,13,2,0,1,0,H,St. James' Park,Newcastle,21,51558,Graham Barber,4063
+2002/03,Premier League,14,"Sat 16 Nov 2002, 15:00 GMT",Newcastle United,NEW,23,Southampton,SOU,20,2,1,1,1,H,St. James' Park,Newcastle,21,51812,Clive Wilkes,4054
+2002/03,Premier League,16,"Sun 1 Dec 2002, 14:15 GMT",Newcastle United,NEW,23,Everton,EVE,7,2,1,0,1,H,St. James' Park,Newcastle,21,51607,Mark Halsey,4192
+2002/03,Premier League,19,"Sat 21 Dec 2002, 15:00 GMT",Newcastle United,NEW,23,Fulham,FUL,34,2,0,1,0,H,St. James' Park,Newcastle,21,51576,Alan Wiley,4099
+2002/03,Premier League,21,"Sun 29 Dec 2002, 14:00 GMT",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,2,1,1,0,H,St. James' Park,Newcastle,21,52145,Steve Bennett,4081
+2002/03,Premier League,22,"Wed 1 Jan 2003, 19:45 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,1,0,1,0,H,St. James' Park,Newcastle,21,52147,Dermot Gallagher,4137
+2002/03,Premier League,24,"Sat 18 Jan 2003, 15:00 GMT",Newcastle United,NEW,23,Manchester City,MCI,11,2,0,1,0,H,St. James' Park,Newcastle,21,52152,Graham Poll,4153
+2002/03,Premier League,24,"Wed 22 Jan 2003, 19:45 GMT",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,1,0,1,0,H,St. James' Park,Newcastle,21,52005,Phil Dowd,4208
+2002/03,Premier League,27,"Sun 9 Feb 2003, 16:05 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,1,1,0,1,D,St. James' Park,Newcastle,21,52157,Neale Barry,4421
+2002/03,Premier League,29,"Sat 1 Mar 2003, 12:30 GMT",Newcastle United,NEW,23,Chelsea,CHE,4,2,1,1,1,H,St. James' Park,Newcastle,21,52157,Brian Winter,4264
+2002/03,Premier League,31,"Sat 22 Mar 2003, 15:00 GMT",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,5,1,1,0,H,St. James' Park,Newcastle,21,52106,Neale Barry,4390
+2002/03,Premier League,33,"Sat 12 Apr 2003, 12:30 BST",Newcastle United,NEW,23,Manchester United,MUN,12,2,6,1,4,A,St. James' Park,Newcastle,21,52164,Steve Dunn,4060
+2002/03,Premier League,35,"Mon 21 Apr 2003, 15:00 BST",Newcastle United,NEW,23,Aston Villa,AVL,2,1,1,1,0,D,St. James' Park,Newcastle,21,52015,Brian Winter,4336
+2002/03,Premier League,37,"Sat 3 May 2003, 15:00 BST",Newcastle United,NEW,23,Birmingham City,BIR,35,1,0,1,0,H,St. James' Park,Newcastle,21,52146,David Elleray,4374
+2003/04,Premier League,15,"Sat 13 Dec 2003, 00:00 GMT",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,4,0,1,0,H,Sports Direct Arena,Newcastle,21,52138,Alan Wiley,4694
+2003/04,Premier League,2,"Sat 23 Aug 2003, 12:00 BST",Newcastle United,NEW,23,Manchester United,MUN,12,1,2,1,0,A,Sports Direct Arena,Newcastle,21,52165,Uriah Rennie,4662
+2003/04,Premier League,12,"Sat 22 Nov 2003, 15:00 GMT",Newcastle United,NEW,23,Manchester City,MCI,11,3,0,0,0,H,Sports Direct Arena,Newcastle,21,52159,Neale Barry,4496
+2003/04,Premier League,28,"Sat 20 Mar 2004, 00:00 GMT",Newcastle United,NEW,23,Charlton Athletic,CHA,31,3,1,2,0,H,Sports Direct Arena,Newcastle,21,51847,Mike Riley,4495
+2003/04,Premier League,18,"Sun 28 Dec 2003, 00:00 GMT",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,0,1,0,0,A,Sports Direct Arena,Newcastle,21,51648,Mark Halsey,4745
+2003/04,Premier League,35,"Sun 9 May 2004, 00:00 BST",Newcastle United,NEW,23,Wolverhampton Wanderers,WOL,38,1,1,1,0,D,Sports Direct Arena,Newcastle,21,52139,Matt Messias,4498
+2003/04,Premier League,25,"Sat 21 Feb 2004, 00:00 GMT",Newcastle United,NEW,23,Middlesbrough,MID,13,2,1,0,1,H,Sports Direct Arena,Newcastle,21,52156,Graham Poll,4559
+2003/04,Premier League,21,"Mon 19 Jan 2004, 00:00 GMT",Newcastle United,NEW,23,Fulham,FUL,34,3,1,2,0,H,Sports Direct Arena,Newcastle,21,50104,Neale Barry,4494
+2003/04,Premier League,7,"Sat 4 Oct 2003, 15:00 BST",Newcastle United,NEW,23,Southampton,SOU,20,1,0,1,0,H,Sports Direct Arena,Newcastle,21,52127,Phil Dowd,4500
+2003/04,Premier League,33,"Sun 25 Apr 2004, 00:00 BST",Newcastle United,NEW,23,Chelsea,CHE,4,2,1,1,1,H,Sports Direct Arena,Newcastle,21,52016,Rob Styles,4669
+2003/04,Premier League,9,"Sat 25 Oct 2003, 00:00 BST",Newcastle United,NEW,23,Portsmouth,POR,37,3,0,2,0,H,Sports Direct Arena,Newcastle,21,52161,Paul Durkin,4502
+2003/04,Premier League,5,"Sat 20 Sep 2003, 00:00 BST",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52014,Graham Barber,4497
+2003/04,Premier League,23,"Sat 7 Feb 2004, 00:00 GMT",Newcastle United,NEW,23,Leicester City,LEI,26,3,1,2,0,H,Sports Direct Arena,Newcastle,21,52125,Steve Dunn,4737
+2003/04,Premier League,31,"Sun 11 Apr 2004, 00:00 BST",Newcastle United,NEW,23,Arsenal,ARS,1,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52141,Paul Durkin,4800
+2003/04,Premier League,19,"Wed 7 Jan 2004, 19:45 GMT",Newcastle United,NEW,23,Leeds United,LEE,9,1,0,1,0,H,Sports Direct Arena,Newcastle,21,52130,Phil Dowd,4574
+2003/04,Premier League,3,"Sat 30 Aug 2003, 15:00 BST",Newcastle United,NEW,23,Birmingham City,BIR,35,0,1,0,0,A,Sports Direct Arena,Newcastle,21,52003,Matt Messias,4493
+2003/04,Premier League,10,"Sat 1 Nov 2003, 00:00 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,1,1,1,1,D,Sports Direct Arena,Newcastle,21,51975,Matt Messias,4499
+2003/04,Premier League,14,"Sat 6 Dec 2003, 12:30 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,1,1,0,1,D,Sports Direct Arena,Newcastle,21,52151,Graham Poll,4712
+2003/04,Premier League,30,"Sat 3 Apr 2004, 00:00 BST",Newcastle United,NEW,23,Everton,EVE,7,4,2,2,1,H,Sports Direct Arena,Newcastle,21,52155,Dermot Gallagher,4780
+2004/05,Premier League,2,"Sat 21 Aug 2004, 15:00 BST",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,0,1,0,0,A,Sports Direct Arena,Newcastle,21,52185,Mike Dean,5119
+2004/05,Premier League,3,"Wed 25 Aug 2004, 20:00 BST",Newcastle United,NEW,23,Norwich City,NOR,14,2,2,1,0,D,Sports Direct Arena,Newcastle,21,51574,Mark Halsey,5110
+2004/05,Premier League,5,"Sat 11 Sep 2004, 15:00 BST",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,3,0,2,0,H,Sports Direct Arena,Newcastle,21,52015,Dermot Gallagher,5144
+2004/05,Premier League,7,"Sat 25 Sep 2004, 15:00 BST",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,3,1,0,0,H,Sports Direct Arena,Newcastle,21,52308,Mike Riley,5156
+2004/05,Premier League,10,"Sun 24 Oct 2004, 15:00 BST",Newcastle United,NEW,23,Manchester City,MCI,11,4,3,0,0,H,Sports Direct Arena,Newcastle,21,52316,Steve Dunn,5086
+2004/05,Premier League,12,"Sun 7 Nov 2004, 15:00 GMT",Newcastle United,NEW,23,Fulham,FUL,34,1,4,0,1,A,Sports Direct Arena,Newcastle,21,51118,Howard Webb,5097
+2004/05,Premier League,13,"Sun 14 Nov 2004, 16:05 GMT",Newcastle United,NEW,23,Manchester United,MUN,12,1,3,0,1,A,Sports Direct Arena,Newcastle,21,52320,Mike Dean,5087
+2004/05,Premier League,15,"Sun 28 Nov 2004, 14:00 GMT",Newcastle United,NEW,23,Everton,EVE,7,1,1,1,0,D,Sports Direct Arena,Newcastle,21,51247,Neale Barry,5010
+2004/05,Premier League,17,"Sat 11 Dec 2004, 15:00 GMT",Newcastle United,NEW,23,Portsmouth,POR,37,1,1,1,1,D,Sports Direct Arena,Newcastle,21,51480,Mike Riley,5046
+2004/05,Premier League,20,"Wed 29 Dec 2004, 20:00 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,0,1,0,1,A,Sports Direct Arena,Newcastle,21,52320,Steve Bennett,4963
+2004/05,Premier League,21,"Sat 1 Jan 2005, 15:00 GMT",Newcastle United,NEW,23,Birmingham City,BIR,35,2,1,2,0,H,Sports Direct Arena,Newcastle,21,52222,Rob Styles,4954
+2004/05,Premier League,23,"Sat 15 Jan 2005, 15:00 GMT",Newcastle United,NEW,23,Southampton,SOU,20,2,1,2,1,H,Sports Direct Arena,Newcastle,21,51266,Uriah Rennie,4967
+2004/05,Premier League,26,"Sat 5 Feb 2005, 15:00 GMT",Newcastle United,NEW,23,Charlton Athletic,CHA,31,1,1,0,0,D,Sports Direct Arena,Newcastle,21,51114,Mark Halsey,4921
+2004/05,Premier League,28,"Sun 27 Feb 2005, 13:00 GMT",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,2,1,1,1,H,Sports Direct Arena,Newcastle,21,50430,Steve Dunn,4916
+2004/05,Premier League,29,"Sat 5 Mar 2005, 15:00 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,1,0,0,0,H,Sports Direct Arena,Newcastle,21,52323,Howard Webb,4817
+2004/05,Premier League,32,"Sat 2 Apr 2005, 15:00 BST",Newcastle United,NEW,23,Aston Villa,AVL,2,0,3,0,1,A,Sports Direct Arena,Newcastle,21,52306,Barry Knight,4835
+2004/05,Premier League,36,"Wed 27 Apr 2005, 19:45 BST",Newcastle United,NEW,23,Middlesbrough,MID,13,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52047,Mark Halsey,4870
+2004/05,Premier League,37,"Sat 30 Apr 2005, 15:00 BST",Newcastle United,NEW,23,Crystal Palace,CRY,6,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52123,Alan Wiley,4873
+2004/05,Premier League,39,"Sun 15 May 2005, 15:00 BST",Newcastle United,NEW,23,Chelsea,CHE,4,1,1,1,1,D,Sports Direct Arena,Newcastle,21,52356,Howard Webb,4894
+2005/06,Premier League,2,"Sat 20 Aug 2005, 15:00 BST",Newcastle United,NEW,23,West Ham United,WHU,25,0,0,0,0,D,Sports Direct Arena,Newcastle,21,51644,Dermot Gallagher,5505
+2005/06,Premier League,4,"Sun 28 Aug 2005, 16:00 BST",Newcastle United,NEW,23,Manchester United,MUN,12,0,2,0,0,A,Sports Direct Arena,Newcastle,21,52327,Howard Webb,5517
+2005/06,Premier League,5,"Sat 10 Sep 2005, 15:00 BST",Newcastle United,NEW,23,Fulham,FUL,34,1,1,0,1,D,Sports Direct Arena,Newcastle,21,52208,Alan Wiley,5519
+2005/06,Premier League,7,"Sat 24 Sep 2005, 15:00 BST",Newcastle United,NEW,23,Manchester City,MCI,11,1,0,1,0,H,Sports Direct Arena,Newcastle,21,52313,Graham Poll,5544
+2005/06,Premier League,10,"Sun 23 Oct 2005, 13:30 BST",Newcastle United,NEW,23,Sunderland,SUN,29,3,2,2,2,H,Sports Direct Arena,Newcastle,21,52304,Rob Styles,5553
+2005/06,Premier League,12,"Sat 5 Nov 2005, 15:00 GMT",Newcastle United,NEW,23,Birmingham City,BIR,35,1,0,0,0,H,Sports Direct Arena,Newcastle,21,52327,Mike Dean,5376
+2005/06,Premier League,15,"Sat 3 Dec 2005, 15:00 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,1,1,1,0,D,Sports Direct Arena,Newcastle,21,52269,Alan Wiley,5428
+2005/06,Premier League,16,"Sat 10 Dec 2005, 17:15 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,1,0,0,0,H,Sports Direct Arena,Newcastle,21,52303,Dermot Gallagher,5416
+2005/06,Premier League,21,"Mon 2 Jan 2006, 15:00 GMT",Newcastle United,NEW,23,Middlesbrough,MID,13,2,2,1,0,D,Sports Direct Arena,Newcastle,21,52302,Steve Bennett,5287
+2005/06,Premier League,23,"Sat 21 Jan 2006, 15:00 GMT",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,0,1,0,0,A,Sports Direct Arena,Newcastle,21,51782,Howard Webb,5295
+2005/06,Premier League,25,"Sat 4 Feb 2006, 15:00 GMT",Newcastle United,NEW,23,Portsmouth,POR,37,2,0,1,0,H,Sports Direct Arena,Newcastle,21,51724,Mark Halsey,5321
+2005/06,Premier League,26,"Wed 22 Feb 2006, 19:45 GMT",Newcastle United,NEW,23,Charlton Athletic,CHA,31,0,0,0,0,D,Sports Direct Arena,Newcastle,21,51545,Uriah Rennie,5337
+2005/06,Premier League,27,"Sat 25 Feb 2006, 17:15 GMT",Newcastle United,NEW,23,Everton,EVE,7,2,0,0,0,H,Sports Direct Arena,Newcastle,21,51916,Graham Poll,5334
+2005/06,Premier League,28,"Sat 4 Mar 2006, 15:00 GMT",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,3,1,2,0,H,Sports Direct Arena,Newcastle,21,52046,Alan Wiley,5367
+2005/06,Premier League,30,"Sun 19 Mar 2006, 13:30 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,1,3,1,2,A,Sports Direct Arena,Newcastle,21,52306,Mike Riley,5187
+2005/06,Premier League,32,"Sat 1 Apr 2006, 15:00 BST",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,3,1,3,1,H,Sports Direct Arena,Newcastle,21,52304,Mike Dean,5215
+2005/06,Premier League,34,"Sat 15 Apr 2006, 15:00 BST",Newcastle United,NEW,23,Wigan Athletic,WIG,39,3,1,2,1,H,Sports Direct Arena,Newcastle,21,52309,Uriah Rennie,5223
+2005/06,Premier League,35,"Sat 22 Apr 2006, 15:00 BST",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,3,0,2,0,H,Sports Direct Arena,Newcastle,21,52311,Howard Webb,5250
+2005/06,Premier League,38,"Sun 7 May 2006, 15:00 BST",Newcastle United,NEW,23,Chelsea,CHE,4,1,0,0,0,H,Sports Direct Arena,Newcastle,21,52309,Mike Riley,5264
+2006/07,Premier League,1,"Sat 19 Aug 2006, 15:00 BST",Newcastle United,NEW,23,Wigan Athletic,WIG,39,2,1,1,0,H,Sports Direct Arena,Newcastle,21,52227,Martin Atkinson,5766
+2006/07,Premier League,4,"Sat 9 Sep 2006, 15:00 BST",Newcastle United,NEW,23,Fulham,FUL,34,1,2,0,0,A,Sports Direct Arena,Newcastle,21,51398,Chris Foy,5775
+2006/07,Premier League,6,"Sun 24 Sep 2006, 16:00 BST",Newcastle United,NEW,23,Everton,EVE,7,1,1,1,1,D,Sports Direct Arena,Newcastle,21,50414,Steve Bennett,5709
+2006/07,Premier League,8,"Sun 15 Oct 2006, 16:00 BST",Newcastle United,NEW,23,Bolton Wanderers,BOL,27,1,2,1,0,A,Sports Direct Arena,Newcastle,21,48747,Alan Wiley,5755
+2006/07,Premier League,10,"Sat 28 Oct 2006, 17:15 BST",Newcastle United,NEW,23,Charlton Athletic,CHA,31,0,0,0,0,D,Sports Direct Arena,Newcastle,21,49642,Mike Dean,5691
+2006/07,Premier League,11,"Sat 4 Nov 2006, 17:15 GMT",Newcastle United,NEW,23,Sheffield United,SHU,18,0,1,0,0,A,Sports Direct Arena,Newcastle,21,50189,Steve Bennett,5715
+2006/07,Premier League,14,"Sun 26 Nov 2006, 13:30 GMT",Newcastle United,NEW,23,Portsmouth,POR,37,1,0,0,0,H,Sports Direct Arena,Newcastle,21,48834,Mark Halsey,5618
+2006/07,Premier League,16,"Wed 6 Dec 2006, 19:45 GMT",Newcastle United,NEW,23,Reading,RDG,40,3,2,1,2,H,Sports Direct Arena,Newcastle,21,48363,Rob Styles,5687
+2006/07,Premier League,18,"Sat 16 Dec 2006, 15:00 GMT",Newcastle United,NEW,23,Watford,WAT,33,2,1,0,0,H,Sports Direct Arena,Newcastle,21,49640,Martin Atkinson,5640
+2006/07,Premier League,19,"Sat 23 Dec 2006, 15:00 GMT",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,3,1,3,1,H,Sports Direct Arena,Newcastle,21,52093,Alan Wiley,5836
+2006/07,Premier League,22,"Mon 1 Jan 2007, 17:15 GMT",Newcastle United,NEW,23,Manchester United,MUN,12,2,2,1,1,D,Sports Direct Arena,Newcastle,21,52302,Rob Styles,5632
+2006/07,Premier League,24,"Sat 20 Jan 2007, 15:00 GMT",Newcastle United,NEW,23,West Ham United,WHU,25,2,2,1,2,D,Sports Direct Arena,Newcastle,21,52096,Uriah Rennie,5821
+2006/07,Premier League,25,"Wed 31 Jan 2007, 20:00 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,3,1,2,1,H,Sports Direct Arena,Newcastle,21,49438,Howard Webb,5909
+2006/07,Premier League,27,"Sat 10 Feb 2007, 15:00 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,2,1,1,1,H,Sports Direct Arena,Newcastle,21,52305,Mark Halsey,5888
+2006/07,Premier League,29,"Sat 3 Mar 2007, 15:00 GMT",Newcastle United,NEW,23,Middlesbrough,MID,13,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52303,Steve Bennett,5870
+2006/07,Premier League,31,"Sat 31 Mar 2007, 15:00 BST",Newcastle United,NEW,23,Manchester City,MCI,11,0,1,0,0,A,Sports Direct Arena,Newcastle,21,52320,Graham Poll,5849
+2006/07,Premier League,33,"Mon 9 Apr 2007, 15:00 BST",Newcastle United,NEW,23,Arsenal,ARS,1,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52299,Howard Webb,5933
+2006/07,Premier League,36,"Sun 22 Apr 2007, 13:30 BST",Newcastle United,NEW,23,Chelsea,CHE,4,0,0,0,0,D,Sports Direct Arena,Newcastle,21,52056,Mark Halsey,5583
+2006/07,Premier League,38,"Sat 5 May 2007, 15:00 BST",Newcastle United,NEW,23,Blackburn Rovers,BLB,3,0,2,0,1,A,Sports Direct Arena,Newcastle,21,51840,Martin Atkinson,5597
+2013/14,Premier League,2,"Sat 24 Aug 2013, 15:00 BST",Newcastle United,NEW,23,West Ham United,WHU,25,0,0,0,0,D,St. James' Park,Newcastle,21,49622,Phil Dowd,8647
+2013/14,Premier League,3,"Sat 31 Aug 2013, 15:00 BST",Newcastle United,NEW,23,Fulham,FUL,34,1,0,0,0,H,St. James' Park,Newcastle,21,46402,Chris Foy,8687
+2013/14,Premier League,5,"Sat 21 Sep 2013, 15:00 BST",Newcastle United,NEW,23,Hull City,HUL,41,2,3,2,1,A,St. James' Park,Newcastle,21,51523,Martin Atkinson,9000
+2013/14,Premier League,8,"Sat 19 Oct 2013, 12:45 BST",Newcastle United,NEW,23,Liverpool,LIV,10,2,2,1,1,D,St. James' Park,Newcastle,21,51703,Andre Marriner,8795
+2013/14,Premier League,10,"Sat 2 Nov 2013, 12:45 GMT",Newcastle United,NEW,23,Chelsea,CHE,4,2,0,0,0,H,St. James' Park,Newcastle,21,51674,Lee Mason,8755
+2013/14,Premier League,12,"Sat 23 Nov 2013, 15:00 GMT",Newcastle United,NEW,23,Norwich City,NOR,14,2,1,2,0,H,St. James' Park,Newcastle,21,51328,Mike Dean,8439
+2013/14,Premier League,13,"Sat 30 Nov 2013, 17:30 GMT",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,2,1,1,0,H,St. James' Park,Newcastle,21,49298,Phil Dowd,8319
+2013/14,Premier League,16,"Sat 14 Dec 2013, 15:00 GMT",Newcastle United,NEW,23,Southampton,SOU,20,1,1,1,0,D,St. James' Park,Newcastle,21,49164,Mike Jones,8267
+2013/14,Premier League,18,"Thu 26 Dec 2013, 15:00 GMT",Newcastle United,NEW,23,Stoke City,STK,42,5,1,1,1,H,St. James' Park,Newcastle,21,51665,Martin Atkinson,8619
+2013/14,Premier League,19,"Sun 29 Dec 2013, 13:30 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,0,1,0,0,A,St. James' Park,Newcastle,21,52161,Lee Probert,8495
+2013/14,Premier League,21,"Sun 12 Jan 2014, 14:05 GMT",Newcastle United,NEW,23,Manchester City,MCI,11,0,2,0,1,A,St. James' Park,Newcastle,21,49423,Mike Jones,9288
+2013/14,Premier League,24,"Sat 1 Feb 2014, 12:45 GMT",Newcastle United,NEW,23,Sunderland,SUN,29,0,3,0,2,A,St. James' Park,Newcastle,21,52280,Phil Dowd,9240
+2013/14,Premier League,26,"Wed 12 Feb 2014, 19:45 GMT",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,0,4,0,1,A,St. James' Park,Newcastle,21,48264,Neil Swarbrick,9164
+2013/14,Premier League,27,"Sun 23 Feb 2014, 13:30 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,1,0,0,0,H,St. James' Park,Newcastle,21,50417,Martin Atkinson,9064
+2013/14,Premier League,31,"Sat 22 Mar 2014, 15:00 GMT",Newcastle United,NEW,23,Crystal Palace,CRY,6,1,0,0,0,H,St. James' Park,Newcastle,21,51588,Lee Probert,9448
+2013/14,Premier League,32,"Tue 25 Mar 2014, 19:45 GMT",Newcastle United,NEW,23,Everton,EVE,7,0,3,0,1,A,St. James' Park,Newcastle,21,47622,Lee Mason,9376
+2013/14,Premier League,34,"Sat 5 Apr 2014, 15:00 BST",Newcastle United,NEW,23,Manchester United,MUN,12,0,4,0,1,A,St. James' Park,Newcastle,21,52081,Kevin Friend,9628
+2013/14,Premier League,37,"Sat 19 Apr 2014, 15:00 BST",Newcastle United,NEW,23,Swansea City,SWA,45,1,2,1,1,A,St. James' Park,Newcastle,21,51057,Chris Foy,9540
+2013/14,Premier League,39,"Sat 3 May 2014, 15:00 BST",Newcastle United,NEW,23,Cardiff City,CAR,46,3,0,1,0,H,St. James' Park,Newcastle,21,50239,Martin Atkinson,9688
+2014/15,Premier League,1,"Sun 17 Aug 2014, 16:00 BST",Newcastle United,NEW,23,Manchester City,MCI,11,0,2,0,1,A,St. James' Park,Newcastle,21,50816,Martin Atkinson,11236
+2014/15,Premier League,3,"Sat 30 Aug 2014, 15:00 BST",Newcastle United,NEW,23,Crystal Palace,CRY,6,3,3,1,1,D,St. James' Park,Newcastle,21,49226,Mike Jones,10164
+2014/15,Premier League,5,"Sat 20 Sep 2014, 15:00 BST",Newcastle United,NEW,23,Hull City,HUL,41,2,2,0,0,D,St. James' Park,Newcastle,21,49119,Neil Swarbrick,10208
+2014/15,Premier League,8,"Sat 18 Oct 2014, 15:00 BST",Newcastle United,NEW,23,Leicester City,LEI,26,1,0,0,0,H,St. James' Park,Newcastle,21,51886,Martin Atkinson,10540
+2014/15,Premier League,10,"Sat 1 Nov 2014, 12:45 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,1,0,0,0,H,St. James' Park,Newcastle,21,52166,Andre Marriner,10336
+2014/15,Premier League,12,"Sat 22 Nov 2014, 15:00 GMT",Newcastle United,NEW,23,Queens Park Rangers,QPR,17,1,0,0,0,H,St. James' Park,Newcastle,21,51915,Chris Foy,10384
+2014/15,Premier League,15,"Sat 6 Dec 2014, 12:45 GMT",Newcastle United,NEW,23,Chelsea,CHE,4,2,1,0,0,H,St. James' Park,Newcastle,21,52019,Martin Atkinson,9768
+2014/15,Premier League,17,"Sun 21 Dec 2014, 13:30 GMT",Newcastle United,NEW,23,Sunderland,SUN,29,0,1,0,0,A,St. James' Park,Newcastle,21,52315,Anthony Taylor,9856
+2014/15,Premier League,19,"Sun 28 Dec 2014, 16:15 GMT",Newcastle United,NEW,23,Everton,EVE,7,3,2,1,1,H,St. James' Park,Newcastle,21,52313,Craig Pawson,10024
+2014/15,Premier League,20,"Thu 1 Jan 2015, 15:00 GMT",Newcastle United,NEW,23,Burnley,BUR,43,3,3,2,1,D,St. James' Park,Newcastle,21,51761,Mike Dean,10108
+2014/15,Premier League,22,"Sat 17 Jan 2015, 17:30 GMT",Newcastle United,NEW,23,Southampton,SOU,20,1,2,1,1,A,St. James' Park,Newcastle,21,49307,Robert Madley,9952
+2014/15,Premier League,24,"Sun 8 Feb 2015, 14:05 GMT",Newcastle United,NEW,23,Stoke City,STK,42,1,1,0,0,D,St. James' Park,Newcastle,21,47763,Kevin Friend,11080
+2014/15,Premier League,27,"Sat 28 Feb 2015, 15:00 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,1,0,1,0,H,St. James' Park,Newcastle,21,51573,Lee Mason,10844
+2014/15,Premier League,28,"Wed 4 Mar 2015, 19:45 GMT",Newcastle United,NEW,23,Manchester United,MUN,12,0,1,0,0,A,St. James' Park,Newcastle,21,49801,Anthony Taylor,10960
+2014/15,Premier League,30,"Sat 21 Mar 2015, 15:00 GMT",Newcastle United,NEW,23,Arsenal,ARS,1,1,2,0,2,A,St. James' Park,Newcastle,21,50544,Mike Jones,11180
+2014/15,Premier League,33,"Sun 19 Apr 2015, 16:00 BST",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,1,3,0,1,A,St. James' Park,Newcastle,21,47427,Kevin Friend,10788
+2014/15,Premier League,34,"Sat 25 Apr 2015, 15:00 BST",Newcastle United,NEW,23,Swansea City,SWA,45,2,3,1,1,A,St. James' Park,Newcastle,21,46884,Neil Swarbrick,10680
+2014/15,Premier League,36,"Sat 9 May 2015, 15:00 BST",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,1,1,1,1,D,St. James' Park,Newcastle,21,47894,Chris Foy,10748
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Newcastle United,NEW,23,West Ham United,WHU,25,2,0,0,0,H,St. James' Park,Newcastle,21,52094,Martin Atkinson,10592
+2015/16,Premier League,1,"Sun 9 Aug 2015, 13:30 BST",Newcastle United,NEW,23,Southampton,SOU,20,2,2,1,1,D,St. James' Park,Newcastle,21,49019,Craig Pawson,13168
+2015/16,Premier League,4,"Sat 29 Aug 2015, 12:45 BST",Newcastle United,NEW,23,Arsenal,ARS,1,0,1,0,0,A,St. James' Park,Newcastle,21,50388,Andre Marriner,14095
+2015/16,Premier League,6,"Sat 19 Sep 2015, 15:00 BST",Newcastle United,NEW,23,Watford,WAT,33,1,2,0,2,A,St. James' Park,Newcastle,21,47806,Roger East,13967
+2015/16,Premier League,7,"Sat 26 Sep 2015, 17:30 BST",Newcastle United,NEW,23,Chelsea,CHE,4,2,2,1,0,D,St. James' Park,Newcastle,21,48682,Martin Atkinson,13979
+2015/16,Premier League,9,"Sun 18 Oct 2015, 16:00 BST",Newcastle United,NEW,23,Norwich City,NOR,14,6,2,3,2,H,St. James' Park,Newcastle,21,47006,Anthony Taylor,13899
+2015/16,Premier League,11,"Sat 31 Oct 2015, 15:00 GMT",Newcastle United,NEW,23,Stoke City,STK,42,0,0,0,0,D,St. James' Park,Newcastle,21,47139,Roger East,14835
+2015/16,Premier League,13,"Sat 21 Nov 2015, 15:00 GMT",Newcastle United,NEW,23,Leicester City,LEI,26,0,3,0,1,A,St. James' Park,Newcastle,21,50151,Mike Jones,14799
+2015/16,Premier League,15,"Sun 6 Dec 2015, 16:00 GMT",Newcastle United,NEW,23,Liverpool,LIV,10,2,0,0,0,H,St. James' Park,Newcastle,21,51273,Andre Marriner,14639
+2015/16,Premier League,17,"Sat 19 Dec 2015, 17:30 GMT",Newcastle United,NEW,23,Aston Villa,AVL,2,1,1,1,0,D,St. James' Park,Newcastle,21,48234,Martin Atkinson,14443
+2015/16,Premier League,18,"Sat 26 Dec 2015, 17:30 GMT",Newcastle United,NEW,23,Everton,EVE,7,0,1,0,0,A,St. James' Park,Newcastle,21,51682,Lee Mason,14363
+2015/16,Premier League,21,"Tue 12 Jan 2016, 19:45 GMT",Newcastle United,NEW,23,Manchester United,MUN,12,3,3,1,2,D,St. James' Park,Newcastle,21,49673,Mike Dean,14243
+2015/16,Premier League,22,"Sat 16 Jan 2016, 15:00 GMT",Newcastle United,NEW,23,West Ham United,WHU,25,2,1,2,0,H,St. James' Park,Newcastle,21,50031,Neil Swarbrick,11700
+2015/16,Premier League,25,"Sat 6 Feb 2016, 15:00 GMT",Newcastle United,NEW,23,West Bromwich Albion,WBA,36,1,0,1,0,H,St. James' Park,Newcastle,21,50152,Lee Mason,11596
+2015/16,Premier League,29,"Sat 5 Mar 2016, 15:00 GMT",Newcastle United,NEW,23,Bournemouth,BOU,127,1,3,0,1,A,St. James' Park,Newcastle,21,52107,Paul Tierney,11428
+2015/16,Premier League,31,"Sun 20 Mar 2016, 13:30 GMT",Newcastle United,NEW,23,Sunderland,SUN,29,1,1,0,1,D,St. James' Park,Newcastle,21,52311,Martin Atkinson,11852
+2015/16,Premier League,34,"Sat 16 Apr 2016, 15:00 BST",Newcastle United,NEW,23,Swansea City,SWA,45,3,0,1,0,H,St. James' Park,Newcastle,21,48949,Lee Mason,11752
+2015/16,Premier League,34,"Tue 19 Apr 2016, 19:45 BST",Newcastle United,NEW,23,Manchester City,MCI,11,1,1,1,1,D,St. James' Park,Newcastle,21,46424,Kevin Friend,11568
+2015/16,Premier League,36,"Sat 30 Apr 2016, 15:00 BST",Newcastle United,NEW,23,Crystal Palace,CRY,6,1,0,0,0,H,St. James' Park,Newcastle,21,52107,Mike Dean,12384
+2015/16,Premier League,38,"Sun 15 May 2016, 15:00 BST",Newcastle United,NEW,23,Tottenham Hotspur,TOT,21,5,1,2,0,H,St. James' Park,Newcastle,21,52183,Anthony Taylor,12128

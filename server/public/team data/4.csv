@@ -1,0 +1,179 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2001/02,Premier League,1,"Sun 19 Aug 2001, 14:00 BST",Chelsea,CHE,4,Newcastle United,NEW,23,1,1,1,0,D,Stamford Bridge,London,8,40124,Andy D'Urso,3735
+2001/02,Premier League,3,"Sat 8 Sep 2001, 15:00 BST",Chelsea,CHE,4,Arsenal,ARS,1,1,1,1,1,D,Stamford Bridge,London,8,40855,Mike Riley,3837
+2001/02,Premier League,5,"Sun 23 Sep 2001, 14:00 BST",Chelsea,CHE,4,Middlesbrough,MID,13,2,2,2,0,D,Stamford Bridge,London,8,36767,Rob Styles,3732
+2001/02,Premier League,7,"Sat 13 Oct 2001, 15:00 BST",Chelsea,CHE,4,Leicester City,LEI,26,2,0,2,0,H,Stamford Bridge,London,8,40370,Jeff Winter,3721
+2001/02,Premier League,11,"Sun 4 Nov 2001, 14:00 GMT",Chelsea,CHE,4,Ipswich Town,IPS,8,2,1,1,0,H,Stamford Bridge,London,8,40497,Rob Styles,3717
+2001/02,Premier League,13,"Sat 24 Nov 2001, 15:00 GMT",Chelsea,CHE,4,Blackburn Rovers,BLB,3,0,0,0,0,D,Stamford Bridge,London,8,37976,Graham Poll,3773
+2001/02,Premier League,14,"Wed 5 Dec 2001, 19:45 GMT",Chelsea,CHE,4,Charlton Athletic,CHA,31,0,1,0,0,A,Stamford Bridge,London,8,33504,Dermot Gallagher,3711
+2001/02,Premier League,16,"Sun 16 Dec 2001, 16:00 GMT",Chelsea,CHE,4,Liverpool,LIV,10,4,0,2,0,H,Stamford Bridge,London,8,41174,Mark Halsey,3723
+2001/02,Premier League,17,"Sun 23 Dec 2001, 14:00 GMT",Chelsea,CHE,4,Bolton Wanderers,BOL,27,5,1,2,1,H,Stamford Bridge,London,8,34063,Uriah Rennie,3668
+2001/02,Premier League,20,"Tue 1 Jan 2002, 15:00 GMT",Chelsea,CHE,4,Southampton,SOU,20,2,4,2,1,A,Stamford Bridge,London,8,35156,Eddie Wolstenholme,4032
+2001/02,Premier League,22,"Sun 20 Jan 2002, 14:00 GMT",Chelsea,CHE,4,West Ham United,WHU,25,5,1,1,0,H,Stamford Bridge,London,8,40035,Andy D'Urso,4031
+2001/02,Premier League,23,"Wed 30 Jan 2002, 20:00 GMT",Chelsea,CHE,4,Leeds United,LEE,9,2,0,2,0,H,Stamford Bridge,London,8,40614,Steve Bennett,4030
+2001/02,Premier League,28,"Wed 6 Mar 2002, 19:45 GMT",Chelsea,CHE,4,Fulham,FUL,34,3,2,2,1,H,Stamford Bridge,London,8,39744,Peter Jones,4028
+2001/02,Premier League,28,"Wed 13 Mar 2002, 19:45 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,4,0,1,0,H,Stamford Bridge,London,8,39652,Alan Wiley,4027
+2001/02,Premier League,29,"Sat 16 Mar 2002, 15:00 GMT",Chelsea,CHE,4,Sunderland,SUN,29,4,0,1,0,H,Stamford Bridge,London,8,40218,Barry Knight,4036
+2001/02,Premier League,31,"Sat 30 Mar 2002, 15:00 GMT",Chelsea,CHE,4,Derby County,DER,28,2,1,0,0,H,Stamford Bridge,London,8,37849,Mike Dean,4034
+2001/02,Premier League,33,"Sat 6 Apr 2002, 15:00 BST",Chelsea,CHE,4,Everton,EVE,7,3,0,2,0,H,Stamford Bridge,London,8,40545,David Elleray,4023
+2001/02,Premier League,35,"Sat 20 Apr 2002, 12:00 BST",Chelsea,CHE,4,Manchester United,MUN,12,0,3,0,2,A,Stamford Bridge,London,8,41725,Graham Barber,4022
+2001/02,Premier League,38,"Sat 11 May 2002, 15:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,1,3,0,1,A,Stamford Bridge,London,8,40709,Steve Bennett,3753
+2002/03,Premier League,2,"Fri 23 Aug 2002, 20:00 BST",Chelsea,CHE,4,Manchester United,MUN,12,2,2,2,1,D,Stamford Bridge,London,8,41541,Graham Poll,4250
+2002/03,Premier League,4,"Sun 1 Sep 2002, 16:05 BST",Chelsea,CHE,4,Arsenal,ARS,1,1,1,1,0,D,Stamford Bridge,London,8,40037,Andy D'Urso,4393
+2002/03,Premier League,6,"Sat 14 Sep 2002, 15:00 BST",Chelsea,CHE,4,Newcastle United,NEW,23,3,0,2,0,H,Stamford Bridge,London,8,39746,Barry Knight,4248
+2002/03,Premier League,8,"Sat 28 Sep 2002, 15:00 BST",Chelsea,CHE,4,West Ham United,WHU,25,2,3,1,1,A,Stamford Bridge,London,8,38929,Mike Dean,4246
+2002/03,Premier League,11,"Sat 26 Oct 2002, 15:00 BST",Chelsea,CHE,4,West Bromwich Albion,WBA,36,2,0,1,0,H,Stamford Bridge,London,8,40893,Steve Dunn,4274
+2002/03,Premier League,13,"Sat 9 Nov 2002, 15:00 GMT",Chelsea,CHE,4,Birmingham City,BIR,35,3,0,3,0,H,Stamford Bridge,London,8,35237,David Pugh,4354
+2002/03,Premier League,14,"Sat 16 Nov 2002, 15:00 GMT",Chelsea,CHE,4,Middlesbrough,MID,13,1,0,0,0,H,Stamford Bridge,London,8,39064,Phil Dowd,4282
+2002/03,Premier League,16,"Sat 30 Nov 2002, 15:00 GMT",Chelsea,CHE,4,Sunderland,SUN,29,3,0,0,0,H,Stamford Bridge,London,8,38946,Steve Bennett,4281
+2002/03,Premier League,19,"Sat 21 Dec 2002, 15:00 GMT",Chelsea,CHE,4,Aston Villa,AVL,2,2,0,1,0,H,Stamford Bridge,London,8,38284,Mike Riley,4311
+2002/03,Premier League,20,"Thu 26 Dec 2002, 12:00 GMT",Chelsea,CHE,4,Southampton,SOU,20,0,0,0,0,D,Stamford Bridge,London,8,39428,Paul Durkin,4278
+2002/03,Premier League,23,"Sat 11 Jan 2003, 15:00 GMT",Chelsea,CHE,4,Charlton Athletic,CHA,31,4,1,3,1,H,Stamford Bridge,London,8,37284,Mike Dean,4261
+2002/03,Premier League,25,"Tue 28 Jan 2003, 20:00 GMT",Chelsea,CHE,4,Leeds United,LEE,9,3,2,0,1,H,Stamford Bridge,London,8,39738,Jeff Winter,4266
+2002/03,Premier League,26,"Sat 1 Feb 2003, 15:00 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,1,1,1,1,D,Stamford Bridge,London,8,41384,Paul Durkin,4265
+2002/03,Premier League,28,"Sat 22 Feb 2003, 15:00 GMT",Chelsea,CHE,4,Blackburn Rovers,BLB,3,1,2,0,0,A,Stamford Bridge,London,8,40850,Graham Poll,4392
+2002/03,Premier League,31,"Sat 22 Mar 2003, 15:00 GMT",Chelsea,CHE,4,Manchester City,MCI,11,5,0,2,0,H,Stamford Bridge,London,8,41105,Phil Dowd,4272
+2002/03,Premier League,33,"Sat 12 Apr 2003, 15:00 BST",Chelsea,CHE,4,Bolton Wanderers,BOL,27,1,0,0,0,H,Stamford Bridge,London,8,39852,Graham Barber,4240
+2002/03,Premier League,35,"Mon 21 Apr 2003, 15:00 BST",Chelsea,CHE,4,Everton,EVE,7,4,1,1,0,H,Stamford Bridge,London,8,40875,Mike Riley,4270
+2002/03,Premier League,36,"Sat 26 Apr 2003, 15:00 BST",Chelsea,CHE,4,Fulham,FUL,34,1,1,1,0,D,Stamford Bridge,London,8,40792,David Elleray,4269
+2002/03,Premier League,38,"Sun 11 May 2003, 15:00 BST",Chelsea,CHE,4,Liverpool,LIV,10,2,1,2,1,H,Stamford Bridge,London,8,41911,Alan Wiley,4267
+2003/04,Premier League,15,"Sat 13 Dec 2003, 00:00 GMT",Chelsea,CHE,4,Bolton Wanderers,BOL,27,1,2,1,1,A,Stamford Bridge,London,8,40491,Matt Messias,4699
+2003/04,Premier League,34,"Sat 1 May 2004, 15:00 BST",Chelsea,CHE,4,Southampton,SOU,20,4,0,0,0,H,Stamford Bridge,London,8,41321,Paul Durkin,4482
+2003/04,Premier League,21,"Sun 18 Jan 2004, 00:00 GMT",Chelsea,CHE,4,Birmingham City,BIR,35,0,0,0,0,D,Stamford Bridge,London,8,41073,Jeff Winter,4600
+2003/04,Premier League,11,"Sun 9 Nov 2003, 16:05 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,5,0,3,0,H,Stamford Bridge,London,8,41322,Paul Durkin,4481
+2003/04,Premier League,32,"Sat 17 Apr 2004, 00:00 BST",Chelsea,CHE,4,Everton,EVE,7,0,0,0,0,D,Stamford Bridge,London,8,41169,Graham Poll,4791
+2003/04,Premier League,28,"Sat 20 Mar 2004, 00:00 GMT",Chelsea,CHE,4,Fulham,FUL,34,2,1,2,1,H,Stamford Bridge,London,8,41459,Neale Barry,4508
+2003/04,Premier League,18,"Sun 28 Dec 2003, 00:00 GMT",Chelsea,CHE,4,Portsmouth,POR,37,3,0,0,0,H,Stamford Bridge,London,8,41552,Graham Barber,4749
+2003/04,Premier League,6,"Sat 27 Sep 2003, 00:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,1,0,1,0,H,Stamford Bridge,London,8,41182,Jeff Winter,4510
+2003/04,Premier League,36,"Sat 15 May 2004, 15:00 BST",Chelsea,CHE,4,Leeds United,LEE,9,1,0,1,0,H,Stamford Bridge,London,8,41281,Mike Dean,4473
+2003/04,Premier League,2,"Sat 23 Aug 2003, 15:00 BST",Chelsea,CHE,4,Leicester City,LEI,26,2,1,2,1,H,Stamford Bridge,London,8,41074,Rob Styles,4656
+2003/04,Premier League,31,"Sat 10 Apr 2004, 00:00 BST",Chelsea,CHE,4,Middlesbrough,MID,13,0,0,0,0,D,Stamford Bridge,London,8,41011,Mark Halsey,4771
+2003/04,Premier League,9,"Sat 25 Oct 2003, 15:00 BST",Chelsea,CHE,4,Manchester City,MCI,11,1,0,1,0,H,Stamford Bridge,London,8,41143,Phil Dowd,4507
+2003/04,Premier League,4,"Sat 13 Sep 2003, 15:00 BST",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,4,2,2,1,H,Stamford Bridge,London,8,41165,Graham Poll,4509
+2003/04,Premier League,23,"Sun 8 Feb 2004, 00:00 GMT",Chelsea,CHE,4,Charlton Athletic,CHA,31,1,0,1,0,H,Stamford Bridge,London,8,41255,Steve Bennett,4741
+2003/04,Premier League,13,"Sun 30 Nov 2003, 16:05 GMT",Chelsea,CHE,4,Manchester United,MUN,12,1,0,1,0,H,Stamford Bridge,London,8,41932,Alan Wiley,4477
+2003/04,Premier League,3,"Sat 30 Aug 2003, 15:00 BST",Chelsea,CHE,4,Blackburn Rovers,BLB,3,2,2,1,1,D,Stamford Bridge,London,8,41066,Mike Dean,4678
+2003/04,Premier League,19,"Wed 7 Jan 2004, 00:00 GMT",Chelsea,CHE,4,Liverpool,LIV,10,0,1,0,1,A,Stamford Bridge,London,8,41533,Steve Dunn,4578
+2003/04,Premier League,25,"Sat 21 Feb 2004, 00:00 GMT",Chelsea,CHE,4,Arsenal,ARS,1,1,2,1,2,A,Stamford Bridge,London,8,41926,Mike Riley,4554
+2003/04,Premier League,29,"Sat 27 Mar 2004, 00:00 GMT",Chelsea,CHE,4,Wolverhampton Wanderers,WOL,38,5,2,1,1,H,Stamford Bridge,London,8,41215,Graham Barber,4480
+2004/05,Premier League,1,"Sun 15 Aug 2004, 16:00 BST",Chelsea,CHE,4,Manchester United,MUN,12,1,0,1,0,H,Stamford Bridge,London,8,42267,Graham Poll,5169
+2004/05,Premier League,4,"Sat 28 Aug 2004, 15:00 BST",Chelsea,CHE,4,Southampton,SOU,20,2,1,2,1,H,Stamford Bridge,London,8,40864,Steve Bennett,5143
+2004/05,Premier League,6,"Sun 19 Sep 2004, 16:05 BST",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,0,0,0,0,D,Stamford Bridge,London,8,42267,Mike Riley,5164
+2004/05,Premier League,8,"Sun 3 Oct 2004, 16:05 BST",Chelsea,CHE,4,Liverpool,LIV,10,1,0,0,0,H,Stamford Bridge,London,8,42028,Phil Dowd,5066
+2004/05,Premier League,10,"Sat 23 Oct 2004, 15:00 BST",Chelsea,CHE,4,Blackburn Rovers,BLB,3,4,0,2,0,H,Stamford Bridge,London,8,41546,Graham Poll,5049
+2004/05,Premier League,12,"Sat 6 Nov 2004, 15:00 GMT",Chelsea,CHE,4,Everton,EVE,7,1,0,0,0,H,Stamford Bridge,London,8,41999,Mike Riley,5099
+2004/05,Premier League,14,"Sat 20 Nov 2004, 15:00 GMT",Chelsea,CHE,4,Bolton Wanderers,BOL,27,2,2,1,0,D,Stamford Bridge,London,8,42257,Dermot Gallagher,5093
+2004/05,Premier League,16,"Sat 4 Dec 2004, 12:45 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,4,0,0,0,H,Stamford Bridge,London,8,42331,Rob Styles,5015
+2004/05,Premier League,18,"Sat 18 Dec 2004, 15:00 GMT",Chelsea,CHE,4,Norwich City,NOR,14,4,0,3,0,H,Stamford Bridge,London,8,42060,Mike Dean,5036
+2004/05,Premier League,19,"Sun 26 Dec 2004, 13:00 GMT",Chelsea,CHE,4,Aston Villa,AVL,2,1,0,1,0,H,Stamford Bridge,London,8,41988,Peter Walton,4937
+2004/05,Premier League,22,"Tue 4 Jan 2005, 19:45 GMT",Chelsea,CHE,4,Middlesbrough,MID,13,2,0,2,0,H,Stamford Bridge,London,8,40978,Steve Bennett,4985
+2004/05,Premier League,24,"Sat 22 Jan 2005, 15:00 GMT",Chelsea,CHE,4,Portsmouth,POR,37,3,0,3,0,H,Stamford Bridge,London,8,42288,Mike Riley,4974
+2004/05,Premier League,26,"Sun 6 Feb 2005, 16:05 GMT",Chelsea,CHE,4,Manchester City,MCI,11,0,0,0,0,D,Stamford Bridge,London,8,42093,Howard Webb,4920
+2004/05,Premier League,30,"Tue 15 Mar 2005, 19:45 GMT",Chelsea,CHE,4,West Bromwich Albion,WBA,36,1,0,1,0,H,Stamford Bridge,London,8,41699,Neale Barry,4815
+2004/05,Premier League,31,"Sat 19 Mar 2005, 15:00 GMT",Chelsea,CHE,4,Crystal Palace,CRY,6,4,1,1,1,H,Stamford Bridge,London,8,41678,Phil Dowd,4808
+2004/05,Premier League,33,"Sat 9 Apr 2005, 15:00 BST",Chelsea,CHE,4,Birmingham City,BIR,35,1,1,0,0,D,Stamford Bridge,London,8,42126,Chris Foy,4829
+2004/05,Premier League,35,"Wed 20 Apr 2005, 20:00 BST",Chelsea,CHE,4,Arsenal,ARS,1,0,0,0,0,D,Stamford Bridge,London,8,41621,Steve Bennett,4856
+2004/05,Premier League,36,"Sat 23 Apr 2005, 12:45 BST",Chelsea,CHE,4,Fulham,FUL,34,3,1,1,1,H,Stamford Bridge,London,8,42081,Alan Wiley,4885
+2004/05,Premier League,38,"Sat 7 May 2005, 12:30 BST",Chelsea,CHE,4,Charlton Athletic,CHA,31,1,0,0,0,H,Stamford Bridge,London,8,42065,Mike Riley,4897
+2005/06,Premier League,2,"Sun 21 Aug 2005, 16:00 BST",Chelsea,CHE,4,Arsenal,ARS,1,1,0,0,0,H,Stamford Bridge,London,8,42135,Graham Poll,5502
+2005/06,Premier League,3,"Wed 24 Aug 2005, 19:45 BST",Chelsea,CHE,4,West Bromwich Albion,WBA,36,4,0,2,0,H,Stamford Bridge,London,8,41218,Mark Halsey,5493
+2005/06,Premier League,5,"Sat 10 Sep 2005, 15:00 BST",Chelsea,CHE,4,Sunderland,SUN,29,2,0,0,0,H,Stamford Bridge,London,8,41916,Mike Dean,5523
+2005/06,Premier League,7,"Sat 24 Sep 2005, 15:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,2,1,1,1,H,Stamford Bridge,London,8,42023,Barry Knight,5545
+2005/06,Premier League,9,"Sat 15 Oct 2005, 15:00 BST",Chelsea,CHE,4,Bolton Wanderers,BOL,27,5,1,0,1,H,Stamford Bridge,London,8,41758,Rob Styles,5560
+2005/06,Premier League,11,"Sat 29 Oct 2005, 15:00 BST",Chelsea,CHE,4,Blackburn Rovers,BLB,3,4,2,2,2,H,Stamford Bridge,London,8,41463,Mike Riley,5388
+2005/06,Premier League,13,"Sat 19 Nov 2005, 15:00 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,3,0,0,0,H,Stamford Bridge,London,8,42198,Mark Halsey,5410
+2005/06,Premier League,15,"Sat 3 Dec 2005, 15:00 GMT",Chelsea,CHE,4,Middlesbrough,MID,13,1,0,0,0,H,Stamford Bridge,London,8,41692,Mike Riley,5430
+2005/06,Premier League,16,"Sat 10 Dec 2005, 15:00 GMT",Chelsea,CHE,4,Wigan Athletic,WIG,39,1,0,0,0,H,Stamford Bridge,London,8,42088,Howard Webb,5417
+2005/06,Premier League,18,"Mon 26 Dec 2005, 13:00 GMT",Chelsea,CHE,4,Fulham,FUL,34,3,2,2,1,H,Stamford Bridge,London,8,42117,Graham Poll,5442
+2005/06,Premier League,20,"Sat 31 Dec 2005, 13:00 GMT",Chelsea,CHE,4,Birmingham City,BIR,35,2,0,2,0,H,Stamford Bridge,London,8,40722,Mike Dean,5453
+2005/06,Premier League,23,"Sun 22 Jan 2006, 13:30 GMT",Chelsea,CHE,4,Charlton Athletic,CHA,31,1,1,1,0,D,Stamford Bridge,London,8,41369,Steve Bennett,5294
+2005/06,Premier League,25,"Sun 5 Feb 2006, 16:00 GMT",Chelsea,CHE,4,Liverpool,LIV,10,2,0,1,0,H,Stamford Bridge,London,8,42185,Alan Wiley,5313
+2005/06,Premier League,27,"Sat 25 Feb 2006, 15:00 GMT",Chelsea,CHE,4,Portsmouth,POR,37,2,0,0,0,H,Stamford Bridge,London,8,42269,Mike Riley,5333
+2005/06,Premier League,29,"Sat 11 Mar 2006, 12:45 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,2,1,1,1,H,Stamford Bridge,London,8,42237,Graham Poll,5357
+2005/06,Premier League,31,"Sat 25 Mar 2006, 15:00 GMT",Chelsea,CHE,4,Manchester City,MCI,11,2,0,2,0,H,Stamford Bridge,London,8,42254,Rob Styles,5194
+2005/06,Premier League,33,"Sun 9 Apr 2006, 12:00 BST",Chelsea,CHE,4,West Ham United,WHU,25,4,1,2,1,H,Stamford Bridge,London,8,41823,Chris Foy,5233
+2005/06,Premier League,34,"Mon 17 Apr 2006, 15:00 BST",Chelsea,CHE,4,Everton,EVE,7,3,0,1,0,H,Stamford Bridge,London,8,41667,Rob Styles,5217
+2005/06,Premier League,37,"Sat 29 Apr 2006, 12:30 BST",Chelsea,CHE,4,Manchester United,MUN,12,3,0,1,0,H,Stamford Bridge,London,8,42182,Mike Dean,5244
+2006/07,Premier League,1,"Sun 20 Aug 2006, 16:00 BST",Chelsea,CHE,4,Manchester City,MCI,11,3,0,2,0,H,Stamford Bridge,London,8,41814,Steve Bennett,5769
+2006/07,Premier League,4,"Sat 9 Sep 2006, 15:00 BST",Chelsea,CHE,4,Charlton Athletic,CHA,31,2,1,1,0,H,Stamford Bridge,London,8,41194,Alan Wiley,5772
+2006/07,Premier League,5,"Sun 17 Sep 2006, 13:30 BST",Chelsea,CHE,4,Liverpool,LIV,10,1,0,1,0,H,Stamford Bridge,London,8,41882,Mike Riley,5734
+2006/07,Premier League,7,"Sat 30 Sep 2006, 15:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,1,1,1,1,D,Stamford Bridge,London,8,41949,Graham Poll,5728
+2006/07,Premier League,9,"Sat 21 Oct 2006, 15:00 BST",Chelsea,CHE,4,Portsmouth,POR,37,2,1,0,0,H,Stamford Bridge,London,8,41891,Mark Clattenburg,5742
+2006/07,Premier League,12,"Sat 11 Nov 2006, 15:00 GMT",Chelsea,CHE,4,Watford,WAT,33,4,0,2,0,H,Stamford Bridge,London,8,41935,Howard Webb,5675
+2006/07,Premier League,13,"Sat 18 Nov 2006, 15:00 GMT",Chelsea,CHE,4,West Ham United,WHU,25,1,0,1,0,H,Stamford Bridge,London,8,41948,Mike Dean,5681
+2006/07,Premier League,17,"Sun 10 Dec 2006, 16:00 GMT",Chelsea,CHE,4,Arsenal,ARS,1,1,1,0,0,D,Stamford Bridge,London,8,41945,Alan Wiley,5654
+2006/07,Premier League,17,"Wed 13 Dec 2006, 19:45 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,1,0,0,0,H,Stamford Bridge,London,8,41944,Phil Dowd,5671
+2006/07,Premier League,20,"Tue 26 Dec 2006, 13:00 GMT",Chelsea,CHE,4,Reading,RDG,40,2,2,1,0,D,Stamford Bridge,London,8,41923,Alan Wiley,5819
+2006/07,Premier League,21,"Sat 30 Dec 2006, 15:00 GMT",Chelsea,CHE,4,Fulham,FUL,34,2,2,1,1,D,Stamford Bridge,London,8,41934,Howard Webb,5912
+2006/07,Premier League,23,"Sat 13 Jan 2007, 15:00 GMT",Chelsea,CHE,4,Wigan Athletic,WIG,39,4,0,1,0,H,Stamford Bridge,London,8,40845,Martin Atkinson,5844
+2006/07,Premier League,25,"Wed 31 Jan 2007, 19:45 GMT",Chelsea,CHE,4,Blackburn Rovers,BLB,3,3,0,1,0,H,Stamford Bridge,London,8,37967,Graham Poll,5806
+2006/07,Premier League,27,"Sat 10 Feb 2007, 15:00 GMT",Chelsea,CHE,4,Middlesbrough,MID,13,3,0,1,0,H,Stamford Bridge,London,8,41709,Chris Foy,5889
+2006/07,Premier League,30,"Sat 17 Mar 2007, 15:00 GMT",Chelsea,CHE,4,Sheff Utd,SHU,18,3,0,2,0,H,Stamford Bridge,London,8,41908,Chris Foy,5863
+2006/07,Premier League,32,"Sat 7 Apr 2007, 12:45 BST",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,1,0,0,0,H,Stamford Bridge,London,8,41869,Rob Styles,5941
+2006/07,Premier League,37,"Sat 28 Apr 2007, 12:45 BST",Chelsea,CHE,4,Bolton Wanderers,BOL,27,2,2,2,1,D,Stamford Bridge,London,8,41125,Rob Styles,5575
+2006/07,Premier League,38,"Wed 9 May 2007, 20:00 BST",Chelsea,CHE,4,Manchester United,MUN,12,0,0,0,0,D,Stamford Bridge,London,8,41868,Graham Poll,5921
+2006/07,Premier League,39,"Sun 13 May 2007, 15:00 BST",Chelsea,CHE,4,Everton,EVE,7,1,1,0,0,D,Stamford Bridge,London,8,41818,Mark Halsey,5596
+2013/14,Premier League,1,"Sun 18 Aug 2013, 16:00 BST",Chelsea,CHE,4,Hull City,HUL,41,2,0,2,0,H,Stamford Bridge,London,8,41374,Jonathan Moss,8715
+2013/14,Premier League,1,"Wed 21 Aug 2013, 19:45 BST",Chelsea,CHE,4,Aston Villa,AVL,2,2,1,1,1,H,Stamford Bridge,London,8,41527,Kevin Friend,8671
+2013/14,Premier League,5,"Sat 21 Sep 2013, 17:30 BST",Chelsea,CHE,4,Fulham,FUL,34,2,0,0,0,H,Stamford Bridge,London,8,41608,Andre Marriner,8983
+2013/14,Premier League,8,"Sat 19 Oct 2013, 15:00 BST",Chelsea,CHE,4,Cardiff City,CAR,46,4,1,1,1,H,Stamford Bridge,London,8,41475,Anthony Taylor,8779
+2013/14,Premier League,9,"Sun 27 Oct 2013, 16:00 GMT",Chelsea,CHE,4,Manchester City,MCI,11,2,1,1,0,H,Stamford Bridge,London,8,41495,Howard Webb,8819
+2013/14,Premier League,11,"Sat 9 Nov 2013, 15:00 GMT",Chelsea,CHE,4,West Bromwich Albion,WBA,36,2,2,1,0,D,Stamford Bridge,London,8,41623,Andre Marriner,8387
+2013/14,Premier League,13,"Sun 1 Dec 2013, 16:10 GMT",Chelsea,CHE,4,Southampton,SOU,20,3,1,0,1,H,Stamford Bridge,London,8,41568,Michael Oliver,8343
+2013/14,Premier League,16,"Sat 14 Dec 2013, 15:00 GMT",Chelsea,CHE,4,Crystal Palace,CRY,6,2,1,2,1,H,Stamford Bridge,London,8,41608,Mark Clattenburg,8291
+2013/14,Premier League,18,"Thu 26 Dec 2013, 15:00 GMT",Chelsea,CHE,4,Swansea City,SWA,45,1,0,1,0,H,Stamford Bridge,London,8,41111,Mike Jones,8603
+2013/14,Premier League,19,"Sun 29 Dec 2013, 16:00 GMT",Chelsea,CHE,4,Liverpool,LIV,10,2,1,2,1,H,Stamford Bridge,London,8,41614,Howard Webb,8479
+2013/14,Premier League,22,"Sun 19 Jan 2014, 16:00 GMT",Chelsea,CHE,4,Manchester United,MUN,12,3,1,2,0,H,Stamford Bridge,London,8,41615,Phil Dowd,9308
+2013/14,Premier League,23,"Wed 29 Jan 2014, 19:45 GMT",Chelsea,CHE,4,West Ham United,WHU,25,0,0,0,0,D,Stamford Bridge,London,8,41376,Neil Swarbrick,9212
+2013/14,Premier League,25,"Sat 8 Feb 2014, 15:00 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,3,0,2,0,H,Stamford Bridge,London,8,41387,Howard Webb,9136
+2013/14,Premier League,27,"Sat 22 Feb 2014, 12:45 GMT",Chelsea,CHE,4,Everton,EVE,7,1,0,0,0,H,Stamford Bridge,London,8,41580,Lee Probert,9048
+2013/14,Premier League,29,"Sat 8 Mar 2014, 17:30 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,4,0,0,0,H,Stamford Bridge,London,8,41598,Michael Oliver,9360
+2013/14,Premier League,31,"Sat 22 Mar 2014, 12:45 GMT",Chelsea,CHE,4,Arsenal,ARS,1,6,0,4,0,H,Stamford Bridge,London,8,41614,Andre Marriner,9432
+2013/14,Premier League,34,"Sat 5 Apr 2014, 17:30 BST",Chelsea,CHE,4,Stoke City,STK,42,3,0,1,0,H,Stamford Bridge,London,8,41168,Lee Probert,9612
+2013/14,Premier League,37,"Sat 19 Apr 2014, 17:30 BST",Chelsea,CHE,4,Sunderland,SUN,29,1,2,1,1,A,Stamford Bridge,London,8,41210,Mike Dean,9564
+2013/14,Premier League,39,"Sun 4 May 2014, 16:00 BST",Chelsea,CHE,4,Norwich City,NOR,14,0,0,0,0,D,Stamford Bridge,London,8,41602,Neil Swarbrick,9516
+2014/15,Premier League,2,"Sat 23 Aug 2014, 15:00 BST",Chelsea,CHE,4,Leicester City,LEI,26,2,0,0,0,H,Stamford Bridge,London,8,41604,Lee Mason,10576
+2014/15,Premier League,4,"Sat 13 Sep 2014, 15:00 BST",Chelsea,CHE,4,Swansea City,SWA,45,4,2,1,1,H,Stamford Bridge,London,8,41400,Kevin Friend,10260
+2014/15,Premier League,6,"Sat 27 Sep 2014, 15:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,3,0,1,0,H,Stamford Bridge,London,8,41616,Phil Dowd,10428
+2014/15,Premier League,7,"Sun 5 Oct 2014, 14:05 BST",Chelsea,CHE,4,Arsenal,ARS,1,2,0,1,0,H,Stamford Bridge,London,8,41607,Martin Atkinson,10392
+2014/15,Premier League,10,"Sat 1 Nov 2014, 15:00 GMT",Chelsea,CHE,4,Queens Park Rangers,QPR,17,2,1,1,0,H,Stamford Bridge,London,8,41486,Mike Jones,10320
+2014/15,Premier League,12,"Sat 22 Nov 2014, 15:00 GMT",Chelsea,CHE,4,West Bromwich Albion,WBA,36,2,0,2,0,H,Stamford Bridge,London,8,41600,Lee Mason,10368
+2014/15,Premier League,14,"Wed 3 Dec 2014, 19:45 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,3,0,2,0,H,Stamford Bridge,London,8,41518,Mike Dean,9796
+2014/15,Premier League,16,"Sat 13 Dec 2014, 15:00 GMT",Chelsea,CHE,4,Hull City,HUL,41,2,0,1,0,H,Stamford Bridge,London,8,41626,Chris Foy,9900
+2014/15,Premier League,18,"Fri 26 Dec 2014, 12:45 GMT",Chelsea,CHE,4,West Ham United,WHU,25,2,0,1,0,H,Stamford Bridge,London,8,41589,Michael Oliver,10028
+2014/15,Premier League,21,"Sat 10 Jan 2015, 15:00 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,2,0,1,0,H,Stamford Bridge,London,8,41612,Roger East,10080
+2014/15,Premier League,23,"Sat 31 Jan 2015, 17:30 GMT",Chelsea,CHE,4,Manchester City,MCI,11,1,1,1,1,D,Stamford Bridge,London,8,41620,Mark Clattenburg,11016
+2014/15,Premier League,25,"Wed 11 Feb 2015, 19:45 GMT",Chelsea,CHE,4,Everton,EVE,7,1,0,0,0,H,Stamford Bridge,London,8,41592,Jonathan Moss,11032
+2014/15,Premier League,26,"Sat 21 Feb 2015, 15:00 GMT",Chelsea,CHE,4,Burnley,BUR,43,1,1,1,0,D,Stamford Bridge,London,8,41629,Martin Atkinson,10896
+2014/15,Premier League,29,"Sun 15 Mar 2015, 13:30 GMT",Chelsea,CHE,4,Southampton,SOU,20,1,1,1,1,D,Stamford Bridge,London,8,41624,Mike Dean,10904
+2014/15,Premier League,31,"Sat 4 Apr 2015, 17:30 BST",Chelsea,CHE,4,Stoke City,STK,42,2,1,1,1,H,Stamford Bridge,London,8,41098,Jonathan Moss,11112
+2014/15,Premier League,33,"Sat 18 Apr 2015, 17:30 BST",Chelsea,CHE,4,Manchester United,MUN,12,1,0,1,0,H,Stamford Bridge,London,8,41422,Mike Dean,10812
+2014/15,Premier League,35,"Sun 3 May 2015, 13:30 BST",Chelsea,CHE,4,Crystal Palace,CRY,6,1,0,1,0,H,Stamford Bridge,London,8,41566,Kevin Friend,10656
+2014/15,Premier League,36,"Sun 10 May 2015, 16:00 BST",Chelsea,CHE,4,Liverpool,LIV,10,1,1,1,1,D,Stamford Bridge,London,8,41547,Andre Marriner,10772
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Chelsea,CHE,4,Sunderland,SUN,29,3,1,1,1,H,Stamford Bridge,London,8,41620,Lee Mason,10616
+2015/16,Premier League,1,"Sat 8 Aug 2015, 17:30 BST",Chelsea,CHE,4,Swansea City,SWA,45,2,2,2,1,D,Stamford Bridge,London,8,41232,Michael Oliver,13160
+2015/16,Premier League,4,"Sat 29 Aug 2015, 15:00 BST",Chelsea,CHE,4,Crystal Palace,CRY,6,1,2,0,0,A,Stamford Bridge,London,8,41581,Craig Pawson,14091
+2015/16,Premier League,6,"Sat 19 Sep 2015, 12:45 BST",Chelsea,CHE,4,Arsenal,ARS,1,2,0,0,0,H,Stamford Bridge,London,8,41584,Mike Dean,14023
+2015/16,Premier League,8,"Sat 3 Oct 2015, 17:30 BST",Chelsea,CHE,4,Southampton,SOU,20,1,3,1,1,A,Stamford Bridge,London,8,41642,Robert Madley,13943
+2015/16,Premier League,9,"Sat 17 Oct 2015, 15:00 BST",Chelsea,CHE,4,Aston Villa,AVL,2,2,0,1,0,H,Stamford Bridge,London,8,41596,Roger East,13919
+2015/16,Premier League,11,"Sat 31 Oct 2015, 12:45 GMT",Chelsea,CHE,4,Liverpool,LIV,10,1,3,1,1,A,Stamford Bridge,London,8,41577,Mark Clattenburg,13835
+2015/16,Premier League,13,"Sat 21 Nov 2015, 15:00 GMT",Chelsea,CHE,4,Norwich City,NOR,14,1,0,0,0,H,Stamford Bridge,London,8,41582,Craig Pawson,14775
+2015/16,Premier League,15,"Sat 5 Dec 2015, 17:30 GMT",Chelsea,CHE,4,AFC Bournemouth,BOU,127,0,1,0,0,A,Stamford Bridge,London,8,41631,Mike Jones,14591
+2015/16,Premier League,17,"Sat 19 Dec 2015, 15:00 GMT",Chelsea,CHE,4,Sunderland,SUN,29,3,1,2,0,H,Stamford Bridge,London,8,41562,Roger East,14347
+2015/16,Premier League,18,"Sat 26 Dec 2015, 15:00 GMT",Chelsea,CHE,4,Watford,WAT,33,2,2,1,1,D,Stamford Bridge,London,8,41630,Andre Marriner,14311
+2015/16,Premier League,21,"Wed 13 Jan 2016, 19:45 GMT",Chelsea,CHE,4,West Bromwich Albion,WBA,36,2,2,1,1,D,Stamford Bridge,London,8,40945,Anthony Taylor,14943
+2015/16,Premier League,22,"Sat 16 Jan 2016, 15:00 GMT",Chelsea,CHE,4,Everton,EVE,7,3,3,0,0,D,Stamford Bridge,London,8,41633,Mike Jones,14931
+2015/16,Premier League,25,"Sun 7 Feb 2016, 16:00 GMT",Chelsea,CHE,4,Manchester United,MUN,12,1,1,0,0,D,Stamford Bridge,London,8,41434,Michael Oliver,11648
+2015/16,Premier League,26,"Sat 13 Feb 2016, 17:30 GMT",Chelsea,CHE,4,Newcastle United,NEW,23,5,1,3,0,H,Stamford Bridge,London,8,41622,Roger East,11616
+2015/16,Premier League,29,"Sat 5 Mar 2016, 15:00 GMT",Chelsea,CHE,4,Stoke City,STK,42,1,1,1,0,D,Stamford Bridge,London,8,41381,Mark Clattenburg,11316
+2015/16,Premier League,31,"Sat 19 Mar 2016, 15:00 GMT",Chelsea,CHE,4,West Ham United,WHU,25,2,2,1,1,D,Stamford Bridge,London,8,41623,Robert Madley,11848
+2015/16,Premier League,34,"Sat 16 Apr 2016, 17:30 BST",Chelsea,CHE,4,Manchester City,MCI,11,0,3,0,1,A,Stamford Bridge,London,8,41212,Mike Dean,11764
+2015/16,Premier League,36,"Mon 2 May 2016, 20:00 BST",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,2,2,0,2,D,Stamford Bridge,London,8,41545,Mark Clattenburg,12276
+2015/16,Premier League,38,"Sun 15 May 2016, 15:00 BST",Chelsea,CHE,4,Leicester City,LEI,26,1,1,0,0,D,Stamford Bridge,London,8,41494,Craig Pawson,12180
+2016/17,Premier League,1,"Mon 15 Aug 2016, 20:00 BST",Chelsea,CHE,4,West Ham United,WHU,25,2,1,0,0,H,Stamford Bridge,London,8,41521,Anthony Taylor,17728
+2016/17,Premier League,3,"Sat 27 Aug 2016, 15:00 BST",Chelsea,CHE,4,Burnley,BUR,43,3,0,2,0,H,Stamford Bridge,London,8,41607,Mark Clattenburg,17880
+2016/17,Premier League,5,"Fri 16 Sep 2016, 20:00 BST",Chelsea,CHE,4,Liverpool,LIV,10,1,2,0,2,A,Stamford Bridge,London,8,41514,Martin Atkinson,18112
+2016/17,Premier League,8,"Sat 15 Oct 2016, 12:30 BST",Chelsea,CHE,4,Leicester City,LEI,26,3,0,2,0,H,Stamford Bridge,London,8,41547,Andre Marriner,18456
+2016/17,Premier League,9,"Sun 23 Oct 2016, 16:00 BST",Chelsea,CHE,4,Manchester United,MUN,12,4,0,2,0,H,Stamford Bridge,London,8,41424,Martin Atkinson,18694
+2016/17,Premier League,11,"Sat 5 Nov 2016, 17:30 GMT",Chelsea,CHE,4,Everton,EVE,7,5,0,3,0,H,Stamford Bridge,London,8,41429,Robert Madley,19067
+2016/17,Premier League,13,"Sat 26 Nov 2016, 17:30 GMT",Chelsea,CHE,4,Tottenham Hotspur,TOT,21,2,1,1,1,H,Stamford Bridge,London,8,41513,Michael Oliver,19420

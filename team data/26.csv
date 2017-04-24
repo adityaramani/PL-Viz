@@ -1,0 +1,84 @@
+Season,Competition,GameWeek,Kick Off Time,Home Team Name,Home Team Abbr,Home Team ID,Away Team Name,Away Team Abbr,Away Team Id,Home Score,Away Score,HT Home Score,HT Away Team,Outcome,Stadium,Location,Stadium Id,Attendance,Referee,Referee Id
+2001/02,Premier League,1,"Sat 18 Aug 2001, 15:00 BST",Leicester City,LEI,26,Bolton Wanderers,BOL,27,0,5,0,4,A,Filbert Street,Leicester,307,21455,Rob Styles,3782
+2001/02,Premier League,3,"Sat 8 Sep 2001, 15:00 BST",Leicester City,LEI,26,Ipswich Town,IPS,8,1,1,0,1,D,Filbert Street,Leicester,307,18774,Barry Knight,3993
+2001/02,Premier League,4,"Mon 17 Sep 2001, 20:00 BST",Leicester City,LEI,26,Middlesbrough,MID,13,1,2,1,0,A,Filbert Street,Leicester,307,15415,Neale Barry,3920
+2001/02,Premier League,5,"Sat 22 Sep 2001, 15:00 BST",Leicester City,LEI,26,Fulham,FUL,34,0,0,0,0,D,Filbert Street,Leicester,307,18918,Eddie Wolstenholme,3972
+2001/02,Premier League,8,"Sat 20 Oct 2001, 15:00 BST",Leicester City,LEI,26,Liverpool,LIV,10,1,4,0,3,A,Filbert Street,Leicester,307,21886,Mark Halsey,3918
+2001/02,Premier League,11,"Sat 3 Nov 2001, 12:00 GMT",Leicester City,LEI,26,Sunderland,SUN,29,1,0,0,0,H,Filbert Street,Leicester,307,20573,Steve Dunn,3917
+2001/02,Premier League,13,"Sat 24 Nov 2001, 15:00 GMT",Leicester City,LEI,26,Everton,EVE,7,0,0,0,0,D,Filbert Street,Leicester,307,21539,Uriah Rennie,3949
+2001/02,Premier League,15,"Sat 8 Dec 2001, 15:00 GMT",Leicester City,LEI,26,Southampton,SOU,20,0,4,0,1,A,Filbert Street,Leicester,307,20321,Graham Poll,3925
+2001/02,Premier League,17,"Sat 22 Dec 2001, 15:00 GMT",Leicester City,LEI,26,West Ham United,WHU,25,1,1,1,0,D,Filbert Street,Leicester,307,20131,Dermot Gallagher,3860
+2001/02,Premier League,22,"Sat 19 Jan 2002, 15:00 GMT",Leicester City,LEI,26,Newcastle United,NEW,23,0,0,0,0,D,Filbert Street,Leicester,307,21354,Alan Wiley,3858
+2001/02,Premier League,22,"Wed 23 Jan 2002, 19:45 GMT",Leicester City,LEI,26,Arsenal,ARS,1,1,3,0,2,A,Filbert Street,Leicester,307,21344,David Elleray,3789
+2001/02,Premier League,24,"Sat 2 Feb 2002, 15:00 GMT",Leicester City,LEI,26,Chelsea,CHE,4,2,3,1,0,A,Filbert Street,Leicester,307,19950,Graham Barber,4029
+2001/02,Premier League,26,"Sat 23 Feb 2002, 15:00 GMT",Leicester City,LEI,26,Derby County,DER,28,0,3,0,0,A,Filbert Street,Leicester,307,21620,Mike Riley,3935
+2001/02,Premier League,28,"Sat 9 Mar 2002, 15:00 GMT",Leicester City,LEI,26,Charlton Athletic,CHA,31,1,1,1,1,D,Filbert Street,Leicester,307,18562,Clive Wilkes,3702
+2001/02,Premier League,30,"Sat 23 Mar 2002, 15:00 GMT",Leicester City,LEI,26,Leeds United,LEE,9,0,2,0,2,A,Filbert Street,Leicester,307,18976,Steve Dunn,4004
+2001/02,Premier League,31,"Sat 30 Mar 2002, 15:00 GMT",Leicester City,LEI,26,Blackburn Rovers,BLB,3,2,1,1,0,H,Filbert Street,Leicester,307,16236,Graham Barber,3759
+2001/02,Premier League,33,"Sat 6 Apr 2002, 12:00 BST",Leicester City,LEI,26,Manchester United,MUN,12,0,1,0,0,A,Filbert Street,Leicester,307,21447,Andy D'Urso,3852
+2001/02,Premier League,35,"Sat 20 Apr 2002, 15:00 BST",Leicester City,LEI,26,Aston Villa,AVL,2,2,2,1,2,D,Filbert Street,Leicester,307,18125,Graham Poll,3755
+2001/02,Premier League,38,"Sat 11 May 2002, 15:00 BST",Leicester City,LEI,26,Tottenham Hotspur,TOT,21,2,1,0,0,H,Filbert Street,Leicester,307,21716,David Elleray,3851
+2003/04,Premier League,29,"Sun 28 Mar 2004, 00:00 GMT",Leicester City,LEI,26,Liverpool,LIV,10,0,0,0,0,D,King Power Stadium,Leicester,307,32013,Phil Dowd,4471
+2003/04,Premier League,8,"Sun 19 Oct 2003, 15:00 BST",Leicester City,LEI,26,Tottenham Hotspur,TOT,21,1,2,1,0,A,King Power Stadium,Leicester,307,31521,Andy D'Urso,4450
+2003/04,Premier League,35,"Sat 8 May 2004, 00:00 BST",Leicester City,LEI,26,Portsmouth,POR,37,3,1,2,0,H,King Power Stadium,Leicester,307,31536,Graham Poll,4756
+2003/04,Premier League,2,"Tue 26 Aug 2003, 19:45 BST",Leicester City,LEI,26,Middlesbrough,MID,13,0,0,0,0,D,King Power Stadium,Leicester,307,30823,Graham Barber,4683
+2003/04,Premier League,31,"Sat 10 Apr 2004, 00:00 BST",Leicester City,LEI,26,Fulham,FUL,34,0,2,0,0,A,King Power Stadium,Leicester,307,28392,Peter Walton,4769
+2003/04,Premier League,28,"Sat 20 Mar 2004, 00:00 GMT",Leicester City,LEI,26,Everton,EVE,7,1,1,0,0,D,King Power Stadium,Leicester,307,31650,Barry Knight,4516
+2003/04,Premier League,15,"Sat 13 Dec 2003, 00:00 GMT",Leicester City,LEI,26,Birmingham City,BIR,35,0,2,0,1,A,King Power Stadium,Leicester,307,30639,Mike Riley,4697
+2003/04,Premier League,26,"Sat 28 Feb 2004, 00:00 GMT",Leicester City,LEI,26,Wolverhampton Wanderers,WOL,38,0,0,0,0,D,King Power Stadium,Leicester,307,31768,Brian Winter,4591
+2003/04,Premier League,24,"Tue 10 Feb 2004, 00:00 GMT",Leicester City,LEI,26,Bolton Wanderers,BOL,27,1,1,1,1,D,King Power Stadium,Leicester,307,26674,Uriah Rennie,4572
+2003/04,Premier League,22,"Sat 31 Jan 2004, 00:00 GMT",Leicester City,LEI,26,Aston Villa,AVL,2,0,5,0,0,A,King Power Stadium,Leicester,307,31056,Jeff Winter,4451
+2003/04,Premier League,17,"Fri 26 Dec 2003, 00:00 GMT",Leicester City,LEI,26,Newcastle United,NEW,23,1,1,0,0,D,King Power Stadium,Leicester,307,32148,Chris Foy,4717
+2003/04,Premier League,33,"Sat 24 Apr 2004, 15:00 BST",Leicester City,LEI,26,Manchester City,MCI,11,1,1,0,1,D,King Power Stadium,Leicester,307,31457,Andy D'Urso,4664
+2003/04,Premier League,4,"Mon 15 Sep 2003, 20:00 BST",Leicester City,LEI,26,Leeds United,LEE,9,4,0,2,0,H,King Power Stadium,Leicester,307,30460,Jeff Winter,4602
+2003/04,Premier League,10,"Sun 2 Nov 2003, 16:05 GMT",Leicester City,LEI,26,Blackburn Rovers,BLB,3,2,0,0,0,H,King Power Stadium,Leicester,307,30975,Dermot Gallagher,4651
+2003/04,Premier League,12,"Sat 22 Nov 2003, 00:00 GMT",Leicester City,LEI,26,Charlton Athletic,CHA,31,1,1,1,0,D,King Power Stadium,Leicester,307,30242,Graham Barber,4615
+2003/04,Premier League,20,"Sun 11 Jan 2004, 00:00 GMT",Leicester City,LEI,26,Chelsea,CHE,4,0,4,0,2,A,King Power Stadium,Leicester,307,31547,Uriah Rennie,4603
+2003/04,Premier League,1,"Sat 16 Aug 2003, 15:00 BST",Leicester City,LEI,26,Southampton,SOU,20,2,2,2,0,D,King Power Stadium,Leicester,307,31621,Mike Riley,4757
+2003/04,Premier League,6,"Sat 27 Sep 2003, 00:00 BST",Leicester City,LEI,26,Manchester United,MUN,12,1,4,0,3,A,King Power Stadium,Leicester,307,32044,Graham Poll,4478
+2003/04,Premier League,14,"Sat 6 Dec 2003, 00:00 GMT",Leicester City,LEI,26,Arsenal,ARS,1,1,1,0,0,D,King Power Stadium,Leicester,307,32108,Rob Styles,4708
+2014/15,Premier League,1,"Sat 16 Aug 2014, 15:00 BST",Leicester City,LEI,26,Everton,EVE,7,2,2,1,2,D,King Power Stadium,Leicester,307,31603,Mike Jones,11248
+2014/15,Premier League,3,"Sun 31 Aug 2014, 16:00 BST",Leicester City,LEI,26,Arsenal,ARS,1,1,1,1,1,D,King Power Stadium,Leicester,307,31535,Anthony Taylor,10172
+2014/15,Premier League,5,"Sun 21 Sep 2014, 13:30 BST",Leicester City,LEI,26,Manchester United,MUN,12,5,3,1,2,H,King Power Stadium,Leicester,307,31784,Mark Clattenburg,10216
+2014/15,Premier League,7,"Sat 4 Oct 2014, 15:00 BST",Leicester City,LEI,26,Burnley,BUR,43,2,2,2,1,D,King Power Stadium,Leicester,307,31448,Phil Dowd,10424
+2014/15,Premier League,10,"Sat 1 Nov 2014, 15:00 GMT",Leicester City,LEI,26,West Bromwich Albion,WBA,36,0,1,0,0,A,King Power Stadium,Leicester,307,31819,Stuart Attwell,10344
+2014/15,Premier League,12,"Sat 22 Nov 2014, 15:00 GMT",Leicester City,LEI,26,Sunderland,SUN,29,0,0,0,0,D,King Power Stadium,Leicester,307,31825,Robert Madley,10352
+2014/15,Premier League,14,"Tue 2 Dec 2014, 19:45 GMT",Leicester City,LEI,26,Liverpool,LIV,10,1,3,1,1,A,King Power Stadium,Leicester,307,32000,Lee Mason,9812
+2014/15,Premier League,16,"Sat 13 Dec 2014, 15:00 GMT",Leicester City,LEI,26,Manchester City,MCI,11,0,1,0,1,A,King Power Stadium,Leicester,307,31643,Jonathan Moss,9888
+2014/15,Premier League,18,"Fri 26 Dec 2014, 15:00 GMT",Leicester City,LEI,26,Tottenham Hotspur,TOT,21,1,2,0,1,A,King Power Stadium,Leicester,307,31870,Neil Swarbrick,10056
+2014/15,Premier League,21,"Sat 10 Jan 2015, 15:00 GMT",Leicester City,LEI,26,Aston Villa,AVL,2,1,0,1,0,H,King Power Stadium,Leicester,307,31728,Michael Oliver,10068
+2014/15,Premier League,22,"Sat 17 Jan 2015, 15:00 GMT",Leicester City,LEI,26,Stoke City,STK,42,0,1,0,0,A,King Power Stadium,Leicester,307,31772,Andre Marriner,9960
+2014/15,Premier League,24,"Sat 7 Feb 2015, 15:00 GMT",Leicester City,LEI,26,Crystal Palace,CRY,6,0,1,0,0,A,King Power Stadium,Leicester,307,31695,Lee Mason,11088
+2014/15,Premier League,29,"Sat 14 Mar 2015, 15:00 GMT",Leicester City,LEI,26,Hull City,HUL,41,0,0,0,0,D,King Power Stadium,Leicester,307,31456,Jonathan Moss,10932
+2014/15,Premier League,31,"Sat 4 Apr 2015, 15:00 BST",Leicester City,LEI,26,West Ham United,WHU,25,2,1,1,1,H,King Power Stadium,Leicester,307,31863,Mark Clattenburg,11140
+2014/15,Premier League,33,"Sat 18 Apr 2015, 15:00 BST",Leicester City,LEI,26,Swansea City,SWA,45,2,0,1,0,H,King Power Stadium,Leicester,307,31121,Lee Probert,10796
+2014/15,Premier League,34,"Wed 29 Apr 2015, 19:45 BST",Leicester City,LEI,26,Chelsea,CHE,4,1,3,1,0,A,King Power Stadium,Leicester,307,32021,Mark Clattenburg,10856
+2014/15,Premier League,35,"Sat 2 May 2015, 12:45 BST",Leicester City,LEI,26,Newcastle United,NEW,23,3,0,2,0,H,King Power Stadium,Leicester,307,31576,Mike Dean,10648
+2014/15,Premier League,36,"Sat 9 May 2015, 15:00 BST",Leicester City,LEI,26,Southampton,SOU,20,2,0,2,0,H,King Power Stadium,Leicester,307,31939,Roger East,10756
+2014/15,Premier League,38,"Sun 24 May 2015, 15:00 BST",Leicester City,LEI,26,Queens Park Rangers,QPR,17,5,1,2,0,H,King Power Stadium,Leicester,307,31467,Michael Oliver,10600
+2015/16,Premier League,1,"Sat 8 Aug 2015, 15:00 BST",Leicester City,LEI,26,Sunderland,SUN,29,4,2,3,0,H,King Power Stadium,Leicester,307,32242,Lee Mason,13164
+2015/16,Premier League,3,"Sat 22 Aug 2015, 15:00 BST",Leicester City,LEI,26,Tottenham Hotspur,TOT,21,1,1,0,0,D,King Power Stadium,Leicester,307,31971,Martin Atkinson,14099
+2015/16,Premier League,5,"Sun 13 Sep 2015, 16:00 BST",Leicester City,LEI,26,Aston Villa,AVL,2,3,2,0,1,H,King Power Stadium,Leicester,307,31733,Mike Dean,14059
+2015/16,Premier League,7,"Sat 26 Sep 2015, 15:00 BST",Leicester City,LEI,26,Arsenal,ARS,1,2,5,1,2,A,King Power Stadium,Leicester,307,32047,Craig Pawson,13991
+2015/16,Premier League,10,"Sat 24 Oct 2015, 15:00 BST",Leicester City,LEI,26,Crystal Palace,CRY,6,1,0,0,0,H,King Power Stadium,Leicester,307,31752,Mike Dean,13883
+2015/16,Premier League,12,"Sat 7 Nov 2015, 15:00 GMT",Leicester City,LEI,26,Watford,WAT,33,2,1,0,0,H,King Power Stadium,Leicester,307,32029,Roger East,14755
+2015/16,Premier League,14,"Sat 28 Nov 2015, 17:30 GMT",Leicester City,LEI,26,Manchester United,MUN,12,1,1,1,1,D,King Power Stadium,Leicester,307,32115,Craig Pawson,14723
+2015/16,Premier League,16,"Mon 14 Dec 2015, 20:00 GMT",Leicester City,LEI,26,Chelsea,CHE,4,2,1,1,0,H,King Power Stadium,Leicester,307,32054,Mark Clattenburg,14515
+2015/16,Premier League,19,"Tue 29 Dec 2015, 19:45 GMT",Leicester City,LEI,26,Manchester City,MCI,11,0,0,0,0,D,King Power Stadium,Leicester,307,32072,Craig Pawson,14323
+2015/16,Premier League,20,"Sat 2 Jan 2016, 15:00 GMT",Leicester City,LEI,26,Bournemouth,BOU,127,0,0,0,0,D,King Power Stadium,Leicester,307,32006,Andre Marriner,14299
+2015/16,Premier League,23,"Sat 23 Jan 2016, 15:00 GMT",Leicester City,LEI,26,Stoke City,STK,42,3,0,1,0,H,King Power Stadium,Leicester,307,32018,Mike Dean,11672
+2015/16,Premier League,24,"Tue 2 Feb 2016, 19:45 GMT",Leicester City,LEI,26,Liverpool,LIV,10,2,0,0,0,H,King Power Stadium,Leicester,307,32121,Andre Marriner,11688
+2015/16,Premier League,27,"Sat 27 Feb 2016, 15:00 GMT",Leicester City,LEI,26,Norwich City,NOR,14,1,0,0,0,H,King Power Stadium,Leicester,307,32114,Neil Swarbrick,11496
+2015/16,Premier League,28,"Tue 1 Mar 2016, 19:45 GMT",Leicester City,LEI,26,West Bromwich Albion,WBA,36,2,2,2,1,D,King Power Stadium,Leicester,307,32018,Mark Clattenburg,11444
+2015/16,Premier League,30,"Mon 14 Mar 2016, 20:00 GMT",Leicester City,LEI,26,Newcastle United,NEW,23,1,0,1,0,H,King Power Stadium,Leicester,307,31824,Craig Pawson,11352
+2015/16,Premier League,32,"Sun 3 Apr 2016, 13:30 BST",Leicester City,LEI,26,Southampton,SOU,20,1,0,1,0,H,King Power Stadium,Leicester,307,32071,Michael Oliver,11824
+2015/16,Premier League,34,"Sun 17 Apr 2016, 13:30 BST",Leicester City,LEI,26,West Ham United,WHU,25,2,2,1,0,D,King Power Stadium,Leicester,307,32104,Jonathan Moss,12420
+2015/16,Premier League,35,"Sun 24 Apr 2016, 16:15 BST",Leicester City,LEI,26,Swansea City,SWA,45,4,0,2,0,H,King Power Stadium,Leicester,307,31962,Mark Clattenburg,12348
+2015/16,Premier League,37,"Sat 7 May 2016, 17:30 BST",Leicester City,LEI,26,Everton,EVE,7,3,1,2,0,H,King Power Stadium,Leicester,307,32140,Andre Marriner,12260
+2016/17,Premier League,2,"Sat 20 Aug 2016, 17:30 BST",Leicester City,LEI,26,Arsenal,ARS,1,0,0,0,0,D,King Power Stadium,Leicester,307,32008,Mark Clattenburg,17760
+2016/17,Premier League,3,"Sat 27 Aug 2016, 15:00 BST",Leicester City,LEI,26,Swansea City,SWA,45,2,1,1,0,H,King Power Stadium,Leicester,307,31727,Roger East,17876
+2016/17,Premier League,5,"Sat 17 Sep 2016, 15:00 BST",Leicester City,LEI,26,Burnley,BUR,43,3,0,1,0,H,King Power Stadium,Leicester,307,31916,Anthony Taylor,18116
+2016/17,Premier League,7,"Sun 2 Oct 2016, 14:15 BST",Leicester City,LEI,26,Southampton,SOU,20,0,0,0,0,D,King Power Stadium,Leicester,307,31563,Martin Atkinson,18444
+2016/17,Premier League,9,"Sat 22 Oct 2016, 15:00 BST",Leicester City,LEI,26,Crystal Palace,CRY,6,3,1,1,0,H,King Power Stadium,Leicester,307,31969,Michael Oliver,18672
+2016/17,Premier League,11,"Sun 6 Nov 2016, 16:30 GMT",Leicester City,LEI,26,West Bromwich Albion,WBA,36,1,2,0,0,A,King Power Stadium,Leicester,307,31879,Craig Pawson,19123
+2016/17,Premier League,13,"Sat 26 Nov 2016, 15:00 GMT",Leicester City,LEI,26,Middlesbrough,MID,13,2,2,1,1,D,King Power Stadium,Leicester,307,32058,Lee Mason,19408
